@@ -1,0 +1,2838 @@
+{
+    "y4U-kHdXgz0": {
+        "Questions": [
+            {
+                "UID": 4000,
+                "Timestamp": "1:01",
+                "Question type": "Contextual Reasoning",
+                "Key words": "Object counting, Cigarette",
+                "Question": "From the moment the man in the grey suit with a hat appeared until 1:01 of the video, how many cigarettes did he smoke in total?",
+                "Answer": "The man smoked three cigarettes in total."
+            },
+            {
+                "UID": 4001,
+                "Timestamp": "1:17",
+                "Question type": "Paradoxical Reasoning",
+                "Key words": "Object appearance, Ball, Sleight of hand",
+                "Question": "At 1:17 of the video, why are people surprised?",
+                "Answer": "People are surprised because the man conjured a red ball out of the smoke he exhaled."
+            },
+            {
+                "UID": 4002,
+                "Timestamp": "1:22",
+                "Question type": "Contextual Reasoning",
+                "Key words": "Ball, Object location",
+                "Question": "At 1:22 of the video, is the ball in the man's left hand or right hand (left and right are from the magician's perspective)?",
+                "Answer": "The ball is in the man's left hand."
+            },
+            {
+                "UID": 4003,
+                "Timestamp": "1:25",
+                "Question type": "Paradoxical Reasoning",
+                "Key words": "Ball, Object transformation",
+                "Question": "At 1:25 of the video, why are people surprised?",
+                "Answer": "People are surprised because there was smoke coming from the man's hand, and the man made the ball instantly move from his left hand to his right hand."
+            },
+            {
+                "UID": 4004,
+                "Timestamp": "1:37",
+                "Question type": "Contextual Reasoning",
+                "Key words": "Ball, Object location",
+                "Question": "At 1:37 of the video, where is the red ball?",
+                "Answer": "The red ball is inside the man's suit vest."
+            },
+            {
+                "UID": 4005,
+                "Timestamp": "1:48",
+                "Question type": "Adversarial, False Implication",
+                "Key words": "Ball, Object location",
+                "Question": "At 1:48 of the video, is the ball in the man's left hand? Give me your answer and reason.",
+                "Answer": "No, the ball is in the man's right hand."
+            },
+            {
+                "UID": 4006,
+                "Timestamp": "2:02",
+                "Question type": "Paradoxical Reasoning",
+                "Key words": "Ball, Object transformation",
+                "Question": "At 2:02 of the video, why are people surprised?",
+                "Answer": "People are surprised because the red ball turned into a lemon."
+            },
+            {
+                "UID": 4007,
+                "Timestamp": "2:24",
+                "Question type": "Adversarial, False Implication",
+                "Key words": "Object location",
+                "Question": "At 2:24 of the video, the man no longer has his lighter in hand, is it in the right pocket of his suit jacket? Give me your answer and reason.",
+                "Answer": "No, it is in the left pocket of his suit jacket."
+            },
+            {
+                "UID": 4008,
+                "Timestamp": "2:39",
+                "Question type": "Contextual Reasoning",
+                "Key words": "Object counting, Cigarette",
+                "Question": "At 2:39 of the video, how many cigarettes does the man have on him now and where are they?",
+                "Answer": "The man has a cigarette in his left ear, and another one in his left suit vest pocket."
+            }
+        ],
+        "metadata": {
+            "start": "0:00"
+        }
+    },
+    "SCFXV6o7cro": {
+        "Questions": [
+            {
+                "UID": 4009,
+                "Timestamp": "1:33",
+                "Question type": "Instant Reasoning",
+                "Key words": "Card suit, Card rank",
+                "Question": "At 1:33 of the video, what is the rank and suit of the card which is far-right (top) in this stack in the image?",
+                "Answer": "The card is the Eight of Clubs."
+            },
+            {
+                "UID": 4010,
+                "Timestamp": "1:33",
+                "Question type": "Adversarial, False Implication",
+                "Key words": "Card suit, Card rank",
+                "Question": "At 1:33 of the video, is the card which is far-right (top) in this stack an Eight of Spades in the image? Give me your answer and reason.",
+                "Answer": "No, it is the Eight of Clubs."
+            },
+            {
+                "UID": 4011,
+                "Timestamp": "3:12",
+                "Question type": "Temporal Summarization",
+                "Key words": "Card shuffle, Pattern summarization",
+                "Question": "From 2:44 to 3:12 of the video, what is the magician having the two participants do?",
+                "Answer": "They flipped some of the cards face up and face down, then shuffled them together."
+            },
+            {
+                "UID": 4012,
+                "Timestamp": "3:38",
+                "Question type": "Adversarial, False Implication",
+                "Key words": "Card suit, Card rank",
+                "Question": "At 3:38 of the video, is the blond man in the gray suit holding an Ace of Spades? Give me your answer and reason.",
+                "Answer": "No, he is holding an Ace of Clubs."
+            },
+            {
+                "UID": 4013,
+                "Timestamp": "3:37",
+                "Question type": "Instant Reasoning",
+                "Key words": "Card suit, Card rank",
+                "Question": "At 3:37 of the video, what card is the blond man in the gray suit holding?",
+                "Answer": "The card is the Ace of Clubs."
+            },
+            {
+                "UID": 4014,
+                "Timestamp": "3:49",
+                "Question type": "Instant Reasoning",
+                "Key words": "Card suit, Card rank",
+                "Question": "At 3:49 of the video, what card is the man with long black hair in the gray suit holding?",
+                "Answer": "The card is the Three of Clubs."
+            },
+            {
+                "UID": 4015,
+                "Timestamp": "4:26",
+                "Question type": "Instant Reasoning",
+                "Key words": "Object counting",
+                "Question": "At 4:26 of the video, how many cards are faced down on the table?",
+                "Answer": "There are two cards faced down on the table."
+            },
+            {
+                "UID": 4016,
+                "Timestamp": "4:27",
+                "Question type": "Adversarial, False Implication",
+                "Key words": "Object counting",
+                "Question": "At 4:27 of the video, are there three cards faced down on the table? Give me your answer and reason.",
+                "Answer": "No, there are only two cards facing down on the table."
+            },
+            {
+                "UID": 4017,
+                "Timestamp": "4:26",
+                "Question type": "Paradoxical Reasoning",
+                "Key words": "Card, Object counting",
+                "Question": "At 4:26 of the video, why are people surprised?",
+                "Answer": "People are surprised because the cards were alternating between facing up and down, but now only two cards are face down."
+            },
+            {
+                "UID": 4018,
+                "Timestamp": "4:30",
+                "Question type": "Paradoxical Reasoning",
+                "Key words": "Card, Object transformation",
+                "Question": "At 4:30 of the video, why are people surprised?",
+                "Answer": "People are surprised because the two cards facing down are the two cards which the magician had the participants choose."
+            },
+            {
+                "UID": 4019,
+                "Timestamp": "4:40",
+                "Question type": "Temporal Summarization",
+                "Key words": "Card, Object counting",
+                "Question": "From the start of the magic trick to 4:40 of the video, what is the overall outcome of the card trick?",
+                "Answer": "After the two participants choose cards and the deck is mixed face up and face down, the trick ends with only two cards face down, and they are the cards chosen by the participants."
+            }
+        ],
+        "metadata": {
+            "start": "1:20"
+        }
+    },
+    "YaDnY5q_mxg": {
+        "Questions": [
+            {
+                "UID": 4020,
+                "Timestamp": "1:35",
+                "Question type": "Instant Reasoning",
+                "Key words": "Object counting",
+                "Question": "At 1:35 of the video, how many shells are on the table?",
+                "Answer": "There are three shells on the table."
+            },
+            {
+                "UID": 4021,
+                "Timestamp": "1:48",
+                "Question type": "Adversarial, False Implication",
+                "Key words": "Object counting",
+                "Question": "At 1:48 of the video, are there four shells on the table? Give me your answer and reason.",
+                "Answer": "No, there are only three shells on the table."
+            },
+            {
+                "UID": 4022,
+                "Timestamp": "2:28",
+                "Question type": "Contextual Reasoning",
+                "Key words": "Object location",
+                "Question": "At 2:28 of the video, the pea is under which shell?",
+                "Answer": "The pea is under the middle shell."
+            },
+            {
+                "UID": 4023,
+                "Timestamp": "2:26",
+                "Question type": "Adversarial, False Implication",
+                "Key words": "Object location",
+                "Question": "At 2:26 of the video, the pea is under the right shell? Give me your answer and reason.",
+                "Answer": "No, the pea is under the middle shell."
+            },
+            {
+                "UID": 4024,
+                "Timestamp": "2:38",
+                "Question type": "Contextual Reasoning",
+                "Key words": "Object location",
+                "Question": "At 2:38 of the video, the pea is under which shell in the image?",
+                "Answer": "The pea is under the right shell in the image."
+            },
+            {
+                "UID": 4025,
+                "Timestamp": "2:48",
+                "Question type": "Paradoxical Reasoning",
+                "Key words": "Object location",
+                "Question": "At 2:48 of the video, why are the people surprised? Please describe the surprise in the image",
+                "Answer": "The people are surprised because the pea should be under the right shell, but it is under the left shell in the image."
+            },
+            {
+                "UID": 4026,
+                "Timestamp": "3:18",
+                "Question type": "Instant Reasoning",
+                "Key words": "Object location",
+                "Question": "At 3:18 of the video, the pea is under which shell?",
+                "Answer": "The pea is under the middle shell, which is the shell with a green tag on it."
+            },
+            {
+                "UID": 4027,
+                "Timestamp": "3:20",
+                "Question type": "Contextual Reasoning",
+                "Key words": "Object location",
+                "Question": "At 3:20 of the video, where should be the pea in the image, and why?",
+                "Answer": "The pea should be under the left shell in the image. Because the left shell now has a green tag on it."
+            },
+            {
+                "UID": 4028,
+                "Timestamp": "3:28",
+                "Question type": "Paradoxical Reasoning",
+                "Key words": "Object location",
+                "Question": "At 3:28 of the video, why are people surprised?",
+                "Answer": "People are surprised because the pea should be under the left shell in the image, but the magician moved the green tag from the left shell to the right shell, and the pea is under the right shell in the image now."
+            },
+            {
+                "UID": 4029,
+                "Timestamp": "3:30",
+                "Question type": "Temporal Summarization",
+                "Key words": "Object location, Pattern summarization",
+                "Question": "From 3:03 to 3:30 of the video, can you summarize the relationship between the green tag and the pea?",
+                "Answer": "The pea is always under the shell with the green tag on it."
+            },
+            {
+                "UID": 4030,
+                "Timestamp": "3:47",
+                "Question type": "Contextual Reasoning",
+                "Key words": "Object location",
+                "Question": "At 3:47 of the video, where is the pea?",
+                "Answer": "The pea is under the shell beneath the transparent cup."
+            },
+            {
+                "UID": 4031,
+                "Timestamp": "4:08",
+                "Question type": "Contextual Reasoning",
+                "Key words": "Object location",
+                "Question": "At 4:08 of the video, where is the pea?",
+                "Answer": "The pea is in the shell under the transparent cup beneath the stainless steel cup."
+            },
+            {
+                "UID": 4032,
+                "Timestamp": "4:56",
+                "Question type": "Paradoxical Reasoning",
+                "Key words": "Object disappearance",
+                "Question": "At 4:56 of the video, why are people surprised?",
+                "Answer": "People are surprised because the pea should be in the shell under the transparent cup beneath the stainless steel cup, but it is not there."
+            },
+            {
+                "UID": 4033,
+                "Timestamp": "5:44",
+                "Question type": "Paradoxical Reasoning",
+                "Key words": "Object appearance",
+                "Question": "At 5:44 of the video, why are people surprised?",
+                "Answer": "People are surprised because there should be nothing under the stainless steel cup, but there is a whole (complete) shell under it."
+            }
+        ],
+        "metadata": {
+            "start": "1:25"
+        }
+    },
+    "mBzaLxaiBhA": {
+        "Questions": [
+            {
+                "UID": 4034,
+                "Timestamp": "3:41",
+                "Question type": "Instant Reasoning",
+                "Key words": "Object counting, Coin",
+                "Question": "At 3:41 of the video, how many silver coins are on the table?",
+                "Answer": "There are four silver coins on the table."
+            },
+            {
+                "UID": 4035,
+                "Timestamp": "3:41",
+                "Question type": "Adversarial, False Implication",
+                "Key words": "Object counting, Coin",
+                "Question": "At 3:41 of the video, are there five coins on the table? Give me your answer and reason.",
+                "Answer": "No, there are four silver coins on the table."
+            },
+            {
+                "UID": 4036,
+                "Timestamp": "4:42",
+                "Question type": "Contextual Reasoning",
+                "Key words": "Object location, Coin",
+                "Question": "At 4:42 of the video, there are only three silver coins on the table, where is the fourth one?",
+                "Answer": "The fourth silver coin is in the magician's left hand."
+            },
+            {
+                "UID": 4037,
+                "Timestamp": "4:50",
+                "Question type": "Paradoxical Reasoning",
+                "Key words": "Object location, Coin",
+                "Question": "At 4:50 of the video, why are people surprised?",
+                "Answer": "People are surprised because there should be one silver coin in the magician's left hand, but his hand is empty."
+            },
+            {
+                "UID": 4038,
+                "Timestamp": "5:03",
+                "Question type": "Adversarial, False Implication",
+                "Key words": "Object counting, Coin",
+                "Question": "At 5:03 of the video, are there three coins on the table? Give me your answer and reason.",
+                "Answer": "No, there are only two coins on the table."
+            },
+            {
+                "UID": 4039,
+                "Timestamp": "5:11",
+                "Question type": "Contextual Reasoning",
+                "Key words": "Object counting, Coin",
+                "Question": "At 5:11 of the video, how many coins are on the table?",
+                "Answer": "There are two coins on the table."
+            },
+            {
+                "UID": 4040,
+                "Timestamp": "5:26",
+                "Question type": "Paradoxical Reasoning",
+                "Key words": "Object location, Coin",
+                "Question": "At 5:26 of the video, why are people surprised?",
+                "Answer": "People are surprised because the magician made the coin pass through the back of his hand to his palm."
+            },
+            {
+                "UID": 4041,
+                "Timestamp": "5:34",
+                "Question type": "Paradoxical Reasoning",
+                "Key words": "Object disappearance, Coin",
+                "Question": "At 5:34 of the video, why are people surprised?",
+                "Answer": "People are surprised because the magician made the coin disappear in his palm."
+            },
+            {
+                "UID": 4042,
+                "Timestamp": "5:44",
+                "Question type": "Contextual Reasoning",
+                "Key words": "Object location, Coin",
+                "Question": "At 5:44 of the video, where should the coin be?",
+                "Answer": "The coin should be in the magician's right hand."
+            },
+            {
+                "UID": 4043,
+                "Timestamp": "5:50",
+                "Question type": "Contextual Reasoning",
+                "Key words": "Object counting, Coin",
+                "Question": "Up to 5:50 of the video, how many coins should be left on the table? Why?",
+                "Answer": "There should be zero coins on the table because the magician made all four coins disappear."
+            },
+            {
+                "UID": 4044,
+                "Timestamp": "6:03",
+                "Question type": "Paradoxical Reasoning",
+                "Key words": "Object appearance, Coin",
+                "Question": "At 6:03 of the video, why are people surprised?",
+                "Answer": "People are surprised because they thought the four coins had disappeared, but they were actually stacked inside the black cylinder on the table."
+            },
+            {
+                "UID": 4045,
+                "Timestamp": "6:15",
+                "Question type": "Contextual Reasoning",
+                "Key words": "Object location, Coin",
+                "Question": "At 6:15 of the video, how many coins are still under the black cylinder on the table?",
+                "Answer": "There are three coins still under the black cylinder on the table."
+            },
+            {
+                "UID": 4046,
+                "Timestamp": "6:15",
+                "Question type": "Adversarial, False Implication",
+                "Key words": "Object location, Coin",
+                "Question": "At 6:15 of the video, are there four coins still under the black cylinder on the table? Give me your answer and reason.",
+                "Answer": "No, there are three coins under the black cylinder on the table."
+            },
+            {
+                "UID": 4047,
+                "Timestamp": "6:29",
+                "Question type": "Contextual Reasoning",
+                "Key words": "Object location, Coin",
+                "Question": "At 6:29 of the video, how many coins are still under the black cylinder on the table?",
+                "Answer": "There are three coins still under the black cylinder on the table."
+            },
+            {
+                "UID": 4048,
+                "Timestamp": "6:43",
+                "Question type": "Paradoxical Reasoning",
+                "Key words": "Object transformation, Coin",
+                "Question": "At 6:43 of the video, why are people surprised?",
+                "Answer": "People are surprised because there should only be one coin in the magician's hand and three coins under the black cylinder, but all four coins were in the magician's hand."
+            }
+        ],
+        "metadata": {
+            "start": "3:19"
+        }
+    },
+    "gAfWL8rTTxU": {
+        "Questions": [
+            {
+                "UID": 4049,
+                "Timestamp": "1:07",
+                "Question type": "Contextual Reasoning",
+                "Key words": "Card suit, Card rank",
+                "Question": "At 1:07 of the video, on which card did the man and woman draw something?",
+                "Answer": "They drew on the King of Clubs."
+            },
+            {
+                "UID": 4050,
+                "Timestamp": "1:49",
+                "Question type": "Paradoxical Reasoning",
+                "Key words": "Card, Card control",
+                "Question": "At 1:49 of the video, why are people surprised?",
+                "Answer": "People are surprised because the magician let the participant call stop at any point during the shuffle, and at that exact moment, the card in his hand was the one that had been drawn on earlier."
+            },
+            {
+                "UID": 4051,
+                "Timestamp": "2:00",
+                "Question type": "Paradoxical Reasoning",
+                "Key words": "Card, Card control",
+                "Question": "At 2:00 of the video, why are people surprised?",
+                "Answer": "People are surprised because the magician put the card with drawing at the top of the stack on the table, but the next card in his hand is again the card with drawing on it."
+            },
+            {
+                "UID": 4052,
+                "Timestamp": "2:06",
+                "Question type": "Contextual Reasoning",
+                "Key words": "Card, Card suit, Card rank",
+                "Question": "At 2:06 of the video, what is the card on the top of the stack on the table?",
+                "Answer": "The card on the top of the stack on the table is the King of Clubs."
+            },
+            {
+                "UID": 4053,
+                "Timestamp": "2:35",
+                "Question type": "Paradoxical Reasoning",
+                "Key words": "Card, Card control",
+                "Question": "At 2:35 of the video, why are people surprised?",
+                "Answer": "People are surprised because the magician placed the drawn-on King of Clubs on the table, and the card in his hand was the Six of Hearts, but in an instant the King of Clubs was back in his hand."
+            },
+            {
+                "UID": 4054,
+                "Timestamp": "3:25",
+                "Question type": "Instant Reasoning",
+                "Key words": "Card, Object counting",
+                "Question": "At 3:25 of the video, how many cards are in the magician's left hand?",
+                "Answer": "There is one card in the magician's left hand."
+            },
+            {
+                "UID": 4055,
+                "Timestamp": "3:25",
+                "Question type": "Adversarial, False Implication",
+                "Key words": "Card, Object counting",
+                "Question": "At 3:25 of the video, are there three cards in the magician's left hand? Give me your answer and reason.",
+                "Answer": "No, there is one card in the magician's left hand."
+            },
+            {
+                "UID": 4056,
+                "Timestamp": "3:30",
+                "Question type": "Instant Reasoning",
+                "Key words": "Card, Object counting",
+                "Question": "At 3:30 of the video, how many cards are in the magician's left hand?",
+                "Answer": "There are four cards in the magician's left hand."
+            },
+            {
+                "UID": 4057,
+                "Timestamp": "3:30",
+                "Question type": "Adversarial, False Implication",
+                "Key words": "Card, Object counting",
+                "Question": "At 3:30 of the video, are there three cards in the magician's left hand? Give me your answer and reason.",
+                "Answer": "No, there are four cards in the magician's left hand."
+            },
+            {
+                "UID": 4058,
+                "Timestamp": "3:30",
+                "Question type": "Paradoxical Reasoning",
+                "Key words": "Card, Object transformation",
+                "Question": "At 3:30 of the video, why are people surprised?",
+                "Answer": "People are surprised because the magician originally had only one card in his left hand, but in an instant three more cards transferred from his right hand to his left hand."
+            },
+            {
+                "UID": 4059,
+                "Timestamp": "3:35",
+                "Question type": "Contextual Reasoning",
+                "Key words": "Card, Object identification",
+                "Question": "At 3:35 of the video, there are four cards in the magician's left hand, three are faced up and one is faced down, what are the rank and suit of the four cards?",
+                "Answer": "The three faced up cards are the King of Spades, the King of Diamonds, the King of Hearts, and the faced down card is the King of Clubs with drawings on it."
+            },
+            {
+                "UID": 4060,
+                "Timestamp": "4:04",
+                "Question type": "Contextual Reasoning",
+                "Key words": "Card, Object counting",
+                "Question": "From 3:41 to 4:04 of the video, how many times did the participant point to the deck to select a card?",
+                "Answer": "The participant pointed to the deck four times to select a card."
+            },
+            {
+                "UID": 4061,
+                "Timestamp": "4:04",
+                "Question type": "Paradoxical Reasoning",
+                "Key words": "Card, Object transformation",
+                "Question": "At 4:04 of the video, why are people surprised?",
+                "Answer": "People are surprised because no matter when the participant points to a card and tells the magician to stop as he goes through the deck, that card always turns out to be the King of Clubs which was drawn."
+            },
+            {
+                "UID": 4062,
+                "Timestamp": "4:09",
+                "Question type": "Paradoxical Reasoning",
+                "Key words": "Card, Object location",
+                "Question": "At 4:09 of the video, why are people surprised?",
+                "Answer": "People are surprised because the King of Clubs with drawing on it should be in the magician's hand, but he pulled the card out of his pants pocket."
+            },
+            {
+                "UID": 4063,
+                "Timestamp": "4:12",
+                "Question type": "Contextual Reasoning",
+                "Key words": "Card, Object location",
+                "Question": "At 4:12 of the video, where is the King of Clubs with drawing on it?",
+                "Answer": "The King of Clubs with drawing on it is under the magician's left hand."
+            },
+            {
+                "UID": 4064,
+                "Timestamp": "4:15",
+                "Question type": "Paradoxical Reasoning",
+                "Key words": "Card, Object location, Object transformation",
+                "Question": "At 4:15 of the video, why are people surprised?",
+                "Answer": "People are surprised because the King of Clubs with drawing on it should be under the magician's left hand, but when he lifted his left hand, there was nothing underneath."
+            },
+            {
+                "UID": 4065,
+                "Timestamp": "6:56",
+                "Question type": "Temporal Summarization",
+                "Key words": "Card, Pattern summarization",
+                "Question": "From 5:50 to 6:56 of the video, summarize what the magician is doing and what is he trying to show to the people?",
+                "Answer": "The magician randomly divided the deck into four piles. In each pile, whichever face-down card he pointed to turned out to be a King."
+            },
+            {
+                "UID": 4066,
+                "Timestamp": "7:02",
+                "Question type": "Contextual Reasoning",
+                "Key words": "Card, Object identification",
+                "Question": "At 7:02 of the video, what should be the card he picked from the pile based on previous patterns and what is the actual card?",
+                "Answer": "Based on previous patterns, the card he picked from the pile should be the King of Clubs, but the actual card is the Seven of Diamonds."
+            },
+            {
+                "UID": 4067,
+                "Timestamp": "7:47",
+                "Question type": "Paradoxical Reasoning",
+                "Key words": "Card, Object transformation",
+                "Question": "At 7:47 of the video, why are people surprised?",
+                "Answer": "People are surprised because the magician let the participant choose a random face-down card from the pile, but it turned out to be the King of Clubs with the drawing on it."
+            }
+        ],
+        "metadata": {
+            "start": "0:20"
+        }
+    },
+    "5_KcQt0z-eE": {
+        "Questions": [
+            {
+                "UID": 4068,
+                "Timestamp": "1:58",
+                "Question type": "Contextual Reasoning",
+                "Key words": "Card, Object counting",
+                "Question": "At 1:58 of the video, there are two piles of card on the table, how many cards are in each pile? Please describe your answer from the magician's perspective.",
+                "Answer": "There are four cards in the left pile and ten cards in the right pile from the magician's perspective."
+            },
+            {
+                "UID": 4069,
+                "Timestamp": "2:05",
+                "Question type": "Paradoxical Reasoning",
+                "Key words": "Card",
+                "Question": "At 2:05 of the video, why are people surprised?",
+                "Answer": "People are surprised because the pile of four cards was supposed to be random, but it turned out to contain the four tens of different suits."
+            },
+            {
+                "UID": 4070,
+                "Timestamp": "2:25",
+                "Question type": "Contextual Reasoning",
+                "Key words": "Card, Object counting",
+                "Question": "From 2:21 to 2:25 of the video, the woman counted the number of cards in the right pile, how many cards are in that pile?",
+                "Answer": "There are seven cards in that pile."
+            },
+            {
+                "UID": 4071,
+                "Timestamp": "2:36",
+                "Question type": "Paradoxical Reasoning",
+                "Key words": "Card, Object transformation",
+                "Question": "At 2:36 of the video, why are people surprised?",
+                "Answer": "People are surprised because the pile in the middle of the table originally consisted of four tens, but after the pile on the right changed from ten cards to seven cards, the four tens in the middle turned into four sevens."
+            },
+            {
+                "UID": 4072,
+                "Timestamp": "2:40",
+                "Question type": "Temporal Summarization",
+                "Key words": "Card, Pattern summarization,",
+                "Question": "From 1:45 to 2:40 of the video, can you summarize the pattern between the two piles of cards, refer to them as the right pile, and the left (middle) pile? (left and right here are from the magician's perspective)",
+                "Answer": "The left (middle) pile always has four cards, and the rank is determined by the number of cards in the right pile."
+            },
+            {
+                "UID": 4073,
+                "Timestamp": "4:06",
+                "Question type": "Contextual Reasoning",
+                "Key words": "Card, Object counting",
+                "Question": "At 4:06 of the video, how many cards are on the table?",
+                "Answer": "There are three cards on the table."
+            },
+            {
+                "UID": 4074,
+                "Timestamp": "4:31",
+                "Question type": "Instant Reasoning",
+                "Key words": "Card suit, Card rank",
+                "Question": "At 4:31 of the video, what is the rank and suit of the card picked by the participant?",
+                "Answer": "The card is the Seven of Spades."
+            },
+            {
+                "UID": 4075,
+                "Timestamp": "4:31",
+                "Question type": "Adversarial, False Implication",
+                "Key words": "Card suit, Card rank",
+                "Question": "At 4:31 of the video, is the card picked by the participant the Eight of Spades? Give me your answer and reason.",
+                "Answer": "No, the card picked by the participant is the Seven of Spades."
+            },
+            {
+                "UID": 4076,
+                "Timestamp": "4:40",
+                "Question type": "Paradoxical Reasoning",
+                "Key words": "Card, Object transformation",
+                "Question": "At 4:40 of the video, why are people surprised?",
+                "Answer": "People are surprised because the card picked by the participant is the Seven of Spades, and the three cards randomly chosen and faced down on the table are the Sevens of the other three suits."
+            },
+            {
+                "UID": 4077,
+                "Timestamp": "6:56",
+                "Question type": "Contextual Reasoning",
+                "Key words": "Card, Object counting",
+                "Question": "At 6:56 of the video, how many cards are on the table?",
+                "Answer": "There are two cards on the table."
+            }
+        ],
+        "metadata": {
+            "start": "1:05"
+        }
+    },
+    "9I1_-0ufkYM": {
+        "Questions": [
+            {
+                "UID": 4078,
+                "Timestamp": "1:55",
+                "Question type": "Instant Reasoning",
+                "Key words": "Card",
+                "Question": "At 1:55 of the video, what color is the back of the card inside the transparent box in the magician's hand?",
+                "Answer": "It is a purple card."
+            },
+            {
+                "UID": 4079,
+                "Timestamp": "1:55",
+                "Question type": "Adversarial, False Implication",
+                "Key words": "Card",
+                "Question": "At 1:55 of the video, is the color of the back of the card inside the transparent box red? Give me your answer and reason.",
+                "Answer": "No, the color of the back of the card inside the transparent box is purple."
+            },
+            {
+                "UID": 4080,
+                "Timestamp": "2:31",
+                "Question type": "Contextual Reasoning",
+                "Key words": "Match, Object counting",
+                "Question": "At 2:31 of the video, how many matches are in the matchbox?",
+                "Answer": "There is one match in the matchbox."
+            },
+            {
+                "UID": 4081,
+                "Timestamp": "2:31",
+                "Question type": "Adversarial, False Implication",
+                "Key words": "Match, Object counting",
+                "Question": "At 2:31 of the video, is the matchbox empty? Give me your answer and reason.",
+                "Answer": "No, there is one match in the matchbox."
+            },
+            {
+                "UID": 4082,
+                "Timestamp": "2:37",
+                "Question type": "Contextual Reasoning",
+                "Key words": "Match, Object location",
+                "Question": "At 2:37 of the video, where is the matchbox from the magician's perspective?",
+                "Answer": "The matchbox is with the participant on his left."
+            },
+            {
+                "UID": 4083,
+                "Timestamp": "4:20",
+                "Question type": "Contextual Reasoning",
+                "Key words": "Card, Object counting",
+                "Question": "At 4:20 of the video, there are two card box on the table, how many cards are in each box?",
+                "Answer": "There is one card in each box."
+            },
+            {
+                "UID": 4084,
+                "Timestamp": "5:42",
+                "Question type": "Paradoxical Reasoning",
+                "Key words": "Card, Object transformation",
+                "Question": "At 5:42 of the video, why are people surprised?",
+                "Answer": "People are surprised because the two cards randomly picked by the two participants from two decks are both the King of Clubs."
+            },
+            {
+                "UID": 4085,
+                "Timestamp": "6:14",
+                "Question type": "Paradoxical Reasoning",
+                "Key words": "Card, Match, Object transformation",
+                "Question": "At 6:14 of the video, why are people surprised?",
+                "Answer": "People are surprised because when the magician poured the card out of the box, it turned into a match."
+            },
+            {
+                "UID": 4086,
+                "Timestamp": "6:30",
+                "Question type": "Paradoxical Reasoning",
+                "Key words": "Card, Match, Object transformation",
+                "Question": "At 6:30 of the video, why are people surprised?",
+                "Answer": "People are surprised because when there should be one match inside the matchbox but it turned out to be a card."
+            }
+        ],
+        "metadata": {
+            "start": "1:50"
+        }
+    },
+    "0CJ2xkEJUuQ": {
+        "Questions": [
+            {
+                "UID": 4087,
+                "Timestamp": "1:37",
+                "Question type": "Instant Reasoning",
+                "Key words": "Card, Card suit, Card rank",
+                "Question": "At 1:37 of the video, what is the rank and suit of the card picked by the woman?",
+                "Answer": "The card is the Five of Hearts."
+            },
+            {
+                "UID": 4088,
+                "Timestamp": "2:40",
+                "Question type": "Temporal Summarization",
+                "Key words": "Card, Pattern summarization",
+                "Question": "From 1:30 to 2:40 of the video, what is the magician asking the participant to do?",
+                "Answer": "The magician is asking each participant to pick a card from the deck, sign (draw or write) on it, and put it back randomly in the deck."
+            },
+            {
+                "UID": 4089,
+                "Timestamp": "3:50",
+                "Question type": "Paradoxical Reasoning",
+                "Key words": "Card, Object transformation",
+                "Question": "At 3:50 of the video, why are people surprised?",
+                "Answer": "People are surprised because the card picked by the male participant was put back in the deck, but the magician took it from his pants' back pocket."
+            },
+            {
+                "UID": 4090,
+                "Timestamp": "3:50",
+                "Question type": "Adversarial, False Implication",
+                "Key words": "Card, Object transformation",
+                "Question": "At 3:50 of the video, is the card picked by the male participant the Eight of Diamonds? Give me your answer and reason.",
+                "Answer": "No, the card picked by the male participant is the Eight of Hearts."
+            },
+            {
+                "UID": 4091,
+                "Timestamp": "4:50",
+                "Question type": "Paradoxical Reasoning",
+                "Key words": "Card, Object transformation",
+                "Question": "At 4:50 of the video, why are people surprised?",
+                "Answer": "People are surprised because the card picked by the female participant was put back in the deck, the magician dropped the deck on the floor, but the card was in his shirt's pocket."
+            }
+        ],
+        "metadata": {
+            "start": "1:20"
+        }
+    },
+    "uqMj-isIjAQ": {
+        "Questions": [
+            {
+                "UID": 4092,
+                "Timestamp": "1:33",
+                "Question type": "Instant Reasoning",
+                "Key words": "Card, Object counting",
+                "Question": "At 1:33 of the video, how many cards are on the table?",
+                "Answer": "There are 4 cards on the table."
+            },
+            {
+                "UID": 4093,
+                "Timestamp": "1:40",
+                "Question type": "Adversarial, False Implication",
+                "Key words": "Card, Object counting",
+                "Question": "At 1:40 of the video, are there 3 cards on the table? Give me your answer and reason.",
+                "Answer": "No, there are 4 cards on the table."
+            },
+            {
+                "UID": 4094,
+                "Timestamp": "1:51",
+                "Question type": "Instant Reasoning",
+                "Key words": "Object identification",
+                "Question": "At 1:51 of the video, what words are on the blue bag?",
+                "Answer": "The words on the blue bag are 'MASTER MAGICIAN'."
+            },
+            {
+                "UID": 4095,
+                "Timestamp": "2:36",
+                "Question type": "Instant Reasoning",
+                "Key words": "Card, Object identification",
+                "Question": "At 2:36 of the video, what are the four cards on the middle of the table?",
+                "Answer": "The cards on the table are the Kings of Spades, Hearts, Clubs and Diamonds."
+            },
+            {
+                "UID": 4096,
+                "Timestamp": "2:36",
+                "Question type": "Adversarial, False Implication",
+                "Key words": "Card, Object identification",
+                "Question": "At 2:36 of the video, are there four queens on the middle of the table? Give me your answer and reason.",
+                "Answer": "No, there are four kings on the table."
+            },
+            {
+                "UID": 4097,
+                "Timestamp": "3:40",
+                "Question type": "Paradoxical Reasoning",
+                "Key words": "Card",
+                "Question": "At 3:40 of the video, why are people surprised?",
+                "Answer": "People are surprised because the card inside the blue shoe in the blue bag has the same suit as the card the participant randomly took out."
+            },
+            {
+                "UID": 4098,
+                "Timestamp": "5:48",
+                "Question type": "Contextual Reasoning",
+                "Key words": "Card, Pattern summarization",
+                "Question": "At 5:48 of the video, what pattern is there in the arrangement of the cards on the table?",
+                "Answer": "There are four face-up Kings on the table. Under each King, there is one face-down card, and below that is a stack of face-down cards."
+            },
+            {
+                "UID": 4099,
+                "Timestamp": "6:05",
+                "Question type": "Paradoxical Reasoning",
+                "Key words": "Card",
+                "Question": "At 6:05 of the video, why are people surprised?",
+                "Answer": "People are surprised because for each group, the top card of that face-down stack is an Ace, and its suit matches the King in that group."
+            },
+            {
+                "UID": 4100,
+                "Timestamp": "6:16",
+                "Question type": "Paradoxical Reasoning",
+                "Key words": "Card",
+                "Question": "At 6:16 of the video, why are people surprised?",
+                "Answer": "People are surprised because, in each group, the face-down card beneath the King is revealed to be a Queen of the matching suit."
+            },
+            {
+                "UID": 4101,
+                "Timestamp": "6:16",
+                "Question type": "Temporal Summarization",
+                "Key words": "Card, Pattern summarization",
+                "Question": "At 6:16 of the video, what is the pattern of the cards on the table?",
+                "Answer": "There are four face-up Kings on the table, above each King, there is an Ace of the corresponding suit, and below each King there is a Queen of the corresponding suit."
+            },
+            {
+                "UID": 4102,
+                "Timestamp": "6:16",
+                "Question type": "Adversarial, False Implication",
+                "Key words": "Card, Pattern summarization",
+                "Question": "At 6:16 of the video, are there four Jokers on the table? Give me your answer and reason.",
+                "Answer": "No, there are four Queens, four Kings and four Aces on the table."
+            },
+            {
+                "UID": 4103,
+                "Timestamp": "6:25",
+                "Question type": "Paradoxical Reasoning",
+                "Key words": "Card",
+                "Question": "At 6:25 of the video, why are people surprised?",
+                "Answer": "People are surprised because the magician had four poker cards in hand, and when he turned them over, there were words on them: 'Master Of The Mind'."
+            },
+            {
+                "UID": 4104,
+                "Timestamp": "6:40",
+                "Question type": "Paradoxical Reasoning",
+                "Key words": "Card",
+                "Question": "At 6:40 of the video, why are people surprised?",
+                "Answer": "People are surprised because the remaining deck of cards became empty cards."
+            }
+        ],
+        "metadata": {
+            "start": "1:20"
+        }
+    },
+    "kjURsDCIJws": {
+        "Questions": [
+            {
+                "UID": 4105,
+                "Timestamp": "1:50",
+                "Question type": "Instant Reasoning",
+                "Key words": "Coin, Object counting",
+                "Question": "At 1:50 of the video, how many coins are on the table?",
+                "Answer": "There are four coins on the table."
+            },
+            {
+                "UID": 4106,
+                "Timestamp": "1:50",
+                "Question type": "Adversarial, False Implication",
+                "Key words": "Coin, Object counting",
+                "Question": "At 1:50 of the video, are there three coins on the table? Give me your answer and reason.",
+                "Answer": "No, there are four coins on the table."
+            },
+            {
+                "UID": 4107,
+                "Timestamp": "1:58",
+                "Question type": "Contextual Reasoning",
+                "Key words": "Coin, Card, Object location",
+                "Question": "At 1:58 of the video, where are the four coins?",
+                "Answer": "The four coins are under the four cards on the table."
+            },
+            {
+                "UID": 4108,
+                "Timestamp": "2:10",
+                "Question type": "Contextual Reasoning",
+                "Key words": "Coin, Card, Object location",
+                "Question": "At 2:10 of the video, where are the four coins from the magician's perspective?",
+                "Answer": "The four coins are all under the top-left card from the magician's perspective."
+            },
+            {
+                "UID": 4109,
+                "Timestamp": "2:10",
+                "Question type": "Adversarial, False Implication",
+                "Key words": "Coin, Card, Object location",
+                "Question": "At 2:10 of the video, are the four coins under the bottom-right card from the magician's perspective? Give me your answer and reason.",
+                "Answer": "No, the four coins are all under the top-left card from the magician's perspective."
+            },
+            {
+                "UID": 4110,
+                "Timestamp": "2:16",
+                "Question type": "Paradoxical Reasoning",
+                "Key words": "Coin, Card, Object location",
+                "Question": "At 2:16 of the video, why are people surprised?",
+                "Answer": "People are surprised because the four coins should be all under the top-left card from the magician's perspective, but they are under the four cards respectively."
+            },
+            {
+                "UID": 4111,
+                "Timestamp": "2:21",
+                "Question type": "Contextual Reasoning",
+                "Key words": "Card",
+                "Question": "At 2:21 of the video, what are the cards in the magician's hand?",
+                "Answer": "There are four cards, which are Aces of all suits in the magician's hand."
+            },
+            {
+                "UID": 4112,
+                "Timestamp": "2:31",
+                "Question type": "Adversarial, False Implication",
+                "Key words": "Card, Coin, Object location",
+                "Question": "At 2:31 of the video, from the magician's perspective, are the four coins under the top-left card? Give me your answer and reason.",
+                "Answer": "No, there is one coin under each card from the magician's perspective."
+            },
+            {
+                "UID": 4113,
+                "Timestamp": "2:35",
+                "Question type": "Paradoxical Reasoning",
+                "Key words": "Card, Coin, Object location",
+                "Question": "At 2:35 of the video, why are people surprised?",
+                "Answer": "People are surprised because there should be one coin under each card, but the magician revealed three cards and there were no coins under them."
+            },
+            {
+                "UID": 4114,
+                "Timestamp": "2:42",
+                "Question type": "Paradoxical Reasoning",
+                "Key words": "Card, Coin, Object appearance",
+                "Question": "At 2:42 of the video, why are people surprised?",
+                "Answer": "People are surprised because all the cards except the top-left one from the magician's perspective were turned over and there were no coins underneath them, but when the magician turned over the top-left card, the four coins suddenly reappeared in the spots where they had originally been covered by the four cards."
+            },
+            {
+                "UID": 4115,
+                "Timestamp": "2:54",
+                "Question type": "Adversarial, False Implication",
+                "Key words": "Card, Coin, Object location",
+                "Question": "At 2:54 of the video, are there no objects under these four cards? Give me your answer and reason.",
+                "Answer": "No, there is one coin under each card."
+            },
+            {
+                "UID": 4116,
+                "Timestamp": "2:58",
+                "Question type": "Paradoxical Reasoning",
+                "Key words": "Card, Coin, Object location",
+                "Question": "At 2:58 of the video, from the magician's perspective, where is the coin originally under the top-right card?",
+                "Answer": "The coin originally under the top-right card is now in the magician's left hand."
+            },
+            {
+                "UID": 4117,
+                "Timestamp": "3:01",
+                "Question type": "Paradoxical Reasoning",
+                "Key words": "Card, Coin, Object location",
+                "Question": "At 3:01 of the video, why are people surprised?",
+                "Answer": "People are surprised because the coin in the magician's left hand is suddenly under the top-left card."
+            },
+            {
+                "UID": 4118,
+                "Timestamp": "3:22",
+                "Question type": "Temporal Summarization",
+                "Key words": "Card, Coin, Object location",
+                "Question": "From the time 2:50 to 3:22, can you summarize what happens to the four coins from the magician's perspective?",
+                "Answer": "The four coins are originally under four cards respectively, but the magician made them all under the top-left card from the magician's perspective."
+            },
+            {
+                "UID": 4119,
+                "Timestamp": "4:27",
+                "Question type": "Instant Reasoning",
+                "Key words": "Coin, Object counting",
+                "Question": "At 4:27 of the video, how many coins are on the table?",
+                "Answer": "There are three coins on the table."
+            },
+            {
+                "UID": 4120,
+                "Timestamp": "4:27",
+                "Question type": "Adversarial, False Implication",
+                "Key words": "Coin, Object counting",
+                "Question": "At 4:27 of the video, are there four coins on the table? Give me your answer and reason.",
+                "Answer": "No, there are three coins on the table."
+            },
+            {
+                "UID": 4121,
+                "Timestamp": "4:36",
+                "Question type": "Adversarial, False Implication",
+                "Key words": "Coin, Card, Object location",
+                "Question": "At 4:36 of the video, are the three coins on the table? Give me your answer and reason.",
+                "Answer": "No, there are two coins on the table."
+            },
+            {
+                "UID": 4122,
+                "Timestamp": "4:47",
+                "Question type": "Paradoxical Reasoning",
+                "Key words": "Coin, Card, Object disappearance",
+                "Question": "At 4:47 of the video, why are people surprised?",
+                "Answer": "People are surprised because there are two coins under the magician's two hands, but suddenly there is only one coin left."
+            },
+            {
+                "UID": 4123,
+                "Timestamp": "5:13",
+                "Question type": "Contextual Reasoning",
+                "Key words": "Coin, Card",
+                "Question": "At 5:13 of the video, are there coins under the cards?",
+                "Answer": "No, there are no coins under the cards."
+            },
+            {
+                "UID": 4124,
+                "Timestamp": "5:15",
+                "Question type": "Paradoxical Reasoning",
+                "Key words": "Coin, Card, Object appearance",
+                "Question": "At 5:15 of the video, why are people surprised?",
+                "Answer": "People are surprised because there should be no coins under the cards, but suddenly there is one coin under each card."
+            },
+            {
+                "UID": 4125,
+                "Timestamp": "7:10",
+                "Question type": "Paradoxical Reasoning",
+                "Key words": "Coin, Card, Object appearance",
+                "Question": "At 7:10 of the video, why are people surprised?",
+                "Answer": "People are surprised because when the magician holds two cards together and brushes them across the table, a large coin suddenly appears."
+            },
+            {
+                "UID": 4126,
+                "Timestamp": "7:08",
+                "Question type": "Contextual Reasoning",
+                "Key words": "Coin, Card, Object counting",
+                "Question": "At 7:08 of the video, how many coins are on the table irrespective of the size?",
+                "Answer": "There are eight coins on the table."
+            }
+        ],
+        "metadata": {
+            "start": "1:40"
+        }
+    },
+    "UMU0htfVVIM": {
+        "Questions": [
+            {
+                "UID": 4127,
+                "Timestamp": "1:49",
+                "Question type": "Instant Reasoning",
+                "Key words": "Object identification",
+                "Question": "At 1:49 of the video, what is the color of the chip which was in the small box?",
+                "Answer": "The color of the chip in the small box is yellow."
+            },
+            {
+                "UID": 4128,
+                "Timestamp": "1:54",
+                "Question type": "Instant Reasoning",
+                "Key words": "Object counting",
+                "Question": "At 1:54 of the video, how many chips are on the table?",
+                "Answer": "There are six chips on the table."
+            },
+            {
+                "UID": 4129,
+                "Timestamp": "1:54",
+                "Question type": "Adversarial, False Implication",
+                "Key words": "Object counting",
+                "Question": "At 1:54 of the video, are there five chips on the table? Give me your answer and reason.",
+                "Answer": "No, there are six chips on the table."
+            },
+            {
+                "UID": 4130,
+                "Timestamp": "2:05",
+                "Question type": "Contextual Reasoning",
+                "Key words": "Object location",
+                "Question": "At 2:05 of the video, where are the chips?",
+                "Answer": "The chips are in the card box."
+            },
+            {
+                "UID": 4131,
+                "Timestamp": "2:18",
+                "Question type": "Instant Reasoning",
+                "Key words": "Object identification",
+                "Question": "At 2:18 of the video, what is the color of the chip in the participant's hand?",
+                "Answer": "The color of the chip in the participant's hand is blue."
+            },
+            {
+                "UID": 4132,
+                "Timestamp": "2:18",
+                "Question type": "Contextual Reasoning",
+                "Key words": "Object location",
+                "Question": "At 2:18 of the video, how many chips are in the card box now?",
+                "Answer": "There are five chips in the card box now."
+            },
+            {
+                "UID": 4133,
+                "Timestamp": "3:12",
+                "Question type": "Instant Reasoning",
+                "Key words": "Object identification, Card, Card suit, Card rank",
+                "Question": "At 3:12 of the video, what is the card in the magician's hand?",
+                "Answer": "The card in the magician's hand is Jack of Diamonds."
+            },
+            {
+                "UID": 4134,
+                "Timestamp": "3:19",
+                "Question type": "Instant Reasoning",
+                "Key words": "Object identification, Card, Card suit, Card rank",
+                "Question": "At 3:19 of the video, what is the card's rank and suit the participant wrote on the blue chip?",
+                "Answer": "The card's rank and suit the participant wrote on the blue chip is Jack of Diamonds."
+            },
+            {
+                "UID": 4135,
+                "Timestamp": "3:31",
+                "Question type": "Instant Reasoning",
+                "Key words": "Object identification",
+                "Question": "At 3:31 of the video, what is the number on the blue chip?",
+                "Answer": "The number on the blue chip is 47."
+            },
+            {
+                "UID": 4136,
+                "Timestamp": "5:08",
+                "Question type": "Temporal Summarization",
+                "Key words": "Card, Pattern summarization",
+                "Question": "From 4:40 to 5:08 of the video, can you summarize what is the magician doing, and why?",
+                "Answer": "The magician is counting the cards until it reaches the 47th card, because 47 is written on the blue chip."
+            },
+            {
+                "UID": 4137,
+                "Timestamp": "6:20",
+                "Question type": "Paradoxical Reasoning",
+                "Key words": "Card, Object transformation",
+                "Question": "At 6:20 of the video, why are people surprised?",
+                "Answer": "People are surprised because there are '47' and 'Jack of Diamonds' written on two sides of the blue chip, and the 47th card from the deck is indeed the Jack of Diamonds."
+            }
+        ],
+        "metadata": {
+            "start": "1:20"
+        }
+    },
+    "gx3spZi1FjM": {
+        "Questions": [
+            {
+                "UID": 4138,
+                "Timestamp": "1:41",
+                "Question type": "Instant Reasoning",
+                "Key words": "Object identification",
+                "Question": "At 1:41 of the video, what is the colour of the small ball on the table?",
+                "Answer": "The colour of the small ball on the table is red."
+            },
+            {
+                "UID": 4139,
+                "Timestamp": "1:59",
+                "Question type": "Instant Reasoning",
+                "Key words": "Object counting",
+                "Question": "At 1:59 of the video, how many gold cups are on the table?",
+                "Answer": "There are three gold cups on the table."
+            },
+            {
+                "UID": 4140,
+                "Timestamp": "1:59",
+                "Question type": "Adversarial, False Implication",
+                "Key words": "Object counting",
+                "Question": "At 1:59 of the video, are there four gold cups on the table? Give me your answer and reason.",
+                "Answer": "No, there are three gold cups on the table."
+            },
+            {
+                "UID": 4141,
+                "Timestamp": "1:49",
+                "Question type": "Contextual Reasoning",
+                "Key words": "Object location, Ball",
+                "Question": "At 1:49 of the video, where is the red ball?",
+                "Answer": "The red ball is under the middle gold cup."
+            },
+            {
+                "UID": 4142,
+                "Timestamp": "1:59",
+                "Question type": "Paradoxical Reasoning",
+                "Key words": "Object disappearance, Ball",
+                "Question": "At 1:59 of the video, why are people surprised?",
+                "Answer": "People are surprised because the red ball under the middle gold cup suddenly disappears."
+            },
+            {
+                "UID": 4143,
+                "Timestamp": "2:17",
+                "Question type": "Paradoxical Reasoning",
+                "Key words": "Object appearance, Ball",
+                "Question": "At 2:17 of the video, why are people surprised?",
+                "Answer": "People are surprised because the red ball, which should have been under the middle cup, disappeared and reappeared under the cup to the magician's right."
+            },
+            {
+                "UID": 4144,
+                "Timestamp": "2:39",
+                "Question type": "Instant Reasoning",
+                "Key words": "Object counting, Ball, Cup",
+                "Question": "At 2:39 of the video, how many balls and cups are on the table?",
+                "Answer": "There are two balls and three cups on the table."
+            },
+            {
+                "UID": 4145,
+                "Timestamp": "3:15",
+                "Question type": "Contextual Reasoning",
+                "Key words": "Object location, Ball",
+                "Question": "At 3:15 of the video, where is the red ball?",
+                "Answer": "The red ball is in the magician's left pocket."
+            },
+            {
+                "UID": 4146,
+                "Timestamp": "3:15",
+                "Question type": "Adversarial, False Implication",
+                "Key words": "Object counting, Ball",
+                "Question": "At 3:15 of the video, are there two balls on the table? Give me your answer and reason.",
+                "Answer": "No, there is one ball on the table."
+            },
+            {
+                "UID": 4147,
+                "Timestamp": "3:18",
+                "Question type": "Contextual Reasoning",
+                "Key words": "Object location, Ball",
+                "Question": "At 3:18 of the video, where is the metal ball?",
+                "Answer": "The metal ball is under the middle gold cup."
+            },
+            {
+                "UID": 4148,
+                "Timestamp": "3:39",
+                "Question type": "Paradoxical Reasoning",
+                "Key words": "Object location, Ball, Object Disappearance",
+                "Question": "At 3:39 of the video, why are people surprised?",
+                "Answer": "People are surprised because the metal ball, which should have been under the middle cup, was not there and the magician took it out of his pocket."
+            },
+            {
+                "UID": 4149,
+                "Timestamp": "3:47",
+                "Question type": "Contextual Reasoning",
+                "Key words": "Object location, Ball",
+                "Question": "At 3:47 of the video, where is the metal ball?",
+                "Answer": "The metal ball is in the magician's left hand."
+            },
+            {
+                "UID": 4150,
+                "Timestamp": "4:02",
+                "Question type": "Temporal Summarization",
+                "Key words": "Object location, Ball, Object Disappearance",
+                "Question": "From 3:40 to 4:02 of the video, how many surprises do you observe and what are they?",
+                "Answer": "There are 2 surprises. First, the metal ball, which should have been in the magician's left hand, was not there. Second, the metal ball reappeared under the left gold cup in the image."
+            },
+            {
+                "UID": 4151,
+                "Timestamp": "4:02",
+                "Question type": "Contextual Reasoning",
+                "Key words": "Object location, Ball",
+                "Question": "At 4:02 of the video, are there metal balls under the middle and the right gold cups in the image?",
+                "Answer": "No, there are no metal balls under the middle and the right gold cups in the image."
+            },
+            {
+                "UID": 4152,
+                "Timestamp": "4:05",
+                "Question type": "Paradoxical Reasoning",
+                "Key words": "Object location, Ball",
+                "Question": "At 4:05 of the video, why are people surprised?",
+                "Answer": "People are surprised because there should be no metal balls under the middle and the right gold cups in the image, but there is one metal ball under each cup."
+            },
+            {
+                "UID": 4153,
+                "Timestamp": "4:20",
+                "Question type": "Paradoxical Reasoning",
+                "Key words": "Object location, Ball",
+                "Question": "At 4:20 of the video, why are people surprised?",
+                "Answer": "People are surprised because there was only one metal ball between the two stacked gold cups, while the other ball was on top of the upper cup, but in an instant, that ball moved from the top of the upper cup to between the two cups."
+            },
+            {
+                "UID": 4154,
+                "Timestamp": "4:25",
+                "Question type": "Contextual Reasoning",
+                "Key words": "Object counting, Ball",
+                "Question": "At 4:25 of the video, how many metal balls are between the two stacked gold cups?",
+                "Answer": "There are two metal balls."
+            },
+            {
+                "UID": 4155,
+                "Timestamp": "4:40",
+                "Question type": "Instant Reasoning",
+                "Key words": "Object counting, Ball",
+                "Question": "At 4:40 of the video, how many metal balls and gold cups are on the table?",
+                "Answer": "There are three metal balls and three gold cups on the table."
+            },
+            {
+                "UID": 4156,
+                "Timestamp": "4:55",
+                "Question type": "Contextual Reasoning",
+                "Key words": "Object location, Ball",
+                "Question": "At 4:55 of the video, where are the three metal balls?",
+                "Answer": "The three metal balls are under the three gold cups."
+            },
+            {
+                "UID": 4157,
+                "Timestamp": "5:06",
+                "Question type": "Paradoxical Reasoning",
+                "Key words": "Object location, Ball",
+                "Question": "At 5:06 of the video, why are people surprised?",
+                "Answer": "People are surprised because there should be one metal ball under each gold cup, but all three metal balls are under the middle gold cup."
+            },
+            {
+                "UID": 4158,
+                "Timestamp": "5:36",
+                "Question type": "Adversarial, False Implication",
+                "Key words": "Object location, Ball",
+                "Question": "At 5:36 of the video, from the magician's perspective, are there three metal balls under the gold cups, one under each? Give me your answer and reason.",
+                "Answer": "No, there are two metal balls under the left and middle gold cups."
+            },
+            {
+                "UID": 4159,
+                "Timestamp": "5:51",
+                "Question type": "Contextual Reasoning",
+                "Key words": "Object location, Ball",
+                "Question": "At 5:51 of the video, from the magician's perspective, how many metal balls are under the three cups, where are they?",
+                "Answer": "There are two metal balls under the left and middle gold cups."
+            },
+            {
+                "UID": 4160,
+                "Timestamp": "6:12",
+                "Question type": "Paradoxical Reasoning",
+                "Key words": "Object location, Ball",
+                "Question": "At 6:12 of the video, why are people surprised?",
+                "Answer": "People are surprised because the magician put the metal balls in his pocket, but there are still three metal balls under the middle gold cups."
+            },
+            {
+                "UID": 4161,
+                "Timestamp": "6:25",
+                "Question type": "Paradoxical Reasoning",
+                "Key words": "Object appearance, Ball",
+                "Question": "At 6:25 of the video, why are people surprised?",
+                "Answer": "People are surprised because there is suddenly a larger metal ball under the left gold cup in the image."
+            },
+            {
+                "UID": 4162,
+                "Timestamp": "6:36",
+                "Question type": "Paradoxical Reasoning",
+                "Key words": "Object appearance, Ball",
+                "Question": "At 6:36 of the video, why are people surprised?",
+                "Answer": "People are surprised because two even larger metal balls suddenly appear when the magician opens the middle gold cup."
+            },
+            {
+                "UID": 4163,
+                "Timestamp": "6:40",
+                "Question type": "Instant Reasoning",
+                "Key words": "Object counting, Ball",
+                "Question": "At 6:40 of the video, how many metal balls are on the table?",
+                "Answer": "There are seven metal balls on the table."
+            },
+            {
+                "UID": 4164,
+                "Timestamp": "7:05",
+                "Question type": "Paradoxical Reasoning",
+                "Key words": "Object appearance, Ball",
+                "Question": "At 7:05 of the video, why are people surprised?",
+                "Answer": "People are surprised because there should be nothing under the middle cup, but there is a can of coke."
+            },
+            {
+                "UID": 4165,
+                "Timestamp": "7:20",
+                "Question type": "Paradoxical Reasoning",
+                "Key words": "Object appearance, Ball",
+                "Question": "At 7:20 of the video, why are people surprised?",
+                "Answer": "People are surprised because there should be nothing under the rightmost cup in the image, but there is a pile of small red balls."
+            }
+        ],
+        "metadata": {
+            "start": "1:30"
+        }
+    },
+    "Cgd07Q4ZNHs": {
+        "Questions": [
+            {
+                "UID": 4166,
+                "Timestamp": "3:11",
+                "Question type": "Instant Reasoning",
+                "Key words": "Card, Object identification",
+                "Question": "At 3:11 of the video, what are the three cards in the three participants' hands from left to right in the image?",
+                "Answer": "The three cards are the Eight of Spades, the Seven of Spades, and the Four of Clubs from left to right."
+            },
+            {
+                "UID": 4167,
+                "Timestamp": "3:07",
+                "Question type": "Instant Reasoning",
+                "Key words": "Card, Object identification",
+                "Question": "At 3:07 of the video, what are the two cards in the two participants' hands from left to right in the image?",
+                "Answer": "The two cards are the Five of Hearts and the King of Diamonds from left to right."
+            },
+            {
+                "UID": 4168,
+                "Timestamp": "4:20",
+                "Question type": "Temporal Summarization",
+                "Key words": "Card, Pattern summarization",
+                "Question": "From 3:20 to 4:20 of the video, what is the magician asking the five participants to do?",
+                "Answer": "The magician is asking the five participants to place their picked cards face down back to the deck randomly."
+            },
+            {
+                "UID": 4169,
+                "Timestamp": "5:13",
+                "Question type": "Adversarial, False Implication",
+                "Key words": "Card, Object identification",
+                "Question": "At 5:13 of the video, is the card in the magician's hand a Six of Hearts? Give me your answer and reason.",
+                "Answer": "No, the card in the magician's hand is the Six of Diamonds."
+            },
+            {
+                "UID": 4170,
+                "Timestamp": "5:46",
+                "Question type": "Adversarial, False Implication",
+                "Key words": "Card, Object identification",
+                "Question": "At 5:46 of the video, is the card in the magician's hand a Nine of Clubs? Give me your answer and reason.",
+                "Answer": "No, the card in the magician's hand is the Ten of Clubs."
+            },
+            {
+                "UID": 4171,
+                "Timestamp": "6:03",
+                "Question type": "Temporal Summarization",
+                "Key words": "Card, Pattern summarization",
+                "Question": "From 4:48 to 6:03 of the video, what is happening to the deck of cards in the magician's hand?",
+                "Answer": "The deck of cards is being randomly separated to five piles (based on each participant's random number)."
+            },
+            {
+                "UID": 4172,
+                "Timestamp": "6:15",
+                "Question type": "Paradoxical Reasoning",
+                "Key words": "Card, Object identification",
+                "Question": "At 6:15 of the video, why are people surprised?",
+                "Answer": "People are surprised because the card on top of the first pile was not the Four of Clubs before, but it is now and it is the card the woman on the right in the image initially picked."
+            },
+            {
+                "UID": 4173,
+                "Timestamp": "6:30",
+                "Question type": "Paradoxical Reasoning",
+                "Key words": "Card, Object identification",
+                "Question": "At 6:30 of the video, why are people surprised?",
+                "Answer": "People are surprised because the card on top of each pile was not the card the participant initially picked, but it is now what the participant initially picked."
+            },
+            {
+                "UID": 4174,
+                "Timestamp": "7:08",
+                "Question type": "Instant Reasoning",
+                "Key words": "Card, Object identification",
+                "Question": "At 7:08 of the video, what are the five cards on the bottom row from right to left in the image? and do you observe any pattern?",
+                "Answer": "The five cards on the bottom row are the Ten of Spades, the Jack of Spades, the Queen of Spades, the King of Spades, and the Ace of Spades. The cards are all Spades and in ascending order of rank, also called a Royal Flush of Spades."
+            }
+        ],
+        "metadata": {
+            "start": "2:20"
+        }
+    },
+    "Ufvo0HULFos": {
+        "Questions": [
+            {
+                "UID": 4175,
+                "Timestamp": "3:20",
+                "Question type": "Temporal Summarization",
+                "Key words": "Card, Pattern summarization",
+                "Question": "From 2:34 to 3:20 of the video, what is the magician doing?",
+                "Answer": "The magician is shuffling the deck of cards."
+            },
+            {
+                "UID": 4176,
+                "Timestamp": "3:33",
+                "Question type": "Paradoxical Reasoning",
+                "Key words": "Card, Object identification",
+                "Question": "At 3:33 of the video, why are people surprised?",
+                "Answer": "People are surprised because the magician appears to shuffle the cards randomly, but the cards are actually arranged from left to right in the image as Hearts from Ace to King, Clubs from Ace to King, Diamonds from King to Ace, and Spades from King to Ace."
+            },
+            {
+                "UID": 4177,
+                "Timestamp": "5:05",
+                "Question type": "Temporal Summarization",
+                "Key words": "Card, Pattern summarization",
+                "Question": "From 4:50 to 5:05 of the video, what is the magician asking the two participants to do?",
+                "Answer": "The magician is asking the two participants to shuffle the cards."
+            }
+        ],
+        "metadata": {
+            "start": "2:34"
+        }
+    },
+    "Nu1ol_3eDs0": {
+        "Questions": [
+            {
+                "UID": 4178,
+                "Timestamp": "2:11",
+                "Question type": "Instant Reasoning",
+                "Key words": "Card, Object identification",
+                "Question": "At 2:11 of the video, what pattern do you see from the deck of cards on the table?",
+                "Answer": "The cards are arranged from left to right in the image as Clubs from Ace to King, Diamonds from Ace to King, Hearts from King to Ace, and Spades from King to Ace."
+            },
+            {
+                "UID": 4179,
+                "Timestamp": "3:10",
+                "Question type": "Temporal Summarization",
+                "Key words": "Card, Object counting",
+                "Question": "From 2:40 to 3:10 of the video, what are the two participants doing?",
+                "Answer": "The two participants are shuffling the cards."
+            },
+            {
+                "UID": 4180,
+                "Timestamp": "3:49",
+                "Question type": "Instant Reasoning",
+                "Key words": "Card, Object identification",
+                "Question": "At 3:49 of the video, what is the card in the participant's hand?",
+                "Answer": "The card in the participant's hand is the Two of Spades."
+            },
+            {
+                "UID": 4181,
+                "Timestamp": "3:49",
+                "Question type": "Adversarial, False Implication",
+                "Key words": "Card, Object identification",
+                "Question": "At 3:49 of the video, is the card in the participant's hand a Two of Hearts? Give me your answer and reason.",
+                "Answer": "No, the card in the participant's hand is the Two of Spades."
+            },
+            {
+                "UID": 4182,
+                "Timestamp": "5:24",
+                "Question type": "Contextual Reasoning",
+                "Key words": "Card, Object counting",
+                "Question": "At 5:24 of the video, how many cards are in the magician's hand?",
+                "Answer": "There are three cards in the magician's hand."
+            },
+            {
+                "UID": 4183,
+                "Timestamp": "5:24",
+                "Question type": "Adversarial, False Implication",
+                "Key words": "Card, Object counting",
+                "Question": "At 5:24 of the video, are there four cards in the magician's hand? Give me your answer and reason.",
+                "Answer": "No, there are three cards in the magician's hand."
+            }
+        ],
+        "metadata": {
+            "start": "1:50"
+        }
+    },
+    "SyX9w05JHuQ": {
+        "Questions": [
+            {
+                "UID": 4184,
+                "Timestamp": "2:00",
+                "Question type": "Instant Reasoning",
+                "Key words": "Card, Object identification",
+                "Question": "At 2:00 of the video, what is the suit of the card in the participant's hand?",
+                "Answer": "The suit of the card is Diamonds."
+            },
+            {
+                "UID": 4185,
+                "Timestamp": "2:00",
+                "Question type": "Adversarial, False Implication",
+                "Key words": "Card, Object identification",
+                "Question": "At 2:00 of the video, is the suit of the card in the participant's hand Hearts? Give me your answer and reason.",
+                "Answer": "No, the suit of the card is Diamonds."
+            },
+            {
+                "UID": 4186,
+                "Timestamp": "2:13",
+                "Question type": "Instant Reasoning",
+                "Key words": "Card, Object counting",
+                "Question": "At 2:13 of the video, how many fingers is the participant on the left in the image holding up with his right hand?",
+                "Answer": "The participant on the left in the image is holding up two fingers with his right hand."
+            },
+            {
+                "UID": 4187,
+                "Timestamp": "2:16",
+                "Question type": "Contextual Reasoning",
+                "Key words": "Card, Object identification",
+                "Question": "At 2:16 of the video, based on the suit in the participant's hand and the number of fingers he is holding up, what card did he select?",
+                "Answer": "The card he selected is the Two of Diamonds."
+            },
+            {
+                "UID": 4188,
+                "Timestamp": "3:28",
+                "Question type": "Instant Reasoning",
+                "Key words": "Card, Object counting",
+                "Question": "At 3:28 of the video, how many transparent buckets are on the table?",
+                "Answer": "There are two transparent buckets on the table."
+            },
+            {
+                "UID": 4189,
+                "Timestamp": "3:28",
+                "Question type": "Adversarial, False Implication",
+                "Key words": "Card, Object counting",
+                "Question": "At 3:28 of the video, are there three transparent buckets on the table? Give me your answer and reason.",
+                "Answer": "No, there are two transparent buckets on the table."
+            },
+            {
+                "UID": 4190,
+                "Timestamp": "5:00",
+                "Question type": "Paradoxical Reasoning",
+                "Key words": "Card, Object identification",
+                "Question": "At 5:00 of the video, why are people surprised?",
+                "Answer": "People are surprised because when the blocks are tipped onto the white board, they form a portrait of another participant holding a card."
+            },
+            {
+                "UID": 4191,
+                "Timestamp": "6:28",
+                "Question type": "Paradoxical Reasoning",
+                "Key words": "Card, Object identification",
+                "Question": "At 6:28 of the video, why are people surprised?",
+                "Answer": "People are surprised because when the card on the board is removed, Two of Diamonds is on the back, which is exactly the card the participant chose at the beginning."
+            }
+        ],
+        "metadata": {
+            "start": "1:10"
+        }
+    },
+    "CVaydckqdPs": {
+        "Questions": [
+            {
+                "UID": 4192,
+                "Timestamp": "1:37",
+                "Question type": "Instant Reasoning",
+                "Key words": "Rubik's Cube, Object identification",
+                "Question": "At 1:37 of the video, what is in the magician's hand?",
+                "Answer": "The magician has a Rubik's Cube in his hand."
+            },
+            {
+                "UID": 4193,
+                "Timestamp": "2:02",
+                "Question type": "Adversarial, False Implication",
+                "Key words": "Rubik's Cube, Object identification",
+                "Question": "At 2:02 of the video, is the magician holding a scrambled cube? Give me your answer and reason.",
+                "Answer": "No, the magician is holding a solved Rubik's Cube."
+            },
+            {
+                "UID": 4194,
+                "Timestamp": "2:02",
+                "Question type": "Instant Reasoning",
+                "Key words": "Object identification",
+                "Question": "At 2:02 of the video, what color is the cover on the table?",
+                "Answer": "The cover on the table is green."
+            },
+            {
+                "UID": 4195,
+                "Timestamp": "2:29",
+                "Question type": "Instant Reasoning",
+                "Key words": "Rubik's Cube, Object identification",
+                "Question": "At 2:29 of the video, what color is the face of the Rubik's Cube to the people?",
+                "Answer": "The face of the Rubik's Cube to the people is white."
+            },
+            {
+                "UID": 4196,
+                "Timestamp": "2:33",
+                "Question type": "Paradoxical Reasoning",
+                "Key words": "Rubik's Cube, Object identification, Object disappearance, Object appearance",
+                "Question": "At 2:33 of the video, why are people surprised?",
+                "Answer": "People are surprised because the green cover suddenly disappears, revealing a solved Rubik's Cube, which then instantly becomes scrambled, and then the cube disappears and is replaced by a standing sign."
+            },
+            {
+                "UID": 4197,
+                "Timestamp": "2:38",
+                "Question type": "Paradoxical Reasoning",
+                "Key words": "Object identification, Object disappearance",
+                "Question": "At 2:38 of the video, why are people surprised?",
+                "Answer": "People are surprised because the green cover suddenly disappears."
+            },
+            {
+                "UID": 4198,
+                "Timestamp": "3:06",
+                "Question type": "Contextual Reasoning",
+                "Key words": "Object counting, Rubik's Cube",
+                "Question": "At 3:06 of the video, how many Rubik's Cubes are in the magician's hand? And how many of them are solved?",
+                "Answer": "There are two Rubik's Cubes in the magician's hand, and one of them is solved."
+            },
+            {
+                "UID": 4199,
+                "Timestamp": "3:26",
+                "Question type": "Contextual Reasoning",
+                "Key words": "Object counting, Rubik's Cube",
+                "Question": "At 3:26 of the video, is the Rubik's Cube behind the green cover solved? Give me your answer and reason.",
+                "Answer": "Yes, the Rubik's Cube behind the green cover is solved."
+            },
+            {
+                "UID": 4200,
+                "Timestamp": "3:55",
+                "Question type": "Contextual Reasoning",
+                "Key words": "Object counting, Rubik's Cube",
+                "Question": "At 3:55 of the video, there are two cubes behind the green cover, for how many of them are scrambled?",
+                "Answer": "Both of them are scrambled."
+            },
+            {
+                "UID": 4201,
+                "Timestamp": "3:57",
+                "Question type": "Paradoxical Reasoning",
+                "Key words": "Object transformation, Rubik's Cube",
+                "Question": "At 3:57 of the video, why are people surprised?",
+                "Answer": "People are surprised because the two cubes behind the green cover should be scrambled, but the magician took one solved cube out."
+            },
+            {
+                "UID": 4202,
+                "Timestamp": "4:09",
+                "Question type": "Temporal Summarization",
+                "Key words": "Pattern summarization, Rubik's Cube",
+                "Question": "From 4:02 to 4:09 of the video, what is the magician doing?",
+                "Answer": "The magician is scrambling the Rubik's Cube."
+            },
+            {
+                "UID": 4203,
+                "Timestamp": "4:14",
+                "Question type": "Adversarial, False Implication",
+                "Key words": "Object identification, Rubik's Cube",
+                "Question": "At 4:14 of the video, are both cubes behind the green cover solved? Give me your answer and reason.",
+                "Answer": "No, both cubes behind the green cover are scrambled."
+            },
+            {
+                "UID": 4204,
+                "Timestamp": "4:19",
+                "Question type": "Paradoxical Reasoning",
+                "Key words": "Object transformation, Rubik's Cube",
+                "Question": "At 4:19 of the video, why are people surprised?",
+                "Answer": "People are surprised because the two cubes behind the green cover should be scrambled, but the magician took one solved cube out."
+            },
+            {
+                "UID": 4205,
+                "Timestamp": "4:46",
+                "Question type": "Instant Reasoning",
+                "Key words": "Object counting, Rubik's Cube",
+                "Question": "At 4:46 of the video, how many Rubik's Cubes are in the magician's hand?",
+                "Answer": "There are three Rubik's Cubes in the magician's hand."
+            },
+            {
+                "UID": 4206,
+                "Timestamp": "5:16",
+                "Question type": "Instant Reasoning",
+                "Key words": "Object identification, Rubik's Cube",
+                "Question": "At 5:16 of the video, what color is the cube?",
+                "Answer": "The cube is green."
+            },
+            {
+                "UID": 4207,
+                "Timestamp": "5:48",
+                "Question type": "Contextual Reasoning",
+                "Key words": "Object identification, Rubik's Cube",
+                "Question": "At 5:48 of the video, is the cube behind the magician's jacket solved?",
+                "Answer": "No, the cube behind the magician's jacket is scrambled."
+            },
+            {
+                "UID": 4208,
+                "Timestamp": "5:50",
+                "Question type": "Paradoxical Reasoning",
+                "Key words": "Object transformation, Rubik's Cube",
+                "Question": "At 5:50 of the video, why are people surprised?",
+                "Answer": "People are surprised because the cube behind the magician's jacket should be scrambled, but the magician took one solved cube out."
+            },
+            {
+                "UID": 4209,
+                "Timestamp": "6:44",
+                "Question type": "Paradoxical Reasoning",
+                "Key words": "Object disappearance, Rubik's Cube",
+                "Question": "At 6:44 of the video, why are people surprised?",
+                "Answer": "People are surprised because the magician removes the green cover and tears it apart, revealing that there is only one Rubik's Cube behind it."
+            }
+        ],
+        "metadata": {
+            "start": "1:30"
+        }
+    },
+    "6Z6wDTRcTL8": {
+        "Questions": [
+            {
+                "UID": 4210,
+                "Timestamp": "2:31",
+                "Question type": "Instant Reasoning",
+                "Key words": "Object identification",
+                "Question": "At 2:31 of the video, what is in the magician's hand?",
+                "Answer": "The magician has a charger in his hand."
+            },
+            {
+                "UID": 4211,
+                "Timestamp": "2:37",
+                "Question type": "Instant Reasoning",
+                "Key words": "Object identification",
+                "Question": "At 2:37 of the video, what is in the magician's hand?",
+                "Answer": "The magician has a charger cable in his hand."
+            },
+            {
+                "UID": 4212,
+                "Timestamp": "2:58",
+                "Question type": "Paradoxical Reasoning",
+                "Key words": "Object transformation",
+                "Question": "At 2:58 of the video, why are people surprised?",
+                "Answer": "People are surprised because the magician tied a knot in the cable, then separated the connector from the rest of the cable, creating a short piece of cable and a complete loop."
+            },
+            {
+                "UID": 4213,
+                "Timestamp": "3:16",
+                "Question type": "Contextual Reasoning",
+                "Key words": "Object identification, Object location",
+                "Question": "At 3:16 of the video, what did the magician take out of the box?",
+                "Answer": "The magician took a coil of cable out of the box."
+            },
+            {
+                "UID": 4214,
+                "Timestamp": "3:40",
+                "Question type": "Contextual Reasoning",
+                "Key words": "Object identification",
+                "Question": "At 3:40 of the video, what is in the magician's hand?",
+                "Answer": "The magician has a complete loop of cable in his hand."
+            },
+            {
+                "UID": 4215,
+                "Timestamp": "3:57",
+                "Question type": "Paradoxical Reasoning",
+                "Key words": "Object transformation",
+                "Question": "From 3:40 to 3:57 of the video, why are people surprised?",
+                "Answer": "People are surprised because the magician has a complete cable loop and the short piece of cable with the connector that was separated earlier. After he joins the two parts together, they become one complete cable with connectors on both ends."
+            },
+            {
+                "UID": 4216,
+                "Timestamp": "4:45",
+                "Question type": "Paradoxical Reasoning",
+                "Key words": "Object transformation",
+                "Question": "At 4:45 of the video, why are people surprised?",
+                "Answer": "People are surprised because the magician connects one end of the charger to the participant's hand, and it successfully charges the phone."
+            }
+        ],
+        "metadata": {
+            "start": "1:30"
+        }
+    },
+    "ErRsMTmdQb4": {
+        "Questions": [
+            {
+                "UID": 4217,
+                "Timestamp": "1:55",
+                "Question type": "Instant Reasoning",
+                "Key words": "Object identification",
+                "Question": "At 1:55 of the video, what is written on the paper above the box on the stage?",
+                "Answer": "The paper says 'MAGIC TRICKS $1 EACH'."
+            },
+            {
+                "UID": 4218,
+                "Timestamp": "2:20",
+                "Question type": "Instant Reasoning",
+                "Key words": "Object counting",
+                "Question": "At 2:20 of the video, how many dollar sign in total do you observe on the object in the magician's hand?",
+                "Answer": "There are six dollar signs."
+            },
+            {
+                "UID": 4219,
+                "Timestamp": "2:20",
+                "Question type": "Adversarial, False Implication",
+                "Key words": "Object counting",
+                "Question": "At 2:20 of the video, are there four dollar signs on the object in the magician's hand? Give me your answer and reason.",
+                "Answer": "No, there are six dollar signs on the object in the magician's hand."
+            },
+            {
+                "UID": 4220,
+                "Timestamp": "2:27",
+                "Question type": "Paradoxical Reasoning",
+                "Key words": "Object transformation, Coin",
+                "Question": "At 2:27 of the video, why are people surprised?",
+                "Answer": "People are surprised because the dollar signs become coins in a moment."
+            },
+            {
+                "UID": 4221,
+                "Timestamp": "3:09",
+                "Question type": "Instant Reasoning",
+                "Key words": "Object identification",
+                "Question": "At 3:09 of the video, what is the color of the top paper on the table?",
+                "Answer": "The color of the paper on top is blue."
+            },
+            {
+                "UID": 4222,
+                "Timestamp": "3:06",
+                "Question type": "Instant Reasoning",
+                "Key words": "Object counting",
+                "Question": "At 3:06 of the video, how many papers are in the stack?",
+                "Answer": "There are four papers in the stack."
+            },
+            {
+                "UID": 4223,
+                "Timestamp": "3:24",
+                "Question type": "Contextual Reasoning",
+                "Key words": "Object counting, Coin",
+                "Question": "At 3:24 of the video, how many coins are inside the stacked papers?",
+                "Answer": "There are four coins inside the stacked papers."
+            },
+            {
+                "UID": 4224,
+                "Timestamp": "3:40",
+                "Question type": "Contextual Reasoning",
+                "Key words": "Object location",
+                "Question": "At 3:40 of the video, where are the four coins?",
+                "Answer": "The four coins are wrapped inside the papers."
+            },
+            {
+                "UID": 4225,
+                "Timestamp": "3:54",
+                "Question type": "Paradoxical Reasoning",
+                "Key words": "Object transformation, Coin",
+                "Question": "At 3:54 of the video, why are people surprised?",
+                "Answer": "People are surprised because the magician changed the copper coins to silver coins inside the papers."
+            },
+            {
+                "UID": 4226,
+                "Timestamp": "4:43",
+                "Question type": "Contextual Reasoning",
+                "Key words": "Object counting, Coin",
+                "Question": "At 4:43 of the video, how many coins are in the stack above the participant's hand?",
+                "Answer": "There are four coins in the stack above the participant's hand."
+            },
+            {
+                "UID": 4227,
+                "Timestamp": "5:51",
+                "Question type": "Instant Reasoning",
+                "Key words": "Object identification",
+                "Question": "At 5:51 of the video, what is the value of the money on the table?",
+                "Answer": "The value of the money on the table is one dollar."
+            },
+            {
+                "UID": 4228,
+                "Timestamp": "5:51",
+                "Question type": "Adversarial, False Implication",
+                "Key words": "Object identification",
+                "Question": "At 5:51 of the video, is the value of the money on the table ten dollars? Give me your answer and reason.",
+                "Answer": "No, the value of the money on the table is one dollar."
+            },
+            {
+                "UID": 4229,
+                "Timestamp": "6:02",
+                "Question type": "Paradoxical Reasoning",
+                "Key words": "Object transformation",
+                "Question": "At 6:02 of the video, why are people surprised?",
+                "Answer": "People are surprised because when the magician rolled the roller over it, the one-dollar cash changed into a hundred-dollar cash."
+            }
+        ],
+        "metadata": {
+            "start": "1:00"
+        }
+    },
+    "4j6p1zSk1UI": {
+        "Questions": [
+            {
+                "UID": 4230,
+                "Timestamp": "1:34",
+                "Question type": "Contextual Reasoning",
+                "Key words": "Object identification",
+                "Question": "At 1:34 of the video, what is written on the book's cover that you just saw?",
+                "Answer": "The book says 'Greater Magic'."
+            },
+            {
+                "UID": 4231,
+                "Timestamp": "1:26",
+                "Question type": "Instant Reasoning",
+                "Key words": "Object identification, Coin",
+                "Question": "At 1:26 of the video, what is in the magician's left hand and right hand?",
+                "Answer": "The magician is holding a transparent bottle in his left hand and a coin in his right hand."
+            },
+            {
+                "UID": 4232,
+                "Timestamp": "1:37",
+                "Question type": "Paradoxical Reasoning",
+                "Key words": "Object location, Coin",
+                "Question": "At 1:37 of the video, why are people surprised?",
+                "Answer": "People are surprised because the coin was originally in the magician's hand, but he made it pass through the side of the glass bottle into the bottle."
+            },
+            {
+                "UID": 4233,
+                "Timestamp": "2:20",
+                "Question type": "Contextual Reasoning",
+                "Key words": "Object location",
+                "Question": "At 2:20 of the video, the magician had a stick in his hand before, where is the stick now?",
+                "Answer": "The stick is now in his jacket's inner pocket."
+            },
+            {
+                "UID": 4234,
+                "Timestamp": "3:05",
+                "Question type": "Adversarial, False Implication",
+                "Key words": "Object location",
+                "Question": "At 3:05 of the video, the magician has an egg in his hand, did he get it out of his right pocket? Give me your answer and reason.",
+                "Answer": "No, he got it out of his left pocket."
+            },
+            {
+                "UID": 4235,
+                "Timestamp": "3:20",
+                "Question type": "Paradoxical Reasoning",
+                "Key words": "Object location",
+                "Question": "At 3:20 of the video, why are people surprised?",
+                "Answer": "People are surprised because the magician made the egg pass through the bottom of the bottle into the bottle."
+            }
+        ],
+        "metadata": {
+            "start": "1:10"
+        }
+    },
+    "pay48nKSmBI": {
+        "Questions": [
+            {
+                "UID": 4236,
+                "Timestamp": "2:22",
+                "Question type": "Contextual Reasoning",
+                "Key words": "Object identification",
+                "Question": "At 2:22 of the video, what is in the magician's right hand?",
+                "Answer": "The magician is holding a small knife in his right hand."
+            },
+            {
+                "UID": 4237,
+                "Timestamp": "2:32",
+                "Question type": "Paradoxical Reasoning",
+                "Key words": "Object disappearance",
+                "Question": "At 2:32 of the video, why are people surprised?",
+                "Answer": "People are surprised because the magician made the small knife disappear."
+            },
+            {
+                "UID": 4238,
+                "Timestamp": "2:38",
+                "Question type": "Paradoxical Reasoning",
+                "Key words": "Object disappearance, Object reappearance",
+                "Question": "At 2:38 of the video, why are people surprised?",
+                "Answer": "People are surprised because the magician made the small knife disappear and reappear from his shirt's pocket."
+            },
+            {
+                "UID": 4239,
+                "Timestamp": "2:49",
+                "Question type": "Instant Reasoning",
+                "Key words": "Object identification",
+                "Question": "At 2:49 of the video, what are the colors of the knives in the magician's two hands?",
+                "Answer": "The magician is holding a white knife in his left hand and a red knife in his right hand."
+            },
+            {
+                "UID": 4240,
+                "Timestamp": "2:53",
+                "Question type": "Instant Reasoning",
+                "Key words": "Object identification",
+                "Question": "At 2:53 of the video, what is the color of the knife in the magician's right hand?",
+                "Answer": "The knife in the magician's right hand is white."
+            },
+            {
+                "UID": 4241,
+                "Timestamp": "2:56",
+                "Question type": "Paradoxical Reasoning",
+                "Key words": "Object transformation",
+                "Question": "At 2:56 of the video, why are people surprised?",
+                "Answer": "People are surprised because the magician made the white knife turn into a red knife."
+            },
+            {
+                "UID": 4242,
+                "Timestamp": "3:01",
+                "Question type": "Adversarial, False Implication",
+                "Key words": "Object identification",
+                "Question": "At 3:01 of the video, is the knife in the magician's right hand red? Give me your answer and reason.",
+                "Answer": "No, the knife in the magician's right hand is white."
+            },
+            {
+                "UID": 4243,
+                "Timestamp": "3:04",
+                "Question type": "Paradoxical Reasoning",
+                "Key words": "Object transformation",
+                "Question": "At 3:04 of the video, why are people surprised?",
+                "Answer": "People are surprised because the magician made the white knife turn into a red knife."
+            },
+            {
+                "UID": 4244,
+                "Timestamp": "3:06",
+                "Question type": "Contextual Reasoning",
+                "Key words": "Object location",
+                "Question": "At 3:06 of the video, what is the color of the knife in the magician's left hand?",
+                "Answer": "The knife in the magician's left hand is white."
+            },
+            {
+                "UID": 4245,
+                "Timestamp": "3:11",
+                "Question type": "Paradoxical Reasoning",
+                "Key words": "Object transformation",
+                "Question": "At 3:11 of the video, why are people surprised?",
+                "Answer": "People are surprised because people thought the knife in the magician's hand was either red or white, but it turned into a green knife."
+            },
+            {
+                "UID": 4246,
+                "Timestamp": "3:14",
+                "Question type": "Instant Reasoning",
+                "Key words": "Object identification",
+                "Question": "At 3:14 of the video, what is in the magician's right hand?",
+                "Answer": "The magician is holding a red knife in his right hand."
+            },
+            {
+                "UID": 4247,
+                "Timestamp": "3:24",
+                "Question type": "Paradoxical Reasoning",
+                "Key words": "Object transformation",
+                "Question": "At 3:24 of the video, why are people surprised?",
+                "Answer": "People are surprised because the magician took the white knife out from his shirt's pocket."
+            },
+            {
+                "UID": 4248,
+                "Timestamp": "3:34",
+                "Question type": "Adversarial, False Implication",
+                "Key words": "Object counting",
+                "Question": "At 3:34 of the video, are there two knives on the table? Give me your answer and reason.",
+                "Answer": "No, there are three knives on the table."
+            },
+            {
+                "UID": 4249,
+                "Timestamp": "3:46",
+                "Question type": "Adversarial, False Implication",
+                "Key words": "Object location",
+                "Question": "At 3:46 of the video, is the knife on the table of color blue? Give me your answer and reason.",
+                "Answer": "No, the knife on the table is green."
+            },
+            {
+                "UID": 4250,
+                "Timestamp": "4:00",
+                "Question type": "Instant Reasoning",
+                "Key words": "Object identification",
+                "Question": "At 4:00 of the video, what is the color of the knife in the magician's right hand?",
+                "Answer": "The knife in the magician's right hand is red."
+            },
+            {
+                "UID": 4251,
+                "Timestamp": "4:11",
+                "Question type": "Paradoxical Reasoning",
+                "Key words": "Object transformation",
+                "Question": "At 4:11 of the video, why are people surprised?",
+                "Answer": "People are surprised because the magician made the red knife turn into a white knife."
+            },
+            {
+                "UID": 4252,
+                "Timestamp": "4:20",
+                "Question type": "Contextual Reasoning",
+                "Key words": "Object location",
+                "Question": "At 4:20 of the video, where is the green knife?",
+                "Answer": "The green knife is in the magician's left hand."
+            },
+            {
+                "UID": 4253,
+                "Timestamp": "4:25",
+                "Question type": "Paradoxical Reasoning",
+                "Key words": "Object location",
+                "Question": "At 4:25 of the video, why are people surprised?",
+                "Answer": "People are surprised because the magician made the green knife disappear and made the white knife appear in his left hand."
+            },
+            {
+                "UID": 4254,
+                "Timestamp": "4:33",
+                "Question type": "Paradoxical Reasoning",
+                "Key words": "Object reappearance",
+                "Question": "At 4:33 of the video, why are people surprised?",
+                "Answer": "People are surprised because the magician made the green knife reappear from his shirt's pocket."
+            },
+            {
+                "UID": 4255,
+                "Timestamp": "4:58",
+                "Question type": "Contextual Reasoning",
+                "Key words": "Object location",
+                "Question": "At 4:58 of the video, where are the three knives?",
+                "Answer": "The three knives are under his handkerchief."
+            },
+            {
+                "UID": 4256,
+                "Timestamp": "5:03",
+                "Question type": "Contextual Reasoning",
+                "Key words": "knives",
+                "Question": "At 5:03 of the video, how many knives are under the handkerchief, and what color are they?",
+                "Answer": "There are two knives under the handkerchief, one is red and one is green."
+            },
+            {
+                "UID": 4257,
+                "Timestamp": "5:08",
+                "Question type": "Paradoxical Reasoning",
+                "Key words": "Object transformation",
+                "Question": "At 5:08 of the video, why are people surprised?",
+                "Answer": "People are surprised because the two knives under the handkerchief should be red and green, and the knife above should be white, but he made the knife above red and below white and green."
+            },
+            {
+                "UID": 4258,
+                "Timestamp": "5:15",
+                "Question type": "Adversarial, False Implication",
+                "Key words": "Object identification",
+                "Question": "At 5:15 of the video, is the knife under the handkerchief red? Give me your answer and reason.",
+                "Answer": "No, the knife under the handkerchief is white."
+            },
+            {
+                "UID": 4259,
+                "Timestamp": "5:18",
+                "Question type": "Paradoxical Reasoning",
+                "Key words": "Object transformation",
+                "Question": "At 5:18 of the video, why are people surprised?",
+                "Answer": "People are surprised because the knife under the handkerchief should be white, but it turned out to be green and the white knife is above the handkerchief."
+            }
+        ],
+        "metadata": {
+            "start": "1:30"
+        }
+    },
+    "rNDfunTdD0w": {
+        "Questions": [
+            {
+                "UID": 4260,
+                "Timestamp": "1:41",
+                "Question type": "Contextual Reasoning",
+                "Key words": "Object identification",
+                "Question": "At 1:41 of the video, what is in the magician's hand?",
+                "Answer": "The magician is holding a ring."
+            },
+            {
+                "UID": 4261,
+                "Timestamp": "1:51",
+                "Question type": "Contextual Reasoning",
+                "Key words": "Object location",
+                "Question": "At 1:51 of the video, where is the ring?",
+                "Answer": "The ring is in the ring box."
+            },
+            {
+                "UID": 4262,
+                "Timestamp": "1:58",
+                "Question type": "Contextual Reasoning",
+                "Key words": "Object location",
+                "Question": "At 1:58 of the video, where is the ring box?",
+                "Answer": "The ring box is in the large basin on the floor filled with balls."
+            },
+            {
+                "UID": 4263,
+                "Timestamp": "2:15",
+                "Question type": "Adversarial, False Implication",
+                "Key words": "Object identification",
+                "Question": "At 2:15 of the video, is the number on the white ball 10? Give me your answer and reason.",
+                "Answer": "No, the number on the white ball is 20."
+            },
+            {
+                "UID": 4264,
+                "Timestamp": "2:17",
+                "Question type": "Instant Reasoning",
+                "Key words": "Object identification",
+                "Question": "At 2:17 of the video, what is the number on the yellow ball?",
+                "Answer": "The number on the yellow ball is 7."
+            },
+            {
+                "UID": 4265,
+                "Timestamp": "3:19",
+                "Question type": "Contextual Reasoning",
+                "Key words": "Object identification",
+                "Question": "At 3:19 of the video, what is the number on the duck's bottom in the woman's hand?",
+                "Answer": "The number on the duck's bottom in the woman's hand is 15."
+            },
+            {
+                "UID": 4266,
+                "Timestamp": "3:44",
+                "Question type": "Contextual Reasoning",
+                "Key words": "Object identification",
+                "Question": "At 3:44 of the video, what is inside the box 15?",
+                "Answer": "There is a white box inside, and then the black (ring) box inside the white box."
+            },
+            {
+                "UID": 4267,
+                "Timestamp": "3:57",
+                "Question type": "Contextual Reasoning",
+                "Key words": "Object identification",
+                "Question": "At 3:57 of the video, what is inside the revealed box?",
+                "Answer": "There is a paper inside the revealed box, says 'KILL DUCKY!!'."
+            },
+            {
+                "UID": 4268,
+                "Timestamp": "4:05",
+                "Question type": "Contextual Reasoning",
+                "Key words": "Object identification",
+                "Question": "At 4:05 of the video, what is supposed to be inside the ring box?",
+                "Answer": "There is supposed to be a ring inside the ring box."
+            },
+            {
+                "UID": 4269,
+                "Timestamp": "4:29",
+                "Question type": "Paradoxical Reasoning",
+                "Key words": "Object transformation",
+                "Question": "At 4:29 of the video, why are people surprised?",
+                "Answer": "People are surprised because the ring should be inside the ring box, but it is inside the duck."
+            }
+        ],
+        "metadata": {
+            "start": "1:05"
+        }
+    },
+    "7Z0smvepVqw": {
+        "Questions": [
+            {
+                "UID": 4270,
+                "Timestamp": "1:45",
+                "Question type": "Temporal Summarization",
+                "Key words": "Object identification, Card",
+                "Question": "From 1:30 to 1:45 of the video, what is the woman doing?",
+                "Answer": "The woman is signing on the card."
+            },
+            {
+                "UID": 4271,
+                "Timestamp": "2:10",
+                "Question type": "Instant Reasoning",
+                "Key words": "Object identification, Card",
+                "Question": "At 2:10 of the video, what are the card's suit and rank with the woman's signature?",
+                "Answer": "The cards with the woman's signature are Six of Spades, Six of Clubs, Six of Hearts and Six of Diamonds."
+            },
+            {
+                "UID": 4272,
+                "Timestamp": "2:10",
+                "Question type": "Adversarial, False Implication",
+                "Key words": "Object identification, Card",
+                "Question": "At 2:10 of the video, are there three signed cards in the magician's (man's) hand? Give me your answer and reason.",
+                "Answer": "No, there are four signed cards in the magician's (man's) hand."
+            },
+            {
+                "UID": 4273,
+                "Timestamp": "2:49",
+                "Question type": "Adversarial, False Implication",
+                "Key words": "Object identification, Card",
+                "Question": "At 2:49 of the video, is the card in the magician's (man's) hand Six of Clubs? Give me your answer and reason.",
+                "Answer": "No, the card in the magician's (man's) hand is Six of Spades."
+            },
+            {
+                "UID": 4274,
+                "Timestamp": "2:50",
+                "Question type": "Paradoxical Reasoning",
+                "Key words": "Object identification, Card",
+                "Question": "At 2:50 of the video, why are people surprised?",
+                "Answer": "People are surprised because the signed card was put back to the deck, but the magician took it out of his pants' left pocket."
+            },
+            {
+                "UID": 4275,
+                "Timestamp": "2:58",
+                "Question type": "Contextual Reasoning",
+                "Key words": "Object location, Card",
+                "Question": "At 2:58 of the video, the magician took a second card out, where did he take it from?",
+                "Answer": "The magician took the second card out of his pants' right pocket."
+            },
+            {
+                "UID": 4276,
+                "Timestamp": "3:18",
+                "Question type": "Contextual Reasoning",
+                "Key words": "Object location, Card",
+                "Question": "From 2:45 to 3:18 of the video, how many cards did the magician take out from his pockets in total?",
+                "Answer": "The magician took out four cards from his pockets in total."
+            },
+            {
+                "UID": 4277,
+                "Timestamp": "3:47",
+                "Question type": "Contextual Reasoning",
+                "Key words": "Object location, Card",
+                "Question": "At 3:47 of the video, is the man holding any cards?",
+                "Answer": "No, the man is not holding any cards."
+            },
+            {
+                "UID": 4278,
+                "Timestamp": "3:53",
+                "Question type": "Paradoxical Reasoning",
+                "Key words": "Object location, Card",
+                "Question": "At 3:53 of the video, why are people surprised?",
+                "Answer": "People are surprised because the signed card was put in the man's pockets, but in a sudden they appear again in the magician's hand."
+            },
+            {
+                "UID": 4279,
+                "Timestamp": "4:03",
+                "Question type": "Instant Reasoning",
+                "Key words": "Object location, Card",
+                "Question": "At 4:03 of the video, how many cards are in the magician's hand and what are they?",
+                "Answer": "There are four cards in the magician's hand, and they are Six of Spades, Six of Clubs, Six of Hearts and Six of Diamonds with the woman's signature."
+            },
+            {
+                "UID": 4280,
+                "Timestamp": "4:19",
+                "Question type": "Paradoxical Reasoning",
+                "Key words": "Object location, Card",
+                "Question": "At 4:19 of the video, why are people surprised?",
+                "Answer": "People are surprised because the signed cards were in the man's hand, but he took one card out of his pocket."
+            },
+            {
+                "UID": 4281,
+                "Timestamp": "5:10",
+                "Question type": "Paradoxical Reasoning",
+                "Key words": "Object location, Card",
+                "Question": "From 4:10 to 5:10 of the video, why are people surprised?",
+                "Answer": "People are surprised because the signed cards should be in the man's hand, but he is taking them multiple times out of his pockets, his pants, his shoes, everywhere."
+            },
+            {
+                "UID": 4282,
+                "Timestamp": "5:10",
+                "Question type": "Temporal Summarization",
+                "Key words": "Object location, Card",
+                "Question": "From 4:10 to 5:10 of the video, what is the magician doing?",
+                "Answer": "The magician is taking the signed cards out of his pockets, his pants, his shoes, everywhere."
+            },
+            {
+                "UID": 4283,
+                "Timestamp": "5:15",
+                "Question type": "Contextual Reasoning",
+                "Key words": "Object counting, Card",
+                "Question": "At 5:15 of the video, how many cards are in the man's hand?",
+                "Answer": "There are four cards in the man's hand."
+            },
+            {
+                "UID": 4284,
+                "Timestamp": "5:39",
+                "Question type": "Contextual Reasoning",
+                "Key words": "Object location, Card",
+                "Question": "At 5:39 of the video, where are the signed cards?",
+                "Answer": "The signed cards are in the deck in the woman's hand."
+            },
+            {
+                "UID": 4285,
+                "Timestamp": "7:21",
+                "Question type": "Paradoxical Reasoning",
+                "Key words": "Object location, Card",
+                "Question": "At 7:21 of the video, why are people surprised?",
+                "Answer": "People are surprised because the signed cards were in the deck, but the magician took them out of his pocket."
+            }
+        ],
+        "metadata": {
+            "start": "1:20"
+        }
+    },
+    "x_Lm7cvA4Vw": {
+        "Questions": [
+            {
+                "UID": 4286,
+                "Timestamp": "2:08",
+                "Question type": "Instant Reasoning",
+                "Key words": "Object location",
+                "Question": "At 2:08 of the video, the ring is on the magician's which finger?",
+                "Answer": "The ring is on the magician's index finger."
+            },
+            {
+                "UID": 4287,
+                "Timestamp": "2:14",
+                "Question type": "Paradoxical Reasoning",
+                "Key words": "Object location",
+                "Question": "At 2:14 of the video, why are people surprised?",
+                "Answer": "People are surprised because the magician moved the ring from his index finger to his middle finger."
+            },
+            {
+                "UID": 4288,
+                "Timestamp": "2:22",
+                "Question type": "Paradoxical Reasoning",
+                "Key words": "Object location",
+                "Question": "At 2:22 of the video, why are people surprised?",
+                "Answer": "People are surprised because the magician moved the ring from his middle finger to his ring finger."
+            },
+            {
+                "UID": 4289,
+                "Timestamp": "2:27",
+                "Question type": "Paradoxical Reasoning",
+                "Key words": "Object location",
+                "Question": "At 2:27 of the video, why are people surprised?",
+                "Answer": "People are surprised because the magician moved the ring from his ring finger to his little finger."
+            },
+            {
+                "UID": 4290,
+                "Timestamp": "2:49",
+                "Question type": "Contextual Reasoning",
+                "Key words": "Object location",
+                "Question": "At 2:49 of the video, the ring is on the participant's which finger?",
+                "Answer": "The ring is on the participant's index finger."
+            },
+            {
+                "UID": 4291,
+                "Timestamp": "3:08",
+                "Question type": "Paradoxical Reasoning",
+                "Key words": "Object location",
+                "Question": "At 3:08 of the video, why are people surprised?",
+                "Answer": "People are surprised because the magician removed the unbroken ring from the side of the participant's index finger."
+            }
+        ],
+        "metadata": {
+            "start": "1:20"
+        }
+    },
+    "9KQ2U-azaZc": {
+        "Questions": [
+            {
+                "UID": 4292,
+                "Timestamp": "1:54",
+                "Question type": "Instant Reasoning",
+                "Key words": "Object identification",
+                "Question": "At 1:54 of the video, what is in the magician's left and right hand?",
+                "Answer": "There is a wand in the magician's right hand, and a bottle of salt in his left hand."
+            },
+            {
+                "UID": 4293,
+                "Timestamp": "2:22",
+                "Question type": "Contextual Reasoning",
+                "Key words": "Object identification",
+                "Question": "At 2:22 of the video, is there salt in the magician's left hand?",
+                "Answer": "No, his left hand is empty."
+            },
+            {
+                "UID": 4294,
+                "Timestamp": "3:08",
+                "Question type": "Paradoxical Reasoning",
+                "Key words": "Object identification",
+                "Question": "At 3:08 of the video, why are people surprised?",
+                "Answer": "People are surprised because there was no salt in the magician's left hand, but he poured a lot of salt out of his hand."
+            },
+            {
+                "UID": 4295,
+                "Timestamp": "5:30",
+                "Question type": "Paradoxical Reasoning",
+                "Key words": "Object identification",
+                "Question": "From 3:00 to 5:30 of the video, why are people surprised?",
+                "Answer": "People are surprised because salt keeps falling out of the magician's hand, clothes, pants, and shoes."
+            },
+            {
+                "UID": 4296,
+                "Timestamp": "5:30",
+                "Question type": "Temporal Summarization",
+                "Key words": "Object identification",
+                "Question": "From 3:00 to 5:30 of the video, can you summarize what was happening?",
+                "Answer": "Salt keeps falling out of the magician's hand, clothes, pants, and shoes."
+            }
+        ],
+        "metadata": {
+            "start": "1:00"
+        }
+    },
+    "mF0afU5bF4M": {
+        "Questions": [
+            {
+                "UID": 4297,
+                "Timestamp": "1:48",
+                "Question type": "Contextual Reasoning",
+                "Key words": "Object identification",
+                "Question": "At 1:48 of the video, what is in the magician's left hand?",
+                "Answer": "The magician is holding a hammer."
+            },
+            {
+                "UID": 4298,
+                "Timestamp": "2:00",
+                "Question type": "Instant Reasoning",
+                "Key words": "Object identification",
+                "Question": "At 2:00 of the video, what is in the participant's hand?",
+                "Answer": "The participant is holding a nail."
+            },
+            {
+                "UID": 4299,
+                "Timestamp": "2:34",
+                "Question type": "Paradoxical Reasoning",
+                "Key words": "Object identification",
+                "Question": "At 2:34 of the video, why are people surprised?",
+                "Answer": "People are surprised because the magician tries to push a nail through his cheek, but the nail disappears."
+            },
+            {
+                "UID": 4300,
+                "Timestamp": "3:02",
+                "Question type": "Paradoxical Reasoning",
+                "Key words": "Object identification",
+                "Question": "At 3:02 of the video, why are people surprised?",
+                "Answer": "Because the magician opened the wallet, and fire came out from inside it."
+            },
+            {
+                "UID": 4301,
+                "Timestamp": "3:05",
+                "Question type": "Paradoxical Reasoning",
+                "Key words": "Object identification",
+                "Question": "At 3:05 of the video, why are people surprised?",
+                "Answer": "People are surprised because the fire inside the wallet went out instantly."
+            },
+            {
+                "UID": 4302,
+                "Timestamp": "3:59",
+                "Question type": "Contextual Reasoning",
+                "Key words": "Object identification",
+                "Question": "At 3:59 of the video, there are three glass cups on the table, which one has milk?",
+                "Answer": "The rightmost glass cup in the image (in front of the woman) has milk."
+            },
+            {
+                "UID": 4303,
+                "Timestamp": "4:55",
+                "Question type": "Temporal Summarization",
+                "Key words": "Object identification",
+                "Question": "From 4:25 to 4:55 of the video, what are the magician and the participants doing?",
+                "Answer": "They took the glass of milk up, dipped the cookie in it, ate the cookie and then drank the milk."
+            },
+            {
+                "UID": 4304,
+                "Timestamp": "5:22",
+                "Question type": "Paradoxical Reasoning",
+                "Key words": "Object identification",
+                "Question": "At 5:22 of the video, why are people surprised?",
+                "Answer": "People are surprised because the magician chewed the cookie, but there was still a whole cookie on his tongue."
+            },
+            {
+                "UID": 4305,
+                "Timestamp": "6:04",
+                "Question type": "Paradoxical Reasoning",
+                "Key words": "Object location",
+                "Question": "At 6:04 of the video, why are people surprised?",
+                "Answer": "People are surprised because the magician took the nail out of his nostril."
+            }
+        ],
+        "metadata": {
+            "start": "1:00"
+        }
+    },
+    "i0m8CC7Ovj8": {
+        "Questions": [
+            {
+                "UID": 4306,
+                "Timestamp": "0:52",
+                "Question type": "Instant Reasoning",
+                "Key words": "Balls",
+                "Question": "At 0:52 of the video, how many balls are there at the top of the cups?",
+                "Answer": "There are 3 balls on the cups."
+            },
+            {
+                "UID": 4307,
+                "Timestamp": "0:54",
+                "Question type": "Contextual Reasoning",
+                "Key words": "Balls",
+                "Question": "At 0:54 of the video, how many balls are there in the man's hand?",
+                "Answer": "There is supposed to be one ball in the man's hand."
+            },
+            {
+                "UID": 4308,
+                "Timestamp": "0:55",
+                "Question type": "Paradoxical Reasoning",
+                "Key words": "Disappearance",
+                "Question": "At 0:55 of the video, why are people watching surprised?",
+                "Answer": "One ball was in the man's hand, but it disappeared."
+            },
+            {
+                "UID": 4309,
+                "Timestamp": "0:56",
+                "Question type": "Paradoxical Reasoning",
+                "Key words": "Sudden Appearance",
+                "Question": "At 0:56 of the video, why are people watching surprised?",
+                "Answer": "The ball which disappeared from the man's hand, appeared under the cup again."
+            },
+            {
+                "UID": 4310,
+                "Timestamp": "0:56",
+                "Question type": "Temporal Summarization",
+                "Key words": "Balls, state tracking",
+                "Question": "Summarize the magic trick from 0:50 to 0:56 of the video.",
+                "Answer": "The man put three balls on the cups. Then, he took one ball in his hand and passed the ball from one hand to another. But when he opened his hand, the ball disappeared. Then, the ball appeared under the cup again."
+            },
+            {
+                "UID": 4311,
+                "Timestamp": "1:13",
+                "Question type": "Contextual Reasoning",
+                "Key words": "Balls",
+                "Question": "Until 1:13 of the video, how many times did the man play the appearing and disappearing trick with the ball?",
+                "Answer": "The man played the appearing and disappearing trick with the ball 3 times."
+            },
+            {
+                "UID": 4312,
+                "Timestamp": "1:19",
+                "Question type": "Contextual Reasoning",
+                "Key words": "Balls",
+                "Question": "At 1:19 of the video, how many balls are there under the middle cup? And how did the balls get there?",
+                "Answer": "There is 1 ball under the middle cup. The ball gets there when the man takes it from the top of the cup and puts it under the middle cup."
+            },
+            {
+                "UID": 4313,
+                "Timestamp": "1:26",
+                "Question type": "Paradoxical Reasoning",
+                "Key words": "Balls",
+                "Question": "At 1:26 of the video, why are people watching surprised?",
+                "Answer": "People are surprised because one big ball appears under the middle cup."
+            },
+            {
+                "UID": 4314,
+                "Timestamp": "1:28",
+                "Question type": "Paradoxical Reasoning",
+                "Key words": "Balls",
+                "Question": "At 1:28 of the video, why are people watching surprised?",
+                "Answer": "People are surprised because there are 3 big balls appearing from the 3 cups."
+            },
+            {
+                "UID": 4315,
+                "Timestamp": "1:31",
+                "Question type": "Paradoxical Reasoning",
+                "Key words": "Balls",
+                "Question": "At 1:31 of the video, why are people watching surprised?",
+                "Answer": "People are surprised because there is a fourth ball appearing from the middle cup, which was thought to be empty."
+            },
+            {
+                "UID": 4316,
+                "Timestamp": "2:07",
+                "Question type": "Instant Reasoning",
+                "Key words": "Balls",
+                "Question": "At 2:07 of the video, how many balls are there in the scene?",
+                "Answer": "There are 6 balls in the scene."
+            }
+        ],
+        "metadata": {
+            "start": "0:30"
+        }
+    },
+    "hO_O2KaU3Ck": {
+        "Questions": [
+            {
+                "UID": 4317,
+                "Timestamp": "0:20",
+                "Question type": "Paradoxical Reasoning",
+                "Key words": "Card Deck",
+                "Question": "At 0:20 of the video, why are people watching surprised?",
+                "Answer": "People are surprised because the magician was originally holding a deck of cards, but he got a second deck from nowhere."
+            },
+            {
+                "UID": 4318,
+                "Timestamp": "0:53",
+                "Question type": "Paradoxical Reasoning",
+                "Key words": "Playing Cards",
+                "Question": "At 0:53 of the video, why are people watching surprised?",
+                "Answer": "People are surprised because the magician was holding only 2 cards, but now he got a third card from nowhere."
+            },
+            {
+                "UID": 4319,
+                "Timestamp": "1:00",
+                "Question type": "Paradoxical Reasoning",
+                "Key words": "Playing Cards",
+                "Question": "At 1:00 of the video, why are people watching surprised?",
+                "Answer": "The card on the top of the deck was originally with back facing up, and he waved his hand over the card, and the fourth King card appeared."
+            },
+            {
+                "UID": 4320,
+                "Timestamp": "1:17",
+                "Question type": "Contextual Reasoning",
+                "Key words": "Card Deck",
+                "Question": "At 1:17 of the video, how many cards does the performer hold in his hand?",
+                "Answer": "The performer is holding 4 cards in his hand."
+            },
+            {
+                "UID": 4321,
+                "Timestamp": "1:30",
+                "Question type": "Paradoxical Reasoning",
+                "Key words": "Playing Cards",
+                "Question": "At 1:30 of the video, why are people watching surprised?",
+                "Answer": "People are surprised because the performer was originally holding three cards, but he made one card disappear."
+            },
+            {
+                "UID": 4322,
+                "Timestamp": "1:35",
+                "Question type": "Paradoxical Reasoning",
+                "Key words": "Playing Cards",
+                "Question": "At 1:35 of the video, why are people watching surprised?",
+                "Answer": "People are surprised because there was originally only one card on the table, but after he slid his hand over the card, there were two cards on the table."
+            },
+            {
+                "UID": 4323,
+                "Timestamp": "1:42",
+                "Question type": "Contextual Reasoning",
+                "Key words": "Playing Cards",
+                "Question": "At 1:42 of the video, how many cards are there under the hand that has four fingers closed together?",
+                "Answer": "There is supposed to be one card that the hand picked up from the table."
+            },
+            {
+                "UID": 4324,
+                "Timestamp": "1:46",
+                "Question type": "Paradoxical Reasoning",
+                "Key words": "Playing Cards",
+                "Question": "At 1:46 of the video, why are people watching surprised?",
+                "Answer": "People are surprised because the expected card didn't fall out when the performer released his fingers."
+            },
+            {
+                "UID": 4325,
+                "Timestamp": "2:10",
+                "Question type": "Temporal Summarization",
+                "Key words": "Playing Cards",
+                "Question": "From 1:55 to 2:10, summarize the card trick from the people's point of view.",
+                "Answer": "Initially, the magician showed one card back facing on top of the deck, and then he slid and slightly waved his hand over the card, and then the card disappeared. He then slid his hand over the three cards on the table, and the fourth card appeared."
+            },
+            {
+                "UID": 4326,
+                "Timestamp": "2:33",
+                "Question type": "Paradoxical Reasoning",
+                "Key words": "Coins",
+                "Question": "At 2:33 of the video, why are people watching surprised?",
+                "Answer": "People are surprised because a coin was originally showing on the screen, but the man pulled a real coin out."
+            },
+            {
+                "UID": 4327,
+                "Timestamp": "2:41",
+                "Question type": "Contextual Reasoning",
+                "Key words": "Coins",
+                "Question": "At 2:41 of the video, how many coins are there in the wooden box?",
+                "Answer": "There is supposed to be only one coin in the wooden box."
+            },
+            {
+                "UID": 4328,
+                "Timestamp": "2:45",
+                "Question type": "Paradoxical Reasoning",
+                "Key words": "Coins",
+                "Question": "At 2:45 of the video, why are people watching surprised?",
+                "Answer": "People are surprised because the magician poured some virtual coins into the wooden box, but the coins were real. There was only one coin in the wooden box, but now there are more coins."
+            },
+            {
+                "UID": 4329,
+                "Timestamp": "4:00",
+                "Question type": "Paradoxical Reasoning",
+                "Key words": "Human Appearance",
+                "Question": "At 4:00 of the video, why are people watching surprised?",
+                "Answer": "People are surprised because the magician makes a woman appear from an empty cabinet."
+            }
+        ],
+        "metadata": {
+            "start": "0:08"
+        }
+    }
+}

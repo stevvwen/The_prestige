@@ -1,0 +1,3350 @@
+{
+   "GWn3QeYKvlA": {
+      "Questions": [
+         {
+            "UID": 3000,
+            "Timestamp": "0:18",
+            "Question type": "Instant Reasoning",
+            "Key words": "Ladder And Box Trick",
+            "Question": "At 0:18 of the video, what is this magician's finger pointing towards?",
+            "Answer": "The magician is pointing at a ladder with a small box on top of it."
+         },
+         {
+            "UID": 3001,
+            "Timestamp": "1:05",
+            "Question type": "Contextual Reasoning",
+            "Key words": "Ring And Purple Cloth Trick",
+            "Question": "At 1:05 of the video, what are the two objects the magician is holding in his hands?",
+            "Answer": "The magician is holding a small ring and a piece of purple cloth in his hands."
+         },
+         {
+            "UID": 3002,
+            "Timestamp": "1:30",
+            "Question type": "Contextual Reasoning",
+            "Key words": "Ring In Purple Cloth Trick",
+            "Question": "At 1:30 of the video, what is the woman holding in her hand? Please identify all objects.",
+            "Answer": "The woman is holding the piece of purple cloth that has the ring in it."
+         },
+         {
+            "UID": 3003,
+            "Timestamp": "2:15",
+            "Question type": "Paradoxical Reasoning",
+            "Key words": "Missing Ring Trick",
+            "Question": "At 2:15 of the video, why are the people surprised?",
+            "Answer": "The people are surprised because when the magician took the piece of purple cloth, the ring was no longer in it."
+         },
+         {
+            "UID": 3004,
+            "Timestamp": "2:51",
+            "Question type": "Contextual Reasoning",
+            "Key words": "Empty Red Box Trick",
+            "Question": "At 2:51 of the video, what is the color of the box that the man is holding in his hand? What's inside the box?",
+            "Answer": "The color of the small box that the man is holding is red, and there is nothing inside it."
+         },
+         {
+            "UID": 3005,
+            "Timestamp": "3:00",
+            "Question type": "Contextual Reasoning",
+            "Key words": "Missing Ring Trick",
+            "Question": "At 3:00 of the video, where did the box go?",
+            "Answer": "The box was thrown into the air by the magician."
+         },
+         {
+            "UID": 3006,
+            "Timestamp": "3:04",
+            "Question type": "Adversarial, False Implication",
+            "Key words": "Missing Ring And Ladder Trick",
+            "Question": "At 3:04 of the video, is the missing ring on top of the ladder? Please give me your answer and reason.",
+            "Answer": "No, the missing ring is not on the top of the ladder. It has gone missing from the purple cloth."
+         },
+         {
+            "UID": 3007,
+            "Timestamp": "3:25",
+            "Question type": "Paradoxical Reasoning",
+            "Key words": "Ring On Shoelaces Trick",
+            "Question": "At 3:25 of the video, why are the people surprised?",
+            "Answer": "The ring got tied onto the shoelaces of the magician's shoe, and the people are surprised because the missing ring ends up in a place that nobody expects."
+         }
+      ],
+      "metadata": {
+         "start": "0:16"
+      }
+   },
+   "0qBHg2Q0bo8": {
+      "Questions": [
+         {
+            "UID": 3009,
+            "Timestamp": "0:22",
+            "Question type": "Contextual Reasoning",
+            "Key words": "Steel Bucket Trick",
+            "Question": "At 0:22 of the video, what was put on the round rug on the floor in front of the magician?",
+            "Answer": "A small steel bucket was put on the round rug on the floor in front of the magician."
+         },
+         {
+            "UID": 3010,
+            "Timestamp": "0:42",
+            "Question type": "Contextual Reasoning",
+            "Key words": "Bubble Wand Trick",
+            "Question": "At 0:42 of the video, from your understanding, why is there a bubble?",
+            "Answer": "There's a bubble because the magician dipped a bubble wand into the hat and blew it out, which is a common way to create a bubble."
+         },
+         {
+            "UID": 3011,
+            "Timestamp": "0:48",
+            "Question type": "Paradoxical Reasoning",
+            "Key words": "Bubble To Coin Trick",
+            "Question": "At 0:48 of the video, why are the people surprised?",
+            "Answer": "The people are surprised because when the magician grabbed the bubble floating in midair, it became a coin."
+         },
+         {
+            "UID": 3012,
+            "Timestamp": "1:16",
+            "Question type": "Paradoxical Reasoning",
+            "Key words": "Bubbles Into Bucket Trick",
+            "Question": "At 1:16 of the video, why are the people surprised? Where did the bubble go?",
+            "Answer": "The bubble went into the metal bucket that he was holding. The bubble became a coin and got thrown into the bucket."
+         },
+         {
+            "UID": 3013,
+            "Timestamp": "2:45",
+            "Question type": "Adversarial, False Implication",
+            "Key words": "Bubble To Crystal Ball Trick",
+            "Question": "At 2:45 of the video, did the bubble that he just blew out turn into a coin? Please give me your answer and reason.",
+            "Answer": "No, the bubble that he just blew out turned into a crystal ball this time."
+         },
+         {
+            "UID": 3014,
+            "Timestamp": "2:55",
+            "Question type": "Paradoxical Reasoning",
+            "Key words": "Smoke And Crystal Ball To Coin Trick",
+            "Question": "At 2:55 of the video, why are the people surprised?",
+            "Answer": "The people are surprised because the magician blew smoke from his mouth through his wand onto the crystal ball, and then the ball turned into a coin."
+         },
+         {
+            "UID": 3015,
+            "Timestamp": "3:14",
+            "Question type": "Paradoxical Reasoning",
+            "Key words": "Bubble To Larger Coin Trick",
+            "Question": "At 3:14 of the video, why are the people surprised? What's different this time?",
+            "Answer": "The people are surprised because he turned the bubble into a coin that was bigger than before."
+         },
+         {
+            "UID": 3016,
+            "Timestamp": "3:24",
+            "Question type": "Paradoxical Reasoning",
+            "Key words": "Coin To Dollar Bill Trick",
+            "Question": "At 3:24 of the video, why are the people surprised?",
+            "Answer": "The people are surprised because he turned the big coin into a big American dollar bill by blowing smoke onto it."
+         }
+      ],
+      "metadata": {
+         "start": "0:01"
+      }
+   },
+   "YCUg7hiTBiQ": {
+      "Questions": [
+         {
+            "UID": 3021,
+            "Timestamp": "0:25",
+            "Question type": "Contextual Reasoning",
+            "Key words": "Cut Rope Trick",
+            "Question": "At 0:25 of the video, what happened to the object that the magician is holding?",
+            "Answer": "The rope is cut in half by his knife."
+         },
+         {
+            "UID": 3022,
+            "Timestamp": "0:50",
+            "Question type": "Contextual Reasoning",
+            "Key words": "Knotted Ropes Trick",
+            "Question": "At 0:50 of the video, how many knotted ropes are in the magician's hand?",
+            "Answer": "Two knotted ropes are in the magician's hand."
+         },
+         {
+            "UID": 3023,
+            "Timestamp": "0:56",
+            "Question type": "Paradoxical Reasoning",
+            "Key words": "One-handed Rope Knot Trick",
+            "Question": "At 0:56 of the video, why are the people surprised?",
+            "Answer": "The people are surprised because the two ropes are knotted together by one hand."
+         },
+         {
+            "UID": 3024,
+            "Timestamp": "1:38",
+            "Question type": "Contextual Reasoning",
+            "Key words": "Single Rope Knot Trick",
+            "Question": "At 1:38 of the video, how many ropes are knotted?",
+            "Answer": "Only one rope is knotted."
+         },
+         {
+            "UID": 3025,
+            "Timestamp": "1:45",
+            "Question type": "Temporal Summarization",
+            "Key words": "Moving Rope Knot Trick",
+            "Question": "From 1:21 to 1:45, can you summarize the magic trick generally based on what you've seen so far?",
+            "Answer": "The magician played around with the knot on the rope by moving it along the rope and finally untangled it instantly."
+         },
+         {
+            "UID": 3026,
+            "Timestamp": "1:50",
+            "Question type": "Adversarial, False Implication",
+            "Key words": "Three Ropes Trick",
+            "Question": "At 1:50 of the video, are there two pieces of rope on stage? Please give me your answer and reason.",
+            "Answer": "No, there are three pieces of rope on stage; two pieces are on the magician's shoulders, and one is held in his hand."
+         },
+         {
+            "UID": 3027,
+            "Timestamp": "2:03",
+            "Question type": "Contextual Reasoning",
+            "Key words": "Knotted Ropes Trick",
+            "Question": "At 2:03 of the video, how many ropes are knotted together?",
+            "Answer": "Two ropes are knotted together."
+         },
+         {
+            "UID": 3028,
+            "Timestamp": "2:41",
+            "Question type": "Paradoxical Reasoning",
+            "Key words": "Ropes Become One Trick",
+            "Question": "At 2:41 of the video, why are the people surprised?",
+            "Answer": "The people are surprised because he put together three pieces of rope, and they became one rope."
+         },
+         {
+            "UID": 3029,
+            "Timestamp": "2:41",
+            "Question type": "Adversarial, False Implication",
+            "Key words": "Rope Around Neck Trick",
+            "Question": "At 2:41 of the video, is the rope on his neck knotted? Please give me your answer and reason.",
+            "Answer": "No, the rope is wrapped around the magician's neck, but not knotted."
+         },
+         {
+            "UID": 3030,
+            "Timestamp": "2:43",
+            "Question type": "Paradoxical Reasoning",
+            "Key words": "Untangling Neck Rope Trick",
+            "Question": "At 2:43 of the video, why are the people surprised?",
+            "Answer": "The people are surprised because the magician untangled the rope that was wrapped around his neck very easily, as if the rope were transparent."
+         }
+      ],
+      "metadata": {
+         "start": "0:20"
+      }
+   },
+   "ZnIYcqWfU_0": {
+      "Questions": [
+         {
+            "UID": 3031,
+            "Timestamp": "0:15",
+            "Question type": "Adversarial, False Implication",
+            "Key words": "Fire Transfer Trick",
+            "Question": "At 0:15 of the video, is the sword on fire? Please give me your answer and reason.",
+            "Answer": "No, the sword is no longer on fire. The fire has transferred to the magician's hand."
+         },
+         {
+            "UID": 3032,
+            "Timestamp": "0:22",
+            "Question type": "Contextual Reasoning",
+            "Key words": "Fire Trick",
+            "Question": "At 0:22 of the video, what did the magician do?",
+            "Answer": "The magician blew out the fire on one of his hands."
+         },
+         {
+            "UID": 3033,
+            "Timestamp": "0:30",
+            "Question type": "Paradoxical Reasoning",
+            "Key words": "Fire Trick",
+            "Question": "At 0:30 of the video, why are the people surprised?",
+            "Answer": "The people are surprised because the magician put out the fire on his hands and a pigeon suddenly appeared from his hand."
+         },
+         {
+            "UID": 3034,
+            "Timestamp": "0:35",
+            "Question type": "Contextual Reasoning",
+            "Key words": "Illusions Trick",
+            "Question": "At 0:35 of the video, from the magician's perspective, which hand is the pigeon sitting on?",
+            "Answer": "The pigeon is sitting on the magician's right hand."
+         },
+         {
+            "UID": 3035,
+            "Timestamp": "0:45",
+            "Question type": "Paradoxical Reasoning",
+            "Key words": "Illusions Trick",
+            "Question": "At 0:45 of the video, why are the people surprised?",
+            "Answer": "The people are surprised because a woman appeared under the magician's cloak after the magician put the pigeon under it."
+         },
+         {
+            "UID": 3036,
+            "Timestamp": "0:58",
+            "Question type": "Instant Reasoning",
+            "Key words": "Illusions Trick",
+            "Question": "At 0:58 of the video, what is the object under the sword?",
+            "Answer": "The object under the sword is a candle."
+         },
+         {
+            "UID": 3037,
+            "Timestamp": "1:05",
+            "Question type": "Contextual Reasoning",
+            "Key words": "Illusions Trick",
+            "Question": "At 1:05 of the video, is there a feather on the magician's jacket?",
+            "Answer": "Yes, there is a feather on the magician's jacket."
+         },
+         {
+            "UID": 3038,
+            "Timestamp": "1:12",
+            "Question type": "Contextual Reasoning",
+            "Key words": "Illusions Trick",
+            "Question": "At 1:12 of the video, did the magician catch the feather that was falling down?",
+            "Answer": "Yes, the magician did catch the feather. It landed on his arm."
+         },
+         {
+            "UID": 3039,
+            "Timestamp": "1:15",
+            "Question type": "Paradoxical Reasoning",
+            "Key words": "Illusions Trick",
+            "Question": "At 1:15 of the video, why are the people surprised?",
+            "Answer": "The people are surprised because the feather fell down and landed on his arm, and then a pigeon appeared on his arm."
+         },
+         {
+            "UID": 3040,
+            "Timestamp": "2:08",
+            "Question type": "Paradoxical Reasoning",
+            "Key words": "Illusions Trick",
+            "Question": "At 2:08 of the video, why are the people surprised?",
+            "Answer": "The people are surprised because the magician broke the egg in the cage and suddenly a baby pigeon appeared out of the egg."
+         },
+         {
+            "UID": 3041,
+            "Timestamp": "2:25",
+            "Question type": "Paradoxical Reasoning",
+            "Key words": "Illusions Trick",
+            "Question": "At 2:25 of the video, why are the people surprised?",
+            "Answer": "The people are surprised because the magician ignited the feather in his hand, and a baby pigeon appeared in his hand."
+         }
+      ],
+      "metadata": {
+         "start": "0:07"
+      }
+   },
+   "zGz2naXEgec": {
+      "Questions": [
+         {
+            "UID": 3042,
+            "Timestamp": "1:02",
+            "Question type": "Contextual Reasoning",
+            "Key words": "Mentalism Trick",
+            "Question": "At 1:02 of the video, what color is the object that the magician put into his pocket before? How many audience members are on stage?",
+            "Answer": "He put a green rectangular strip into his pocket. There are seven audience members on stage."
+         },
+         {
+            "UID": 3043,
+            "Timestamp": "2:53",
+            "Question type": "Contextual Reasoning",
+            "Key words": "Mentalism Trick",
+            "Question": "At 2:53 of the video, what is the man in black standing on the left of the magician(left means from the image's perspective) holding?",
+            "Answer": "The man in black standing on the left of the magician is holding a red book."
+         },
+         {
+            "UID": 3044,
+            "Timestamp": "2:52",
+            "Question type": "Instant Reasoning",
+            "Key words": "Mentalism Trick",
+            "Question": "At 2:52 of the video, what color is the tie that the magician is wearing?",
+            "Answer": "The magician is wearing a green tie."
+         },
+         {
+            "UID": 3045,
+            "Timestamp": "2:45",
+            "Question type": "Contextual Reasoning",
+            "Key words": "Mentalism Trick",
+            "Question": "At 2:45 of the video, what did the two men (the magician and the man wearing a black suit) on the left of the image just do?",
+            "Answer": "The man wrote in the red book with a pen, and the magician put the pen into the red book."
+         },
+         {
+            "UID": 3046,
+            "Timestamp": "3:55",
+            "Question type": "Contextual Reasoning",
+            "Key words": "Mentalism Trick",
+            "Question": "At 3:55 of the video, how does the man in the black suit open the red book to a certain page?",
+            "Answer": "There is a pen stuck inside the red book, and the man in the black suit opened the book at the pen."
+         },
+         {
+            "UID": 3047,
+            "Timestamp": "4:22",
+            "Question type": "Paradoxical Reasoning",
+            "Key words": "Mentalism Trick",
+            "Question": "At 4:22 of the video, given that there is a word 'lobster' on the page chosen by the man in the black suit in the red book, why are the people surprised?",
+            "Answer": "The people are surprised because the man in the black suit chose the page randomly, and the scrabble tiles were chosen randomly by the people. Now the scrabble tiles on the bar show the word 'lobster', which matches the word in the red book."
+         }
+      ],
+      "metadata": {
+         "start": "0:47"
+      }
+   },
+   "pW-j28Ui8nw": {
+      "Questions": [
+         {
+            "UID": 3048,
+            "Timestamp": "0:51",
+            "Question type": "Contextual Reasoning",
+            "Key words": "Every Day Objects Trick",
+            "Question": "At 0:51 of the video, where did the card on the table come from (from the audience's perspective)?",
+            "Answer": "The card on the table came from the wallet of the man in brown suit and glasses sitting on the right."
+         },
+         {
+            "UID": 3049,
+            "Timestamp": "0:56",
+            "Question type": "Contextual Reasoning",
+            "Key words": "Every Day Objects Trick",
+            "Question": "At 0:56 of the video, how many cards are the magician holding in his hands?",
+            "Answer": "The magician is holding 2 cards in his hands."
+         },
+         {
+            "UID": 3050,
+            "Timestamp": "1:22",
+            "Question type": "Contextual Reasoning",
+            "Key words": "Every Day Objects Trick",
+            "Question": "At 1:22 of the video, how many cards does the magician have right now?",
+            "Answer": "The magician only has one card right now."
+         },
+         {
+            "UID": 3051,
+            "Timestamp": "1:53",
+            "Question type": "Adversarial, False Implication",
+            "Key words": "Every Day Objects Trick",
+            "Question": "At 1:53 of the video, have you seen the cards that the magician is holding before? Please give me your answer and reason.",
+            "Answer": "No, the cards that the magician is holding are not the same as before. They differ in color and design from the cards the magician was holding before."
+         },
+         {
+            "UID": 3052,
+            "Timestamp": "2:03",
+            "Question type": "Contextual Reasoning",
+            "Key words": "Every Day Objects Trick",
+            "Question": "At 2:03 of the video, where did the two cards in the magician's hand just go?",
+            "Answer": "The cards went into the envelopes that the two men in brown suits have in front of them, respectively."
+         },
+         {
+            "UID": 3053,
+            "Timestamp": "2:33",
+            "Question type": "Contextual Reasoning",
+            "Key words": "Every Day Objects Trick",
+            "Question": "At 2:33 of the video, what was taken out of the big black bag?",
+            "Answer": "A black can of coke and a smaller bag were taken out of the big black bag."
+         },
+         {
+            "UID": 3054,
+            "Timestamp": "2:54",
+            "Question type": "Contextual Reasoning",
+            "Key words": "Every Day Objects Trick",
+            "Question": "At 2:54 of the video, how many objects were taken out of the smaller bag?",
+            "Answer": "Two objects were taken out of the smaller bag (one bowl and one indistinguishable object)."
+         },
+         {
+            "UID": 3055,
+            "Timestamp": "3:52",
+            "Question type": "Contextual Reasoning",
+            "Key words": "Every Day Objects Trick",
+            "Question": "At 3:52 of the video, what is in the red bowl on the table?",
+            "Answer": "Two of the three envelopes were put in the red bowl."
+         },
+         {
+            "UID": 3056,
+            "Timestamp": "3:59",
+            "Question type": "Contextual Reasoning",
+            "Key words": "Every Day Objects Trick",
+            "Question": "At 3:59 of the video, when the magician is igniting the envelopes in the red bowl, what is he also doing with his other hand?",
+            "Answer": "The magician is drinking the Coke with his other hand."
+         },
+         {
+            "UID": 3057,
+            "Timestamp": "4:16",
+            "Question type": "Adversarial, False Implication",
+            "Key words": "Every Day Objects Trick",
+            "Question": "At 4:16 of the video, did the card in the envelope that was not burnt come from the man in the brown suit? Please give me your answer and reason.",
+            "Answer": "No, the card is not the one that the man in the brown suit had. It is a card from the magician."
+         },
+         {
+            "UID": 3058,
+            "Timestamp": "5:00",
+            "Question type": "Contextual Reasoning",
+            "Key words": "Every Day Objects Trick",
+            "Question": "At 5:00 of the video, what did the magician use to put out the fire in the bowl?",
+            "Answer": "The magician put out the fire by pouring the Coke into the bowl."
+         },
+         {
+            "UID": 3059,
+            "Timestamp": "5:35",
+            "Question type": "Paradoxical Reasoning",
+            "Key words": "Every Day Objects Trick",
+            "Question": "At 5:35 of the video, why are the people surprised?",
+            "Answer": "The people are surprised because the card that the man in the brown suit had appeared in the sealed can of Coke."
+         }
+      ],
+      "metadata": {
+         "start": "0:17"
+      }
+   },
+   "ets_kqIYqEY": {
+      "Questions": [
+         {
+            "UID": 3060,
+            "Timestamp": "1:20",
+            "Question type": "Contextual Reasoning",
+            "Key words": "Every Day Objects Trick",
+            "Question": "At 1:20 of the video, where did the magicians get the metal rods originally?",
+            "Answer": "They got the metal rods from the object on stage originally."
+         },
+         {
+            "UID": 3061,
+            "Timestamp": "1:40",
+            "Question type": "Temporal Summarization",
+            "Key words": "Every Day Objects Trick",
+            "Question": "From 1:20 to 1:40, can you summarize what the magicians are doing?",
+            "Answer": "One magician is inside a small cage-like frame, inserting the metal rods. The other is showing solid metal rods and appears to be inserting or aligning them through the structure."
+         },
+         {
+            "UID": 3062,
+            "Timestamp": "2:04",
+            "Question type": "Contextual Reasoning",
+            "Key words": "Every Day Objects Trick",
+            "Question": "At 2:04 of the video, what items were taken out of the big brown suitcase?",
+            "Answer": "A pair of handcuffs and a smaller black suitcase were taken out of the big brown suitcase."
+         },
+         {
+            "UID": 3063,
+            "Timestamp": "2:20",
+            "Question type": "Contextual Reasoning",
+            "Key words": "Every Day Objects Trick",
+            "Question": "At 2:20 of the video, what items were taken out of the black suitcase?",
+            "Answer": "A hammer and a red box were taken out of the black suitcase."
+         },
+         {
+            "UID": 3064,
+            "Timestamp": "2:29",
+            "Question type": "Paradoxical Reasoning",
+            "Key words": "Every Day Objects Trick",
+            "Question": "At 2:29 of the video, why are the people surprised?",
+            "Answer": "The people are surprised because a big metal ball is taken out of a flat red box."
+         },
+         {
+            "UID": 3065,
+            "Timestamp": "4:20",
+            "Question type": "Paradoxical Reasoning",
+            "Key words": "Every Day Objects Trick",
+            "Question": "At 4:20 of the video, why are the people surprised?",
+            "Answer": "The people are surprised because the big metal ball just passed through the frame full of metal rods."
+         },
+         {
+            "UID": 3066,
+            "Timestamp": "4:49",
+            "Question type": "Adversarial, False Implication",
+            "Key words": "Every Day Objects Trick",
+            "Question": "At 4:49 of the video, are the two magicians standing side by side? Please give me your answer and reason.",
+            "Answer": "No, they are not standing side by side. One magician is standing inside the frame, and the other is standing outside of it."
+         },
+         {
+            "UID": 3067,
+            "Timestamp": "4:55",
+            "Question type": "Contextual Reasoning",
+            "Key words": "Every Day Objects Trick",
+            "Question": "At 4:55 of the video, what happened to the magician in the frame full of metal rods?",
+            "Answer": "The magician in the frame had his hands handcuffed across the rods and tried to reach out from the frame."
+         },
+         {
+            "UID": 3068,
+            "Timestamp": "5:27",
+            "Question type": "Paradoxical Reasoning",
+            "Key words": "Every Day Objects Trick",
+            "Question": "At 5:27 of the video, why are the people surprised?",
+            "Answer": "The people are surprised because the magician who was handcuffed behind the frame full of rods went through it with the handcuffs on and without breaking anything."
+         }
+      ],
+      "metadata": {
+         "start": "0:46"
+      }
+   },
+   "aTCSDhpU0gk": {
+      "Questions": [
+         {
+            "UID": 3069,
+            "Timestamp": "0:41",
+            "Question type": "Contextual Reasoning",
+            "Key words": "Card Trick",
+            "Question": "At 0:41 of the video, how many cards had the man standing on the left of the image thrown away from the deck?",
+            "Answer": "Four cards had been thrown away from the deck."
+         },
+         {
+            "UID": 3070,
+            "Timestamp": "1:11",
+            "Question type": "Instant Reasoning",
+            "Key words": "Card Trick",
+            "Question": "At 1:11 of the video, what rank and suit is the card the man standing on the left of the image is holding?",
+            "Answer": "The man standing on the left of the image is holding the ten of clubs."
+         },
+         {
+            "UID": 3071,
+            "Timestamp": "1:48",
+            "Question type": "Contextual Reasoning",
+            "Key words": "Card Trick",
+            "Question": "At 1:48 of the video, what is the man standing on the left of the image holding, and did he shuffle one specific deck of cards previously?",
+            "Answer": "The man standing on the left is holding a box full of decks of cards, and he did shuffle the cards previously."
+         },
+         {
+            "UID": 3072,
+            "Timestamp": "2:03",
+            "Question type": "Contextual Reasoning",
+            "Key words": "Card Trick",
+            "Question": "At 2:03 of the video, where did the card that they picked (a ten of clubs) go?",
+            "Answer": "The card that they picked is now in the box, mixed with other decks of cards."
+         },
+         {
+            "UID": 3073,
+            "Timestamp": "3:13",
+            "Question type": "Adversarial, False Implication",
+            "Key words": "Card Trick",
+            "Question": "At 3:13 of the video, is the man standing on the left side of the stage in the image wearing a blindfold? Please give me your answer and reason.",
+            "Answer": "No, the man standing on the left side of the stage in the image is not wearing a blindfold. He is wearing a pair of headphones."
+         },
+         {
+            "UID": 3074,
+            "Timestamp": "3:33",
+            "Question type": "Contextual Reasoning",
+            "Key words": "Card Trick",
+            "Question": "At 3:33 of the video, how many decks of cards are in those men's hands?",
+            "Answer": "There are 8 decks of cards in those men's hands."
+         },
+         {
+            "UID": 3075,
+            "Timestamp": "3:59",
+            "Question type": "Contextual Reasoning",
+            "Key words": "Card Trick",
+            "Question": "At 3:59 of the video, where are all the decks of cards going?",
+            "Answer": "The decks of cards are getting thrown into a paper shredder."
+         },
+         {
+            "UID": 3076,
+            "Timestamp": "4:17",
+            "Question type": "Contextual Reasoning",
+            "Key words": "Card Trick",
+            "Question": "At 4:17 of the video, how many decks of cards are still on stage and complete?",
+            "Answer": "There is only one deck of cards still on stage and complete."
+         },
+         {
+            "UID": 3077,
+            "Timestamp": "4:25",
+            "Question type": "Contextual Reasoning",
+            "Key words": "Card Trick",
+            "Question": "At 4:25 of the video, how many decks of cards are left on the table now?",
+            "Answer": "Only one deck of cards is left on the table."
+         },
+         {
+            "UID": 3078,
+            "Timestamp": "4:45",
+            "Question type": "Contextual Reasoning",
+            "Key words": "Card Trick",
+            "Question": "At 4:45 of the video, where does the card on the table come from?",
+            "Answer": "It comes from the one last deck that didn't get thrown into the paper shredder."
+         },
+         {
+            "UID": 3079,
+            "Timestamp": "5:00",
+            "Question type": "Paradoxical Reasoning",
+            "Key words": "Card Trick",
+            "Question": "At 5:00 of the video, why are the people surprised?",
+            "Answer": "The people are surprised because the card drawn from the deck that didn't get thrown away is the card that was chosen at the beginning."
+         }
+      ],
+      "metadata": {
+         "start": "0:32"
+      }
+   },
+   "Scb3mOibl08": {
+      "Questions": [
+         {
+            "UID": 3080,
+            "Timestamp": "0:27",
+            "Question type": "Contextual Reasoning",
+            "Key words": "Every Day Objects Trick",
+            "Question": "At 0:27 of the video, based on the picture on the screen, what do you think this magic is about?",
+            "Answer": "The magic is about coins."
+         },
+         {
+            "UID": 3081,
+            "Timestamp": "1:13",
+            "Question type": "Contextual Reasoning",
+            "Key words": "Every Day Objects Trick",
+            "Question": "At 1:13 of the video, where did the magician get the pen?",
+            "Answer": "He made the pen appear from nothing."
+         },
+         {
+            "UID": 3082,
+            "Timestamp": "1:19",
+            "Question type": "Paradoxical Reasoning",
+            "Key words": "Every Day Objects Trick",
+            "Question": "At 1:19 of the video, why are the people surprised?",
+            "Answer": "The people are surprised because 4 coins came out of the cap of the pen."
+         },
+         {
+            "UID": 3083,
+            "Timestamp": "1:29",
+            "Question type": "Contextual Reasoning",
+            "Key words": "Every Day Objects Trick",
+            "Question": "At 1:29 of the video, where is the pen?",
+            "Answer": "The pen has been put into the magician's pocket."
+         },
+         {
+            "UID": 3084,
+            "Timestamp": "1:36",
+            "Question type": "Contextual Reasoning",
+            "Key words": "Every Day Objects Trick",
+            "Question": "At 1:36 of the video, how many coins are there on the table?",
+            "Answer": "There are 4 coins stacked up on the table."
+         },
+         {
+            "UID": 3085,
+            "Timestamp": "2:01",
+            "Question type": "Temporal Summarization",
+            "Key words": "Every Day Objects Trick",
+            "Question": "From 1:00 to 2:01, can you summarize what the magician has been doing so far?",
+            "Answer": "The magician got four coins from a pen that appeared magically, and then the magician has been playing tricks with the four coins."
+         },
+         {
+            "UID": 3086,
+            "Timestamp": "2:43",
+            "Question type": "Contextual Reasoning",
+            "Key words": "Every Day Objects Trick",
+            "Question": "At 2:43 of the video, how many coins are in the hands of the man on the rightmost side of the image?",
+            "Answer": "Three coins are in the hands of the man on the rightmost side of the image."
+         },
+         {
+            "UID": 3087,
+            "Timestamp": "2:43",
+            "Question type": "Adversarial, False Implication",
+            "Key words": "Every Day Objects Trick",
+            "Question": "At 2:43 of the video, are there two coins in the magician's hands? Please give me your answer and reason.",
+            "Answer": "No, there is only one coin in the magician's hands."
+         },
+         {
+            "UID": 3088,
+            "Timestamp": "2:58",
+            "Question type": "Paradoxical Reasoning",
+            "Key words": "Every Day Objects Trick",
+            "Question": "At 2:58 of the video, why are the people surprised?",
+            "Answer": "The people are surprised because one coin from the man's hand has been moved to the magician's hands."
+         },
+         {
+            "UID": 3089,
+            "Timestamp": "3:49",
+            "Question type": "Contextual Reasoning",
+            "Key words": "Every Day Objects Trick",
+            "Question": "At 3:49 of the video, how many coins are in the woman's hand?",
+            "Answer": "There are 2 coins in the woman's hand."
+         },
+         {
+            "UID": 3090,
+            "Timestamp": "4:37",
+            "Question type": "Paradoxical Reasoning",
+            "Key words": "Every Day Objects Trick",
+            "Question": "At 4:37 of the video, why are the people surprised?",
+            "Answer": "The people are surprised because only one coin was dropped from the woman's hand, but she originally had two coins."
+         },
+         {
+            "UID": 3091,
+            "Timestamp": "4:48",
+            "Question type": "Paradoxical Reasoning",
+            "Key words": "Every Day Objects Trick",
+            "Question": "At 4:48 of the video, why are the people surprised?",
+            "Answer": "The people are surprised because the three disappeared coins are in the magician's hand."
+         },
+         {
+            "UID": 3092,
+            "Timestamp": "6:08",
+            "Question type": "Paradoxical Reasoning",
+            "Key words": "Every Day Objects Trick",
+            "Question": "At 6:08 of the video, why are the people surprised?",
+            "Answer": "The people are surprised because four coins are dropped from the man's hand, but before that, the man had only three coins."
+         }
+      ],
+      "metadata": {
+         "start": "0:25"
+      }
+   },
+   "tytgI4J4VnA": {
+      "Questions": [
+         {
+            "UID": 3093,
+            "Timestamp": "1:19",
+            "Question type": "Contextual Reasoning",
+            "Key words": "Every Day Objects Trick",
+            "Question": "At 1:19 of the video, how many numbered cubes are stacked on the table?",
+            "Answer": "There are nine numbered cubes stacked on the table."
+         },
+         {
+            "UID": 3094,
+            "Timestamp": "1:48",
+            "Question type": "Contextual Reasoning",
+            "Key words": "Every Day Objects Trick",
+            "Question": "At 1:48 of the video, how many cubes are stacked on the table? How many of them have visible numbers?",
+            "Answer": "There are nine cubes stacked on the table, and I can see the numbers on six of them."
+         },
+         {
+            "UID": 3095,
+            "Timestamp": "2:41",
+            "Question type": "Contextual Reasoning",
+            "Key words": "Every Day Objects Trick",
+            "Question": "At 2:41 of the video, what numbers were put in the magic prop box,reading from left to right of the image?",
+            "Answer": "The numbers are six, one, nine, seven, and three, reading from left to right."
+         },
+         {
+            "UID": 3096,
+            "Timestamp": "3:45",
+            "Question type": "Adversarial, False Implication",
+            "Key words": "Every Day Objects Trick",
+            "Question": "At 3:45 of the video, are there three cubes in total left on the table? Please give me your answer and reason.",
+            "Answer": "No, there are four cubes left on the table."
+         },
+         {
+            "UID": 3097,
+            "Timestamp": "4:04",
+            "Question type": "Temporal Summarization",
+            "Key words": "Every Day Objects Trick",
+            "Question": "Can you describe what the magician (woman) and the man are doing from 3:45 to 4:04?",
+            "Answer": "The man is standing behind the woman, who is seated asleep on a chair, and putting his hands on her shoulders."
+         },
+         {
+            "UID": 3098,
+            "Timestamp": "4:10",
+            "Question type": "Instant Reasoning",
+            "Key words": "Every Day Objects Trick",
+            "Question": "At 4:10 of the video, what numbers were put in the magic prop box reading from left to right of the image?",
+            "Answer": "The numbers are six, one, nine, seven, and three, reading from left to right."
+         },
+         {
+            "UID": 3099,
+            "Timestamp": "4:20",
+            "Question type": "Paradoxical Reasoning",
+            "Key words": "Every Day Objects Trick",
+            "Question": "At 4:20 of the video, why are the people surprised?",
+            "Answer": "The people are surprised probably because the magician guessed the numbers on the box right."
+         }
+      ],
+      "metadata": {
+         "start": "1:04"
+      }
+   },
+   "DNaGe4CpEGg": {
+      "Questions": [
+         {
+            "UID": 3100,
+            "Timestamp": "0:56",
+            "Question type": "Contextual Reasoning",
+            "Key words": "Every Day Objects Trick",
+            "Question": "At 0:56 of the video, what did the magician take out of the jewelry box?",
+            "Answer": "The magician took a white spool out of the jewelry box."
+         },
+         {
+            "UID": 3101,
+            "Timestamp": "1:22",
+            "Question type": "Contextual Reasoning",
+            "Key words": "Every Day Objects Trick",
+            "Question": "At 1:22 of the video, where did the white spool go?",
+            "Answer": "The white spool was put back into the jewelry box."
+         },
+         {
+            "UID": 3102,
+            "Timestamp": "1:46",
+            "Question type": "Contextual Reasoning",
+            "Key words": "Every Day Objects Trick",
+            "Question": "At 1:46 of the video, are there pieces of thread on the table?",
+            "Answer": "Yes, there are pieces of thread on the table."
+         },
+         {
+            "UID": 3103,
+            "Timestamp": "2:37",
+            "Question type": "Contextual Reasoning",
+            "Key words": "Every Day Objects Trick",
+            "Question": "At 2:37 of the video, what happened to the pieces of thread?",
+            "Answer": "The pieces of thread got wadded up into a small ball."
+         },
+         {
+            "UID": 3104,
+            "Timestamp": "3:07",
+            "Question type": "Instant Reasoning",
+            "Key words": "Every Day Objects Trick",
+            "Question": "At 3:07 of the video, what is everybody doing in the scene?",
+            "Answer": "Everybody is stacking their hands together over the table, participating in the trick."
+         },
+         {
+            "UID": 3105,
+            "Timestamp": "4:34",
+            "Question type": "Paradoxical Reasoning",
+            "Key words": "Every Day Objects Trick",
+            "Question": "At 4:34 of the video, why are the people surprised?",
+            "Answer": "The people are surprised because the wadded-up ball gets untangled perfectly back into one long thread."
+         },
+         {
+            "UID": 3106,
+            "Timestamp": "5:16",
+            "Question type": "Paradoxical Reasoning",
+            "Key words": "Every Day Objects Trick",
+            "Question": "At 5:16 of the video, why are the people surprised?",
+            "Answer": "The people are surprised because the wadded-up ball turned into a powdery substance."
+         }
+      ],
+      "metadata": {
+         "start": "0:36"
+      }
+   },
+   "3vxl7EKxOe4": {
+      "Questions": [
+         {
+            "UID": 3107,
+            "Timestamp": "0:28",
+            "Question type": "Paradoxical Reasoning",
+            "Key words": "Illusions Trick",
+            "Question": "At 0:28 of the video, why are the people surprised?",
+            "Answer": "The people are surprised because the backpack started to fly."
+         },
+         {
+            "UID": 3108,
+            "Timestamp": "0:48",
+            "Question type": "Contextual Reasoning",
+            "Key words": "Illusions Trick",
+            "Question": "At 0:48 of the video, what is the magician holding?",
+            "Answer": "The magician is holding a poker card."
+         },
+         {
+            "UID": 3109,
+            "Timestamp": "0:53",
+            "Question type": "Adversarial, False Implication",
+            "Key words": "Illusions Trick",
+            "Question": "At 0:53 of the video, are the clothes flying over the magician? Please give me your answer and reason.",
+            "Answer": "No, the clothes are flying onto the magician and turn out to be real clothes."
+         },
+         {
+            "UID": 3110,
+            "Timestamp": "1:11",
+            "Question type": "Paradoxical Reasoning",
+            "Key words": "Illusions Trick",
+            "Question": "At 1:11 of the video, why are the people surprised?",
+            "Answer": "The people are surprised because the magician started to fly with poker cards floating around him."
+         },
+         {
+            "UID": 3111,
+            "Timestamp": "1:38",
+            "Question type": "Temporal Summarization",
+            "Key words": "Illusions Trick",
+            "Question": "Can you summarize what the magician was performing from 1:21 to 1:38?",
+            "Answer": "The magician was pretending to play the piano, and there were notes flying all over."
+         },
+         {
+            "UID": 3112,
+            "Timestamp": "1:52",
+            "Question type": "Paradoxical Reasoning",
+            "Key words": "Illusions Trick",
+            "Question": "At 1:52 of the video, why are the people surprised?",
+            "Answer": "The people are surprised because a real piano suddenly appears."
+         },
+         {
+            "UID": 3113,
+            "Timestamp": "1:59",
+            "Question type": "Contextual Reasoning",
+            "Key words": "Illusions Trick",
+            "Question": "At 1:59 of the video, is the piano real?",
+            "Answer": "Yes, the piano is real."
+         }
+      ],
+      "metadata": {
+         "start": "0:00"
+      }
+   },
+   "2IpYH5Wm0fo": {
+      "Questions": [
+         {
+            "UID": 3114,
+            "Timestamp": "0:46",
+            "Question type": "Contextual Reasoning",
+            "Key words": "Card Trick",
+            "Question": "At 0:46 of the video, how many poker cards has the magician (man in dark green) handed out?",
+            "Answer": "Two poker cards have been handed out."
+         },
+         {
+            "UID": 3115,
+            "Timestamp": "1:27",
+            "Question type": "Paradoxical Reasoning",
+            "Key words": "Card Trick",
+            "Question": "At 1:27 of the video, why are the people surprised?",
+            "Answer": "The people are surprised because the poker card in the deck was moving without physical interaction."
+         },
+         {
+            "UID": 3116,
+            "Timestamp": "1:35",
+            "Question type": "Contextual Reasoning",
+            "Key words": "Card Trick",
+            "Question": "At 1:35 of the video, what is the suit and rank of the card that was moving on its own?",
+            "Answer": "The card is the three of hearts."
+         },
+         {
+            "UID": 3117,
+            "Timestamp": "2:10",
+            "Question type": "Instant Reasoning",
+            "Key words": "Card Trick",
+            "Question": "At 2:10 of the video, what is on the ladder?",
+            "Answer": "The deck of cards is on the ladder."
+         },
+         {
+            "UID": 3118,
+            "Timestamp": "2:32",
+            "Question type": "Paradoxical Reasoning",
+            "Key words": "Card Trick",
+            "Question": "At 2:32 of the video, why are the people surprised?",
+            "Answer": "The people are surprised because the poker card in the deck was moving without physical interaction."
+         },
+         {
+            "UID": 3119,
+            "Timestamp": "2:37",
+            "Question type": "Paradoxical Reasoning",
+            "Key words": "Card Trick",
+            "Question": "At 2:37 of the video, why are the people surprised?",
+            "Answer": "The people are surprised because the card that popped out of the deck is the card that the participant wrote on paper, which is the eight of hearts."
+         },
+         {
+            "UID": 3120,
+            "Timestamp": "3:10",
+            "Question type": "Contextual Reasoning",
+            "Key words": "Card Trick",
+            "Question": "At 3:10 of the video, can the deck of cards still be seen from the people?",
+            "Answer": "No, the deck of cards can no longer be seen."
+         },
+         {
+            "UID": 3121,
+            "Timestamp": "3:12",
+            "Question type": "Instant Reasoning",
+            "Key words": "Card Trick",
+            "Question": "At 3:12 of the video, what is showing on the big screen?",
+            "Answer": "The big screen is showing a white balloon carrying something in the sky."
+         },
+         {
+            "UID": 3122,
+            "Timestamp": "3:23",
+            "Question type": "Contextual Reasoning",
+            "Key words": "Card Tricks Trick",
+            "Question": "At 3:23 of the video, what is showing on the screen? Is it something that has appeared before?",
+            "Answer": "A deck of cards is showing on the screen. Yes, it is something that has appeared before."
+         },
+         {
+            "UID": 3123,
+            "Timestamp": "3:35",
+            "Question type": "Adversarial, False Implication",
+            "Key words": "Card Tricks Trick",
+            "Question": "At 3:35 of the video, is this card that popped out of the deck the same card that the participant wrote on paper? Please give me your answer and reason.",
+            "Answer": "No, this card that popped out of the deck is not the same card that the participant wrote on paper. The card that popped out of the deck is the queen of diamonds, while the card that the participant wrote on paper is the eight of hearts."
+         }
+      ],
+      "metadata": {
+         "start": "0:34"
+      }
+   },
+   "nR8BWHMVLV0": {
+      "Questions": [
+         {
+            "UID": 3124,
+            "Timestamp": "0:05",
+            "Question type": "Contextual Reasoning",
+            "Key words": "Card Trick",
+            "Question": "At 0:05 of the video, what is the magician holding in his hands?",
+            "Answer": "The magician is holding a deck of poker cards in his hands."
+         },
+         {
+            "UID": 3125,
+            "Timestamp": "0:53",
+            "Question type": "Instant Reasoning",
+            "Key words": "Card Trick",
+            "Question": "At 0:53 of the video, what is the magician holding?",
+            "Answer": "The magician is holding an empty box."
+         },
+         {
+            "UID": 3126,
+            "Timestamp": "1:07",
+            "Question type": "Contextual Reasoning",
+            "Key words": "Card Trick",
+            "Question": "At 1:07 of the video, where is the deck of poker cards?",
+            "Answer": "The deck of poker cards is in the woman's hands."
+         },
+         {
+            "UID": 3127,
+            "Timestamp": "1:31",
+            "Question type": "Contextual Reasoning",
+            "Key words": "Card Trick",
+            "Question": "At 1:31 of the video, has the box been closed up?",
+            "Answer": "Yes, the box has been closed up."
+         },
+         {
+            "UID": 3128,
+            "Timestamp": "1:41",
+            "Question type": "Adversarial, False Implication",
+            "Key words": "Card Trick",
+            "Question": "At 1:41 of the video, did the cards get thrown into the box?",
+            "Answer": "No, the cards didn't get thrown into the box. They got thrown somewhere on the floor."
+         },
+         {
+            "UID": 3129,
+            "Timestamp": "2:37",
+            "Question type": "Instant Reasoning",
+            "Key words": "Card Trick",
+            "Question": "At 2:37 of the video, what is the poker card that the woman was showing?",
+            "Answer": "The card is the six of hearts."
+         },
+         {
+            "UID": 3130,
+            "Timestamp": "2:33",
+            "Question type": "Contextual Reasoning",
+            "Key words": "Card Tricks Trick",
+            "Question": "At 2:33 of the video, is the magician (the man) holding poker cards in his hands?",
+            "Answer": "Yes, the magician is holding poker cards in his hands."
+         },
+         {
+            "UID": 3131,
+            "Timestamp": "2:50",
+            "Question type": "Paradoxical Reasoning",
+            "Key words": "Card Tricks Trick",
+            "Question": "At 2:50 of the video, why are the people surprised?",
+            "Answer": "The people are surprised because the poker card in the magician's hand suddenly disappears."
+         },
+         {
+            "UID": 3132,
+            "Timestamp": "2:45",
+            "Question type": "Contextual Reasoning",
+            "Key words": "Card Tricks Trick",
+            "Question": "At 2:45 of the video, what are the rank and suit of the missing card?",
+            "Answer": "It is the six of hearts."
+         },
+         {
+            "UID": 3133,
+            "Timestamp": "3:47",
+            "Question type": "Paradoxical Reasoning",
+            "Key words": "Card Tricks Trick",
+            "Question": "At 3:47 of the video, why are the people surprised?",
+            "Answer": "The people are surprised because the card that disappeared earlier is now inside the closed box."
+         }
+      ],
+      "metadata": {
+         "start": "0:00"
+      }
+   },
+   "xkscdfTVPbc": {
+      "Questions": [
+         {
+            "UID": 3134,
+            "Timestamp": "0:37",
+            "Question type": "Contextual Reasoning",
+            "Key words": "Illusions Trick",
+            "Question": "At 0:37 of the video, what is the magician holding in his hands?",
+            "Answer": "He is holding a red thread in one hand and a small red ball of thread in the other hand."
+         },
+         {
+            "UID": 3135,
+            "Timestamp": "0:42",
+            "Question type": "Adversarial, False Implication",
+            "Key words": "Illusions Trick",
+            "Question": "At 0:42 of the video, is there a red ball of thread connected to a red thread? Please give me your answer and reason.",
+            "Answer": "No, there isn't. The red ball of thread has been detached from the red thread by the magician."
+         },
+         {
+            "UID": 3136,
+            "Timestamp": "0:55",
+            "Question type": "Contextual Reasoning",
+            "Key words": "Illusions Trick",
+            "Question": "At 0:55 of the video, where did the red ball of thread go?",
+            "Answer": "The red ball of thread went into the metal cup on the left of the image."
+         },
+         {
+            "UID": 3137,
+            "Timestamp": "0:58",
+            "Question type": "Paradoxical Reasoning",
+            "Key words": "Illusions Trick",
+            "Question": "At 0:58 of the video, why are the people surprised?",
+            "Answer": "The people are surprised because the red ball moved places from one metal cup to another."
+         },
+         {
+            "UID": 3138,
+            "Timestamp": "1:06",
+            "Question type": "Paradoxical Reasoning",
+            "Key words": "Illusions Trick",
+            "Question": "At 1:06 of the video, why are the people surprised?",
+            "Answer": "The people are surprised because the red ball was dropped into the metal cup on the left of the image and popped out of the metal cup on the right of the image."
+         },
+         {
+            "UID": 3139,
+            "Timestamp": "1:20",
+            "Question type": "Paradoxical Reasoning",
+            "Key words": "Illusions Trick",
+            "Question": "At 1:20 of the video, why are the people surprised?",
+            "Answer": "The people are surprised because the red ball kept going in from the left cup and coming out from the right cup in the image."
+         },
+         {
+            "UID": 3140,
+            "Timestamp": "1:47",
+            "Question type": "Adversarial, False Implication",
+            "Key words": "Illusions Trick",
+            "Question": "At 1:47 of the video, are there only two red balls on the table? Please give me your answer and reason.",
+            "Answer": "No, there are three red balls on the table."
+         },
+         {
+            "UID": 3141,
+            "Timestamp": "1:55",
+            "Question type": "Paradoxical Reasoning",
+            "Key words": "Illusions Trick",
+            "Question": "At 1:55 of the video, why are the people surprised?",
+            "Answer": "The people are surprised because the magician turned a thread into five small red balls."
+         },
+         {
+            "UID": 3142,
+            "Timestamp": "2:09",
+            "Question type": "Temporal Summarization",
+            "Key words": "Illusions Trick",
+            "Question": "Can you summarize what the magician was doing from 0:00 to 2:09?",
+            "Answer": "The magician was first using cups to generate red balls, then he was turning thread into red balls and turning the red balls into a bigger red ball."
+         },
+         {
+            "UID": 3143,
+            "Timestamp": "2:43",
+            "Question type": "Adversarial, False Implication",
+            "Key words": "Illusions Trick",
+            "Question": "At 2:43 of the video, is the big ball in one of the two cups? Please give me your answer and reason.",
+            "Answer": "No, it has turned into a long thread."
+         }
+      ],
+      "metadata": {
+         "start": "0:20"
+      }
+   },
+   "rK5hpIDJytU": {
+      "Questions": [
+         {
+            "UID": 3144,
+            "Timestamp": "1:34",
+            "Question type": "Instant Reasoning",
+            "Key words": "Illusions Trick",
+            "Question": "At 1:34 of the video, what is the magician sitting in the middle holding in his hand?",
+            "Answer": "The magician sitting in the middle is holding a deck of poker cards."
+         },
+         {
+            "UID": 3145,
+            "Timestamp": "2:01",
+            "Question type": "Contextual Reasoning",
+            "Key words": "Illusions Trick",
+            "Question": "At 2:01 of the video, what are the rank and suit of the card that was drawn by the magician on the right of the image?",
+            "Answer": "The card is a four of hearts."
+         },
+         {
+            "UID": 3146,
+            "Timestamp": "2:54",
+            "Question type": "Contextual Reasoning",
+            "Key words": "Illusions Trick",
+            "Question": "At 2:54 of the video, what is the object which is in the pocket of the man in the middle of the image?",
+            "Answer": "A deck of cards is in the pocket of the man in the middle of the image."
+         },
+         {
+            "UID": 3147,
+            "Timestamp": "3:41",
+            "Question type": "Contextual Reasoning",
+            "Key words": "Illusions Trick",
+            "Question": "At 3:41 of the video, how many cards has the man in the middle taken out from his pocket?",
+            "Answer": "12 cards were taken out of the man's pocket."
+         },
+         {
+            "UID": 3148,
+            "Timestamp": "3:50",
+            "Question type": "Paradoxical Reasoning",
+            "Key words": "Illusions Trick",
+            "Question": "At 3:50 of the video, why are the people surprised?",
+            "Answer": "The people are surprised because the card matches the one the man on the right of the image chose at the beginning."
+         }
+      ],
+      "metadata": {
+         "start": "1:10"
+      }
+   },
+   "Hul78CKIKxk": {
+      "Questions": [
+         {
+            "UID": 3149,
+            "Timestamp": "1:10",
+            "Question type": "Contextual Reasoning",
+            "Key words": "Illusions Trick",
+            "Question": "At 1:10 of the video, who is holding the pen?",
+            "Answer": "The man on the right (the magician) is holding the pen."
+         },
+         {
+            "UID": 3150,
+            "Timestamp": "1:32",
+            "Question type": "Instant Reasoning",
+            "Key words": "Illusions Trick",
+            "Question": "At 1:32 of the video, what is showing on the screen?",
+            "Answer": "A selfie of two men, one of whom was holding a drawing, is showing on the screen."
+         },
+         {
+            "UID": 3151,
+            "Timestamp": "2:01",
+            "Question type": "Contextual Reasoning",
+            "Key words": "Illusions Trick",
+            "Question": "At 2:01 of the video, what is showing on the screen? Have you seen it before?",
+            "Answer": "The same selfie as before is shown on the screen, which shows two men, one of whom was holding a drawing."
+         },
+         {
+            "UID": 3152,
+            "Timestamp": "2:40",
+            "Question type": "Contextual Reasoning",
+            "Key words": "Illusions Trick",
+            "Question": "At 2:40 of the video, what is inside the blue bag?",
+            "Answer": "A smartphone is inside the blue bag."
+         },
+         {
+            "UID": 3153,
+            "Timestamp": "2:50",
+            "Question type": "Adversarial, False Implication",
+            "Key words": "Illusions Trick",
+            "Question": "At 2:50 of the video, is there a yellow toy on the table? Please give me your answer and reason.",
+            "Answer": "No, there is only a black sheet covering the table."
+         },
+         {
+            "UID": 3154,
+            "Timestamp": "3:30",
+            "Question type": "Contextual Reasoning",
+            "Key words": "Illusions Trick",
+            "Question": "At 3:30 of the video, what has been put inside the brown box?",
+            "Answer": "The yellow toy and the smartphone with the blue bag have been put inside the brown box."
+         },
+         {
+            "UID": 3155,
+            "Timestamp": "3:29",
+            "Question type": "Adversarial, False Implication",
+            "Key words": "Illusions Trick",
+            "Question": "At 3:29 of the video, is the magician holding the black box? Please give me your answer and reason.",
+            "Answer": "No, the magician is not holding the black box. He is putting a small blue bag into a brown box."
+         },
+         {
+            "UID": 3156,
+            "Timestamp": "3:50",
+            "Question type": "Contextual Reasoning",
+            "Key words": "Illusions Trick",
+            "Question": "At 3:50 of the video, what was put inside the yellow envelope?",
+            "Answer": "The man's drawing was put inside the yellow envelope."
+         },
+         {
+            "UID": 3157,
+            "Timestamp": "4:23",
+            "Question type": "Paradoxical Reasoning",
+            "Key words": "Illusions Trick",
+            "Question": "At 4:23 of the video, why are the people surprised?",
+            "Answer": "The people are surprised because there is nothing inside the yellow box."
+         },
+         {
+            "UID": 3158,
+            "Timestamp": "4:55",
+            "Question type": "Paradoxical Reasoning",
+            "Key words": "Illusions Trick",
+            "Question": "At 4:55 of the video, why are the people surprised?",
+            "Answer": "The people are surprised because the yellow toy appears in the black box."
+         },
+         {
+            "UID": 3159,
+            "Timestamp": "5:11",
+            "Question type": "Paradoxical Reasoning",
+            "Key words": "Illusions Trick",
+            "Question": "At 5:11 of the video, why are the people surprised?",
+            "Answer": "The people are surprised because the same drawing appears in the black box."
+         },
+         {
+            "UID": 3160,
+            "Timestamp": "6:17",
+            "Question type": "Paradoxical Reasoning",
+            "Key words": "Illusions Trick",
+            "Question": "At 6:17 of the video, why are the people surprised?",
+            "Answer": "The people are surprised because the timer on the smartphone shows that more than 2 hours have passed."
+         }
+      ],
+      "metadata": {
+         "start": "0:30"
+      }
+   },
+   "OeK4Ywcryxo": {
+      "Questions": [
+         {
+            "UID": 3161,
+            "Timestamp": "0:15",
+            "Question type": "Adversarial, False Implication",
+            "Key words": "Mentalism Trick",
+            "Question": "At 0:15 of the video, is the magician (man) wearing shoes?",
+            "Answer": "No, the magician is barefoot."
+         },
+         {
+            "UID": 3162,
+            "Timestamp": "0:27",
+            "Question type": "Contextual Reasoning",
+            "Key words": "Mentalism Trick",
+            "Question": "At 0:27 of the video, what cut the cucumber?",
+            "Answer": "A mousetrap cut the cucumber in half."
+         },
+         {
+            "UID": 3163,
+            "Timestamp": "0:48",
+            "Question type": "Contextual Reasoning",
+            "Key words": "Mentalism Trick",
+            "Question": "At 0:48 of the video, what is on the table?",
+            "Answer": "Mousetraps are on the table."
+         },
+         {
+            "UID": 3164,
+            "Timestamp": "2:11",
+            "Question type": "Contextual Reasoning",
+            "Key words": "Mentalism Trick",
+            "Question": "At 2:11 of the video, is the magician (man) wearing a blindfold?",
+            "Answer": "Yes, the magician is wearing a blindfold."
+         },
+         {
+            "UID": 3165,
+            "Timestamp": "2:25",
+            "Question type": "Contextual Reasoning",
+            "Key words": "Mentalism Trick",
+            "Question": "At 2:25 of the video, what is the magician standing on?",
+            "Answer": "The magician is standing on a table."
+         },
+         {
+            "UID": 3166,
+            "Timestamp": "4:20",
+            "Question type": "Paradoxical Reasoning",
+            "Key words": "Mentalism Trick",
+            "Question": "At 4:20 of the video, why are the people surprised?",
+            "Answer": "The people are surprised because the magician is stepping on the exact spots without mousetraps."
+         },
+         {
+            "UID": 3167,
+            "Timestamp": "4:37",
+            "Question type": "Paradoxical Reasoning",
+            "Key words": "Mentalism Trick",
+            "Question": "At 4:37 of the video, why are the people surprised?",
+            "Answer": "The people are surprised because the magician is standing on one foot without visual aid."
+         },
+         {
+            "UID": 3168,
+            "Timestamp": "5:12",
+            "Question type": "Adversarial, False Implication",
+            "Key words": "Mentalism Trick",
+            "Question": "At 5:12 of the video, is the magician standing on his feet? Please give me your answer and reason.",
+            "Answer": "No. The magician is upside down, supporting himself on his hands rather than standing on his feet."
+         },
+         {
+            "UID": 3169,
+            "Timestamp": "5:19",
+            "Question type": "Paradoxical Reasoning",
+            "Key words": "Mentalism Trick",
+            "Question": "At 5:19 of the video, why are the people surprised?",
+            "Answer": "The people are surprised because the magician avoids all the mousetraps while walking on his hands."
+         },
+         {
+            "UID": 3170,
+            "Timestamp": "5:21",
+            "Question type": "Adversarial, False Implication",
+            "Key words": "Mentalism Trick",
+            "Question": "At 5:21 of the video, is the magician (man) wearing a scarf?",
+            "Answer": "No, the magician is wearing a blindfold."
+         }
+      ],
+      "metadata": {
+         "start": "0:01"
+      }
+   },
+   "-9zKBNjnYZI": {
+      "Questions": [
+         {
+            "UID": 3171,
+            "Timestamp": "0:38",
+            "Question type": "Contextual Reasoning",
+            "Key words": "Mentalism Trick",
+            "Question": "At 0:38 of the video, how many numbers are on the edge of the table in the back?",
+            "Answer": "There are four visible numbers and one hidden number on the edge of the table in the back."
+         },
+         {
+            "UID": 3172,
+            "Timestamp": "1:35",
+            "Question type": "Contextual Reasoning",
+            "Key words": "Mentalism Trick",
+            "Question": "At 1:35 of the video, what is the woman holding in her hand?",
+            "Answer": "The woman is holding a post-it note in her hand."
+         },
+         {
+            "UID": 3173,
+            "Timestamp": "2:19",
+            "Question type": "Contextual Reasoning",
+            "Key words": "Mentalism Trick",
+            "Question": "At 2:19 of the video, where did the woman go?",
+            "Answer": "The woman went to the back of the curtains."
+         },
+         {
+            "UID": 3174,
+            "Timestamp": "3:38",
+            "Question type": "Contextual Reasoning",
+            "Key words": "Mentalism Trick",
+            "Question": "At 3:38 of the video, what number was written on the paper?",
+            "Answer": "Number two was written on the paper."
+         },
+         {
+            "UID": 3175,
+            "Timestamp": "3:46",
+            "Question type": "Adversarial, False Implication",
+            "Key words": "Mentalism Trick",
+            "Question": "At 3:46 of the video, what are those two people on the right of the image doing? Are the magician's hands free? Please give me your answer and reason.",
+            "Answer": "No, the magician's hands are not free. The woman was tying up the magician."
+         },
+         {
+            "UID": 3176,
+            "Timestamp": "4:08",
+            "Question type": "Instant Reasoning",
+            "Key words": "Mentalism Trick",
+            "Question": "At 4:08 of the video, what is the magician standing on?",
+            "Answer": "The magician is standing on a table."
+         },
+         {
+            "UID": 3177,
+            "Timestamp": "4:12",
+            "Question type": "Contextual Reasoning",
+            "Key words": "Mentalism Trick",
+            "Question": "At 4:12 of the video, which number section of the table is the magician (man) standing on?",
+            "Answer": "The magician is standing on the section with number two."
+         },
+         {
+            "UID": 3178,
+            "Timestamp": "4:17",
+            "Question type": "Instant Reasoning",
+            "Key words": "Mentalism Trick",
+            "Question": "At 4:17 of the video, what is around the magician (man)'s neck?",
+            "Answer": "The magician has a noose around his neck."
+         },
+         {
+            "UID": 3179,
+            "Timestamp": "4:42",
+            "Question type": "Paradoxical Reasoning",
+            "Key words": "Mentalism Trick",
+            "Question": "At 4:42 of the video, why are the people surprised?",
+            "Answer": "The people are surprised because the magician survived the gallows execution."
+         },
+         {
+            "UID": 3180,
+            "Timestamp": "4:45",
+            "Question type": "Contextual Reasoning",
+            "Key words": "Mentalism Trick",
+            "Question": "At 4:45 of the video, are the magician's hands free, and did the woman in black help him escape?",
+            "Answer": "Yes, the magician's hands are free. He escaped without the help of the woman."
+         }
+      ],
+      "metadata": {
+         "start": "0:05"
+      }
+   },
+   "nvVwEgrXIQ0": {
+      "Questions": [
+         {
+            "UID": 3181,
+            "Timestamp": "0:14",
+            "Question type": "Instant Reasoning",
+            "Key words": "Mentalism Trick",
+            "Question": "At 0:14 of the video, what is on the table in front of the magician?",
+            "Answer": "On the table, there is a rectangular box built out of colorful toy bricks (Lego style)."
+         },
+         {
+            "UID": 3182,
+            "Timestamp": "2:37",
+            "Question type": "Adversarial, False Implication",
+            "Key words": "Mentalism Trick",
+            "Question": "At 2:37 of the video, is there a red triangle drawn on the paper? Please give me your answer and reason.",
+            "Answer": "No, what's drawn on the paper is not a red triangle (it's a red rectangle)."
+         },
+         {
+            "UID": 3183,
+            "Timestamp": "3:06",
+            "Question type": "Contextual Reasoning",
+            "Key words": "Mentalism Trick",
+            "Question": "At 3:06 of the video, is there a number drawn on the paper?",
+            "Answer": "Yes, there is a number drawn on the paper (number 2)."
+         },
+         {
+            "UID": 3184,
+            "Timestamp": "3:42",
+            "Question type": "Contextual Reasoning",
+            "Key words": "Mentalism Trick",
+            "Question": "At 3:42 of the video, what did the magician (the man in the middle) just take out and hand to the man on the left of the image?",
+            "Answer": "The magician took out a baseball bat and handed it to the man on the left of the image."
+         },
+         {
+            "UID": 3185,
+            "Timestamp": "4:15",
+            "Question type": "Contextual Reasoning",
+            "Key words": "Mentalism Trick",
+            "Question": "At 4:15 of the video, what happened to the box made of toy bricks?",
+            "Answer": "It was broken apart by the baseball bat."
+         },
+         {
+            "UID": 3186,
+            "Timestamp": "4:35",
+            "Question type": "Adversarial, False Implication",
+            "Key words": "Mentalism Trick",
+            "Question": "At 4:35 of the video, is the magician (man in the middle) holding a piece of paper in his hand? Please give me your answer and reason.",
+            "Answer": "No, the magician is holding a brick in his hand."
+         },
+         {
+            "UID": 3187,
+            "Timestamp": "5:07",
+            "Question type": "Contextual Reasoning",
+            "Key words": "Mentalism Trick",
+            "Question": "At 5:07 of the video, is the small wooden box locked?",
+            "Answer": "Yes, the small wooden box is locked."
+         },
+         {
+            "UID": 3188,
+            "Timestamp": "5:35",
+            "Question type": "Paradoxical Reasoning",
+            "Key words": "Mentalism Trick",
+            "Question": "At 5:35 of the video, why are the people surprised?",
+            "Answer": "The people are surprised because the card taken out of the box matches what was drawn on the paper, which is the two of diamonds."
+         },
+         {
+            "UID": 3189,
+            "Timestamp": "5:44",
+            "Question type": "Contextual Reasoning",
+            "Key words": "Mentalism Trick",
+            "Question": "At 5:44 of the video, what is on the floor?",
+            "Answer": "Lego brick pieces are scattered around on the floor."
+         }
+      ],
+      "metadata": {
+         "start": "0:00"
+      }
+   },
+   "UbqhGECeRBQ": {
+      "Questions": [
+         {
+            "UID": 3190,
+            "Timestamp": "0:13",
+            "Question type": "Instant Reasoning",
+            "Key words": "Mentalism Trick",
+            "Question": "At 0:13 of the video, what is the magician holding in his hand?",
+            "Answer": "The magician is holding a wooden box in his hand."
+         },
+         {
+            "UID": 3191,
+            "Timestamp": "1:28",
+            "Question type": "Contextual Reasoning",
+            "Key words": "Mentalism Trick",
+            "Question": "At 1:28 of the video, was there an eye patch on the man's right eye in the portrait? Does the portrait look like one of the audience members?",
+            "Answer": "Yes, there is an eye patch on the man's right eye in the portrait. Yes, it looks like the man sitting in front of the stage on the left of the image."
+         },
+         {
+            "UID": 3192,
+            "Timestamp": "3:01",
+            "Question type": "Instant Reasoning",
+            "Key words": "Mentalism Trick",
+            "Question": "At 3:01 of the video, what is written on top of the portrait?",
+            "Answer": "The words 'Red Bandit' are written on top of the portrait."
+         },
+         {
+            "UID": 3193,
+            "Timestamp": "3:25",
+            "Question type": "Contextual Reasoning",
+            "Key words": "Mentalism Trick",
+            "Question": "At 3:25 of the video, what was in the wooden box?",
+            "Answer": "A gun was in the wooden box."
+         },
+         {
+            "UID": 3194,
+            "Timestamp": "3:42",
+            "Question type": "Adversarial, False Implication",
+            "Key words": "Mentalism Trick",
+            "Question": "At 3:42 of the video, is the gun loaded with bullets? Please give me your answer and reason.",
+            "Answer": "No, the gun was just pulled out of the wooden box, and no bullets have been loaded into it."
+         },
+         {
+            "UID": 3195,
+            "Timestamp": "4:14",
+            "Question type": "Paradoxical Reasoning",
+            "Key words": "Mentalism Trick",
+            "Question": "At 4:14 of the video, why are the people surprised?",
+            "Answer": "The people are surprised because a skull and crossbones symbol appears to have been 'branded' or transferred onto the back of a person's hand."
+         },
+         {
+            "UID": 3196,
+            "Timestamp": "5:04",
+            "Question type": "Instant Reasoning",
+            "Key words": "Mentalism Trick",
+            "Question": "At 5:04 of the video, what appeared on the silver plate on the gun?",
+            "Answer": "The words 'Red Bandit' appeared on the silver plate on the gun."
+         },
+         {
+            "UID": 3197,
+            "Timestamp": "5:05",
+            "Question type": "Paradoxical Reasoning",
+            "Key words": "Mentalism Trick",
+            "Question": "At 5:05 of the video, why are the people surprised?",
+            "Answer": "The people are surprised because what appeared on the gun matches what was written on top of the woman's portrait."
+         }
+      ],
+      "metadata": {
+         "start": "0:00"
+      }
+   },
+   "53dOPOj448s": {
+      "Questions": [
+         {
+            "UID": 3198,
+            "Timestamp": "0:51",
+            "Question type": "Contextual Reasoning",
+            "Key words": "Mentalism Trick",
+            "Question": "At 0:51 of the video, how many eggs are under the cups? How many eggs were taken out of the egg box?",
+            "Answer": "One egg is under the cups, and two eggs were taken out of the egg box."
+         },
+         {
+            "UID": 3199,
+            "Timestamp": "1:33",
+            "Question type": "Temporal Summarization",
+            "Key words": "Mentalism Trick",
+            "Question": "Can you summarize what the woman has been doing with the cups from 1:17 to 1:33?",
+            "Answer": "The woman is shuffling the cups around."
+         },
+         {
+            "UID": 3200,
+            "Timestamp": "3:05",
+            "Question type": "Contextual Reasoning",
+            "Key words": "Mentalism Trick",
+            "Question": "At 3:05 of the video, did the magician (man) break the egg?",
+            "Answer": "No, the magician did not break the egg."
+         },
+         {
+            "UID": 3201,
+            "Timestamp": "3:10",
+            "Question type": "Paradoxical Reasoning",
+            "Key words": "Mentalism Trick",
+            "Question": "At 3:10 of the video, why are the people surprised?",
+            "Answer": "The people are surprised because he managed to avoid crushing the cup with the egg in it, even though he did not see how the woman shuffled the cups."
+         },
+         {
+            "UID": 3202,
+            "Timestamp": "3:43",
+            "Question type": "Contextual Reasoning",
+            "Key words": "Mentalism Trick",
+            "Question": "At 3:43 of the video, how many eggs are in the black holders now?",
+            "Answer": "There are six eggs in total in the black holders."
+         },
+         {
+            "UID": 3203,
+            "Timestamp": "3:56",
+            "Question type": "Adversarial, False Implication",
+            "Key words": "Mentalism Trick",
+            "Question": "At 3:56 of the video, are there only four eggs in total on the table? Please give me your answer and reason.",
+            "Answer": "No, there are five eggs in total on the table."
+         },
+         {
+            "UID": 3204,
+            "Timestamp": "3:52",
+            "Question type": "Adversarial, False Implication",
+            "Key words": "Mentalism Trick",
+            "Question": "At 3:52 of the video, is the magician holding an egg under the cup? Please give me your answer and reason.",
+            "Answer": "No, the magician is not holding the egg under the cup; he is placing the cup over the egg."
+         },
+         {
+            "UID": 3205,
+            "Timestamp": "4:06",
+            "Question type": "Contextual Reasoning",
+            "Key words": "Mentalism Trick",
+            "Question": "At 4:06 of the video, which cup doesn't have an egg under it (counting from left to right in the audiences' perspective)?",
+            "Answer": "The fourth cup doesn't have an egg under it (counting from left to right in the audiences' perspective)."
+         },
+         {
+            "UID": 3206,
+            "Timestamp": "6:42",
+            "Question type": "Paradoxical Reasoning",
+            "Key words": "Mentalism Trick",
+            "Question": "At 6:42 of the video, why are the people surprised?",
+            "Answer": "The people are surprised because the woman chose the cup without an egg following the number shown on a die."
+         }
+      ],
+      "metadata": {
+         "start": "0:01"
+      }
+   },
+   "HT9E6d9qVFs": {
+      "Questions": [
+         {
+            "UID": 3207,
+            "Timestamp": "0:53",
+            "Question type": "Adversarial, False Implication",
+            "Key words": "Every Day Objects Trick",
+            "Question": "At 0:53 of the video, is the magician holding a die in his hand? Please give me your answer and reason.",
+            "Answer": "No, the magician is not holding a die in his hand (he is holding a coin-like thing)."
+         },
+         {
+            "UID": 3208,
+            "Timestamp": "2:34",
+            "Question type": "Contextual Reasoning",
+            "Key words": "Every Day Objects Trick",
+            "Question": "At 2:34 of the video, where is the coin now?",
+            "Answer": "The coin is adhered to the top of a card."
+         },
+         {
+            "UID": 3209,
+            "Timestamp": "2:49",
+            "Question type": "Instant Reasoning",
+            "Key words": "Every Day Objects Trick",
+            "Question": "At 2:49 of the video, what is the magician standing on the right of the image holding in his right hand (the hand that has no coin in it)?",
+            "Answer": "The magician is holding a slingshot in his right hand."
+         },
+         {
+            "UID": 3210,
+            "Timestamp": "3:20",
+            "Question type": "Contextual Reasoning",
+            "Key words": "Every Day Objects Trick",
+            "Question": "At 3:20 of the video, what acts as the bullet?",
+            "Answer": "A coin acts as the bullet for the slingshot."
+         },
+         {
+            "UID": 3211,
+            "Timestamp": "3:26",
+            "Question type": "Contextual Reasoning",
+            "Key words": "Every Day Objects Trick",
+            "Question": "At 3:26 of the video, did the red balloon explode because of the slingshot?",
+            "Answer": "Yes, the red balloon exploded because of the slingshot."
+         },
+         {
+            "UID": 3212,
+            "Timestamp": "4:25",
+            "Question type": "Contextual Reasoning",
+            "Key words": "Every Day Objects Trick",
+            "Question": "At 4:25 of the video, did the slingshot break the glass in front of the man standing on the left of the image? Is there a coin in the hand of the man on the right side of the image?",
+            "Answer": "Yes, the slingshot broke the glass in front of the man standing on the left of the image. Yes, there is a coin in his hand."
+         },
+         {
+            "UID": 3213,
+            "Timestamp": "5:06",
+            "Question type": "Paradoxical Reasoning",
+            "Key words": "Every Day Objects Trick",
+            "Question": "At 5:06 of the video, why are the people surprised?",
+            "Answer": "The people are surprised because the magician standing on the left of the image took the coin shot by the slingshot out of his nose."
+         }
+      ],
+      "metadata": {
+         "start": "0:45"
+      }
+   },
+   "O_0YN5AMF8Y": {
+      "Questions": [
+         {
+            "UID": 3214,
+            "Timestamp": "0:13",
+            "Question type": "Instant Reasoning",
+            "Key words": "Sleight Of Hand Trick",
+            "Question": "At 0:13 of the video, how many boxes are on the table?",
+            "Answer": "There are 3 boxes on the table."
+         },
+         {
+            "UID": 3215,
+            "Timestamp": "0:50",
+            "Question type": "Adversarial, False Implication",
+            "Key words": "Sleight Of Hand Trick",
+            "Question": "At 0:50 of the video, is there something inside the box with the red diamond on it? Please give me your answer and reason.",
+            "Answer": "No, there is nothing inside the box with the red diamond on it."
+         },
+         {
+            "UID": 3216,
+            "Timestamp": "1:19",
+            "Question type": "Adversarial, False Implication",
+            "Key words": "Sleight Of Hand Trick",
+            "Question": "At 1:19 of the video, is there something inside the box with the blue diamond on it? Please give me your answer and reason.",
+            "Answer": "No, there is nothing inside the box with the blue diamond on it."
+         },
+         {
+            "UID": 3217,
+            "Timestamp": "2:10",
+            "Question type": "Contextual Reasoning",
+            "Key words": "Sleight Of Hand Trick",
+            "Question": "At 2:10 of the video, what was put in the box with the green diamond on it? What is the specific card that was put in it?",
+            "Answer": "A deck of playing cards and a five of clubs were put in the box with the green diamond on it."
+         },
+         {
+            "UID": 3218,
+            "Timestamp": "2:28",
+            "Question type": "Contextual Reasoning",
+            "Key words": "Sleight Of Hand Trick",
+            "Question": "At 2:28 of the video, does the box with the blue diamond on it have anything inside? Did the woman dressed in red take a look at the book?",
+            "Answer": "No, there is nothing inside the box with the blue diamond on it. Yes, she did take a look at the book."
+         },
+         {
+            "UID": 3219,
+            "Timestamp": "2:39",
+            "Question type": "Contextual Reasoning",
+            "Key words": "Sleight Of Hand Trick",
+            "Question": "At 2:39 of the video, does the box with the blue diamond on it have anything inside? What is it?",
+            "Answer": "Yes, a book is in the box with the blue diamond on it."
+         },
+         {
+            "UID": 3220,
+            "Timestamp": "2:52",
+            "Question type": "Contextual Reasoning",
+            "Key words": "Sleight Of Hand Trick",
+            "Question": "At 2:52 of the video, which box, with what color diamond, did they put a sticky note on to cover up the diamond?",
+            "Answer": "A sticky note was put on the box with the red diamond to cover up the diamond on it."
+         },
+         {
+            "UID": 3221,
+            "Timestamp": "3:05",
+            "Question type": "Contextual Reasoning",
+            "Key words": "Sleight Of Hand Trick",
+            "Question": "At 3:05 of the video, which box is the woman holding in her hands, and what color diamond is on it?",
+            "Answer": "The woman is holding the box with a blue diamond."
+         },
+         {
+            "UID": 3222,
+            "Timestamp": "3:10",
+            "Question type": "Contextual Reasoning",
+            "Key words": "Sleight Of Hand Trick",
+            "Question": "At 3:10 of the video, which box is the man on the left of the image holding in his hands, and what color diamond is on it?",
+            "Answer": "The man on the left of the image is holding the box with a green diamond."
+         },
+         {
+            "UID": 3223,
+            "Timestamp": "3:27",
+            "Question type": "Paradoxical Reasoning",
+            "Key words": "Sleight Of Hand Trick",
+            "Question": "At 3:27 of the video, why are the people surprised?",
+            "Answer": "The people are surprised because the items that are supposed to be in the box the man on the left of the image is holding now appear in the box that the magician (man in the middle of the image) is holding."
+         },
+         {
+            "UID": 3224,
+            "Timestamp": "4:05",
+            "Question type": "Paradoxical Reasoning",
+            "Key words": "Sleight Of Hand Trick",
+            "Question": "At 4:05 of the video, why are the people surprised?",
+            "Answer": "The people are surprised because the items that are supposed to be in the box the woman is holding now appear in the box that the magician (man in the middle of the image) is holding."
+         },
+         {
+            "UID": 3225,
+            "Timestamp": "4:35",
+            "Question type": "Contextual Reasoning",
+            "Key words": "Sleight Of Hand Trick",
+            "Question": "At 4:35 of the video, what items were put into the glass behind the magician?",
+            "Answer": "A part of the five of clubs card and a part of one page of the book were put into the glass behind the magician."
+         },
+         {
+            "UID": 3226,
+            "Timestamp": "5:35",
+            "Question type": "Paradoxical Reasoning",
+            "Key words": "Sleight Of Hand Trick",
+            "Question": "At 5:35 of the video, why are the people surprised?",
+            "Answer": "The people are surprised because the items in the two boxes the two participants (the man on the left of the image and the woman) are holding are now broken, and the missing parts are in the box the magician (man in the middle of the image) is holding."
+         }
+      ],
+      "metadata": {
+         "start": "0:00"
+      }
+   },
+   "Amya58MKwwM": {
+      "Questions": [
+         {
+            "UID": 3227,
+            "Timestamp": "1:56",
+            "Question type": "Contextual Reasoning",
+            "Key words": "Sleight Of Hand Trick",
+            "Question": "At 1:56 of the video, which playing card is torn into pieces?",
+            "Answer": "The joker card is torn into pieces."
+         },
+         {
+            "UID": 3228,
+            "Timestamp": "2:18",
+            "Question type": "Paradoxical Reasoning",
+            "Key words": "Sleight Of Hand Trick",
+            "Question": "At 2:18 of the video, why are the people surprised?",
+            "Answer": "The people are surprised because the torn poker card is now a five of hearts."
+         },
+         {
+            "UID": 3229,
+            "Timestamp": "2:59",
+            "Question type": "Paradoxical Reasoning",
+            "Key words": "Sleight Of Hand Trick",
+            "Question": "At 2:59 of the video, why are the people surprised?",
+            "Answer": "The people are surprised because the torn poker card is now a King of hearts."
+         },
+         {
+            "UID": 3230,
+            "Timestamp": "3:17",
+            "Question type": "Adversarial, False Implication",
+            "Key words": "Sleight Of Hand Trick",
+            "Question": "At 3:17 of the video, is the torn poker card a black King of hearts? Please give me your answer and reason.",
+            "Answer": "No, the torn poker card is not a black King of hearts (it's a black eight of Spades)."
+         },
+         {
+            "UID": 3231,
+            "Timestamp": "3:20",
+            "Question type": "Paradoxical Reasoning",
+            "Key words": "Sleight Of Hand Trick",
+            "Question": "At 3:20 of the video, why are the people surprised?",
+            "Answer": "The people are surprised because the torn poker card is now an eight of Spades."
+         },
+         {
+            "UID": 3232,
+            "Timestamp": "3:55",
+            "Question type": "Paradoxical Reasoning",
+            "Key words": "Sleight Of Hand Trick",
+            "Question": "At 3:55 of the video, why are the people surprised?",
+            "Answer": "The people are surprised because the shattered poker card turns into a complete and different poker card."
+         }
+      ],
+      "metadata": {
+         "start": "0:36"
+      }
+   },
+   "hazq_UsSV7w": {
+      "Questions": [
+         {
+            "UID": 3233,
+            "Timestamp": "0:42",
+            "Question type": "Contextual Reasoning",
+            "Key words": "Illusions Trick",
+            "Question": "At 0:42 of the video, how many coins are in the magician's hands?",
+            "Answer": "There are four coins in the magician's hands."
+         },
+         {
+            "UID": 3234,
+            "Timestamp": "0:52",
+            "Question type": "Paradoxical Reasoning",
+            "Key words": "Illusions Trick",
+            "Question": "At 0:52 of the video, why are the people surprised?",
+            "Answer": "The people are surprised because the coins in the magician's hand turned into a small round box."
+         },
+         {
+            "UID": 3235,
+            "Timestamp": "1:06",
+            "Question type": "Contextual Reasoning",
+            "Key words": "Illusions Trick",
+            "Question": "At 1:06 of the video, where are the coins now?",
+            "Answer": "The coins are now placed in the small round box."
+         },
+         {
+            "UID": 3236,
+            "Timestamp": "1:51",
+            "Question type": "Contextual Reasoning",
+            "Key words": "Illusions Trick",
+            "Question": "At 1:51 of the video, how many coins are in the magician's hand right now?",
+            "Answer": "Three coins are in the magician's hand."
+         },
+         {
+            "UID": 3237,
+            "Timestamp": "2:05",
+            "Question type": "Contextual Reasoning",
+            "Key words": "Illusions Trick",
+            "Question": "At 2:05 of the video, how many coins were put in the small round box? How many coins are in the magician's hand now?",
+            "Answer": "Three coins were put in the small round box. One coin is in the magician's hand now."
+         },
+         {
+            "UID": 3238,
+            "Timestamp": "2:29",
+            "Question type": "Paradoxical Reasoning",
+            "Key words": "Illusions Trick",
+            "Question": "At 2:29 of the video, why are the people surprised?",
+            "Answer": "The people are surprised because one more coin appeared in the magician's hand, and there was one less coin in the small round box."
+         },
+         {
+            "UID": 3239,
+            "Timestamp": "2:48",
+            "Question type": "Adversarial, False Implication",
+            "Key words": "Illusions Trick",
+            "Question": "At 2:48 of the video, are there three coins in the small round box?",
+            "Answer": "No, there are only two coins in the small round box."
+         },
+         {
+            "UID": 3240,
+            "Timestamp": "3:00",
+            "Question type": "Paradoxical Reasoning",
+            "Key words": "Illusions Trick",
+            "Question": "At 3:00 of the video, why are the people surprised?",
+            "Answer": "The people are surprised because a coin drops through the small round box and falls from the magician's hand."
+         },
+         {
+            "UID": 3241,
+            "Timestamp": "3:25",
+            "Question type": "Contextual Reasoning",
+            "Key words": "Illusions Trick",
+            "Question": "At 3:25 of the video, how many coins are in the small round box now?",
+            "Answer": "One coin is in the small round box now."
+         },
+         {
+            "UID": 3242,
+            "Timestamp": "4:10",
+            "Question type": "Paradoxical Reasoning",
+            "Key words": "Illusions Trick",
+            "Question": "At 4:10 of the video, why are the people surprised?",
+            "Answer": "The people are surprised because the coin in the small round box is gone, and all four coins now appear on the table."
+         }
+      ],
+      "metadata": {
+         "start": "0:00"
+      }
+   },
+   "PBlqg7bN9lA": {
+      "Questions": [
+         {
+            "UID": 3243,
+            "Timestamp": "1:43",
+            "Question type": "Contextual Reasoning",
+            "Key words": "Sleight Of Hand Trick",
+            "Question": "At 1:43 of the video, which egg did the magician take?",
+            "Answer": "The fifth egg is taken by the magician."
+         },
+         {
+            "UID": 3244,
+            "Timestamp": "1:52",
+            "Question type": "Adversarial, False Implication",
+            "Key words": "Sleight Of Hand Trick",
+            "Question": "At 1:52 of the video, is the egg being cracked by the magician raw? Please give me your answer and reason.",
+            "Answer": "No, the egg being cracked by the magician is cooked."
+         },
+         {
+            "UID": 3245,
+            "Timestamp": "2:17",
+            "Question type": "Paradoxical Reasoning",
+            "Key words": "Sleight Of Hand Trick",
+            "Question": "At 2:17 of the video, which one is the raw egg?",
+            "Answer": "We don't know which one is the raw egg yet."
+         },
+         {
+            "UID": 3246,
+            "Timestamp": "2:50",
+            "Question type": "Paradoxical Reasoning",
+            "Key words": "Sleight Of Hand Trick",
+            "Question": "At 2:50 of the video, why are the people surprised?",
+            "Answer": "The people are surprised because the eggs chosen by each dice roll (completely random) are all cooked so far."
+         },
+         {
+            "UID": 3247,
+            "Timestamp": "3:28",
+            "Question type": "Adversarial, False Implication",
+            "Key words": "Sleight Of Hand Trick",
+            "Question": "At 3:28 of the video, are there two raw eggs left in the holder? Please give me your answer and reason.",
+            "Answer": "We don't know if they are raw or cooked, but there are two eggs left in the holder."
+         },
+         {
+            "UID": 3248,
+            "Timestamp": "4:34",
+            "Question type": "Paradoxical Reasoning",
+            "Key words": "Sleight Of Hand Trick",
+            "Question": "At 4:34 of the video, why are the people surprised?",
+            "Answer": "The people are surprised because all the eggs chosen by the dice rolls (completely random) are cooked eggs."
+         }
+      ],
+      "metadata": {
+         "start": "0:54"
+      }
+   },
+   "LkgTs5VeRgw": {
+      "Questions": [
+         {
+            "UID": 3249,
+            "Timestamp": "2:47",
+            "Question type": "Adversarial, False Implication",
+            "Key words": "Illusions Trick",
+            "Question": "At 2:47 of the video, is the man on the left of the image holding his watch in his hand? Please give me your answer and reason.",
+            "Answer": "No, the man on the left of the image is holding some poker cards in his hand."
+         },
+         {
+            "UID": 3250,
+            "Timestamp": "3:01",
+            "Question type": "Contextual Reasoning",
+            "Key words": "Illusions Trick",
+            "Question": "At 3:01 of the video, how many times has the man on the left of the image given his card to the pile of the cards on the table?",
+            "Answer": "The man on the left of the image has given his card to the pile of the cards once."
+         },
+         {
+            "UID": 3251,
+            "Timestamp": "3:20",
+            "Question type": "Contextual Reasoning",
+            "Key words": "Illusions Trick",
+            "Question": "At 3:20 of the video, how many cards has the man on the left of the stage(from the audiences' perspective) passed on to the man on the right of the stage (from the audiences' perspective)?",
+            "Answer": "The man on the left of the stage has passed on one card to the man on the right."
+         },
+         {
+            "UID": 3252,
+            "Timestamp": "3:38",
+            "Question type": "Contextual Reasoning",
+            "Key words": "Illusions Trick",
+            "Question": "At 3:38 of the video, where is the card that has been passed around by the men sitting on the left and right now?",
+            "Answer": "The card is now inside the box of playing cards."
+         },
+         {
+            "UID": 3253,
+            "Timestamp": "4:18",
+            "Question type": "Adversarial, False Implication",
+            "Key words": "Illusions Trick",
+            "Question": "At 4:18 of the video, whose hand is the deck of cards in among the three people in the scene? Please give me your answer and reason.",
+            "Answer": "The deck of cards is in none of their hands."
+         },
+         {
+            "UID": 3254,
+            "Timestamp": "5:20",
+            "Question type": "Contextual Reasoning",
+            "Key words": "Illusions Trick",
+            "Question": "At 5:20 of the video, what was taken out of the black bag?",
+            "Answer": "An envelope was taken out of the black bag."
+         },
+         {
+            "UID": 3255,
+            "Timestamp": "5:47",
+            "Question type": "Paradoxical Reasoning",
+            "Key words": "Illusions Trick",
+            "Question": "At 5:47 of the video, why are the people surprised?",
+            "Answer": "The people are surprised because inside the envelope, there is a picture of the three participants and the playing card that they chose."
+         }
+      ],
+      "metadata": {
+         "start": "1:30"
+      }
+   },
+   "nGd9J12xHgw": {
+      "Questions": [
+         {
+            "UID": 3256,
+            "Timestamp": "3:11",
+            "Question type": "Contextual Reasoning",
+            "Key words": "Illusions Trick",
+            "Question": "At 3:11 of the video, what is the magician on stage holding?",
+            "Answer": "The magician on stage is holding a large sheet of metal and a hammer."
+         },
+         {
+            "UID": 3257,
+            "Timestamp": "3:16",
+            "Question type": "Adversarial, False Implication",
+            "Key words": "Illusions Trick",
+            "Question": "At 3:16 of the video, how many times has the magician hit the sheet of metal with the hammer? Please give me your answer and reason.",
+            "Answer": "The magician himself has not hit the sheet of metal with the hammer so far."
+         },
+         {
+            "UID": 3258,
+            "Timestamp": "3:35",
+            "Question type": "Contextual Reasoning",
+            "Key words": "Illusions Trick",
+            "Question": "At 3:35 of the video, how many times has the sheet of metal been hit?",
+            "Answer": "The sheet of metal has been hit 2 times."
+         },
+         {
+            "UID": 3259,
+            "Timestamp": "3:35",
+            "Question type": "Contextual Reasoning",
+            "Key words": "Illusions Trick",
+            "Question": "At 3:35 of the video, who hit the sheet of metal with a hammer?",
+            "Answer": "A female participant hit the sheet of metal with a hammer."
+         },
+         {
+            "UID": 3260,
+            "Timestamp": "4:00",
+            "Question type": "Adversarial, False Implication",
+            "Key words": "Illusions Trick",
+            "Question": "At 4:00 of the video, is the male magician holding the sheet of metal in his hands? Please give me your answer and reason.",
+            "Answer": "No, the male magician is standing behind the white board and is not holding the sheet of metal in his hands."
+         },
+         {
+            "UID": 3261,
+            "Timestamp": "4:15",
+            "Question type": "Adversarial, False Implication",
+            "Key words": "Illusions Trick",
+            "Question": "At 4:15 of the video, how many pieces of fabric does the female magician have in her hands? Please give me your answer and reason.",
+            "Answer": "The woman doesn't have any pieces of fabric in her hands right now."
+         },
+         {
+            "UID": 3262,
+            "Timestamp": "4:23",
+            "Question type": "Contextual Reasoning",
+            "Key words": "Illusions Trick",
+            "Question": "At 4:23 of the video, where is the piece of fabric that the female magician handed to the male magician now?",
+            "Answer": "The piece of fabric should still be in the male magician's hands."
+         },
+         {
+            "UID": 3263,
+            "Timestamp": "4:55",
+            "Question type": "Instant Reasoning",
+            "Key words": "Illusions Trick",
+            "Question": "At 4:55 of the video, are there shadows of the male magician's hands on the metal panel?",
+            "Answer": "Yes, there are shadows of the male magician's hands on the metal panel."
+         },
+         {
+            "UID": 3264,
+            "Timestamp": "5:29",
+            "Question type": "Adversarial, False Implication",
+            "Key words": "Illusions Trick",
+            "Question": "At 5:29 of the video, which of the male magician's hands has the piece of fabric that the female magician gave him? Please give me your answer and reason.",
+            "Answer": "Neither of the male magician's hands has the piece of fabric that the female magician gave him."
+         },
+         {
+            "UID": 3265,
+            "Timestamp": "5:34",
+            "Question type": "Paradoxical Reasoning",
+            "Key words": "Illusions Trick",
+            "Question": "At 5:34 of the video, why are the people surprised?",
+            "Answer": "The people are surprised because the male magician passed through the metal panel and the holes in the metal panel got fixed."
+         }
+      ],
+      "metadata": {
+         "start": "2:30"
+      }
+   },
+   "Ya1X-oKRTvQ": {
+      "Questions": [
+         {
+            "UID": 3266,
+            "Timestamp": "1:35",
+            "Question type": "Instant Reasoning",
+            "Key words": "Illusions Trick",
+            "Question": "At 1:35 of the video, what is the magician holding in his hand?",
+            "Answer": "The magician is holding a candle in his hand."
+         },
+         {
+            "UID": 3267,
+            "Timestamp": "2:11",
+            "Question type": "Contextual Reasoning",
+            "Key words": "Illusions Trick",
+            "Question": "At 2:11 of the video, where is the candle?",
+            "Answer": "The candle is on a table behind the hat."
+         },
+         {
+            "UID": 3268,
+            "Timestamp": "2:17",
+            "Question type": "Adversarial, False Implication",
+            "Key words": "Illusions Trick",
+            "Question": "At 2:17 of the video, what is the color of the candle that the magician is holding in his hand? Please give me your answer and reason.",
+            "Answer": "The magician is not holding a candle in his hand. He is holding a white piece of cloth in his hand."
+         },
+         {
+            "UID": 3269,
+            "Timestamp": "2:29",
+            "Question type": "Contextual Reasoning",
+            "Key words": "Illusions Trick",
+            "Question": "At 2:29 of the video, how many pieces of cloth are in the magician's hands?",
+            "Answer": "Two pieces of cloth are in the magician's hands."
+         },
+         {
+            "UID": 3270,
+            "Timestamp": "2:35",
+            "Question type": "Contextual Reasoning",
+            "Key words": "Illusions Trick",
+            "Question": "At 2:35 of the video, how many candles is the magician holding right now?",
+            "Answer": "The magician is holding one candle in his hand."
+         },
+         {
+            "UID": 3271,
+            "Timestamp": "2:43",
+            "Question type": "Paradoxical Reasoning",
+            "Key words": "Illusions Trick",
+            "Question": "At 2:43 of the video, why are the people surprised?",
+            "Answer": "The people are surprised because one more candle appeared in the magician's hand."
+         },
+         {
+            "UID": 3272,
+            "Timestamp": "3:00",
+            "Question type": "Adversarial, False Statement",
+            "Key words": "Illusions Trick",
+            "Question": "At 3:00 of the video, there is a bowling ball on the book. What color is it? Please give me your answer and reason.",
+            "Answer": "There is no bowling ball on the book. There is a white skull that appeared on the book."
+         },
+         {
+            "UID": 3273,
+            "Timestamp": "3:43",
+            "Question type": "Adversarial, False Implication",
+            "Key words": "Illusions Trick",
+            "Question": "At 3:43 of the video, is the hat the magician is currently wearing the same one he wore initially? Please give me your answer and reason.",
+            "Answer": "No, they are not the same. The magician is wearing a dark grey hat now, while he wore a light brown hat initially."
+         },
+         {
+            "UID": 3274,
+            "Timestamp": "4:47",
+            "Question type": "Paradoxical Reasoning",
+            "Key words": "Illusions Trick",
+            "Question": "At 4:47 of the video, why are the people surprised?",
+            "Answer": "The people are surprised because the money in the magician's hand disappeared after reaching over to the back of the mirror."
+         },
+         {
+            "UID": 3275,
+            "Timestamp": "4:58",
+            "Question type": "Paradoxical Reasoning",
+            "Key words": "Illusions Trick",
+            "Question": "At 4:58 of the video, why are the people surprised?",
+            "Answer": "The people are surprised because after the magician reaches his hand over to the back of the mirror, that hand becomes a claw-like skeletal hand."
+         },
+         {
+            "UID": 3276,
+            "Timestamp": "5:30",
+            "Question type": "Contextual Reasoning",
+            "Key words": "Illusions Trick",
+            "Question": "At 5:30 of the video, where did the magician get the money from?",
+            "Answer": "The magician got the money from his hat."
+         },
+         {
+            "UID": 3277,
+            "Timestamp": "6:17",
+            "Question type": "Temporal Summarization",
+            "Key words": "Illusions Trick",
+            "Question": "From 5:30 to 6:17, can you summarize what the magician has been doing?",
+            "Answer": "The magician keeps getting more and more money by reaching his hands over both sides of the mirror, where the hand reaching over to the front of the mirror holds the money."
+         },
+         {
+            "UID": 3278,
+            "Timestamp": "6:23",
+            "Question type": "Paradoxical Reasoning",
+            "Key words": "Illusions Trick",
+            "Question": "At 6:23 of the video, why are the people surprised?",
+            "Answer": "The people are surprised because he got bags of money from the mirror, and one bag was shooting out money."
+         }
+      ],
+      "metadata": {
+         "start": "1:28"
+      }
+   },
+   "FpoLcywNjL0": {
+      "Questions": [
+         {
+            "UID": 3279,
+            "Timestamp": "1:42",
+            "Question type": "Contextual Reasoning",
+            "Key words": "Illusions Trick",
+            "Question": "At 1:42 of the video, how many rings did the participant (woman) take out from her hands?",
+            "Answer": "The participant took out one ring from her hands."
+         },
+         {
+            "UID": 3280,
+            "Timestamp": "1:56",
+            "Question type": "Contextual Reasoning",
+            "Key words": "Illusions Trick",
+            "Question": "At 1:56 of the video, where is the ring now?",
+            "Answer": "The ring is inside the glass."
+         },
+         {
+            "UID": 3281,
+            "Timestamp": "2:12",
+            "Question type": "Instant Reasoning",
+            "Key words": "Illusions Trick",
+            "Question": "At 2:12 of the video, how many glasses are there on the table?",
+            "Answer": "Two glasses are on the table."
+         },
+         {
+            "UID": 3282,
+            "Timestamp": "2:28",
+            "Question type": "Contextual Reasoning",
+            "Key words": "Illusions Trick",
+            "Question": "At 2:28 of the video, where are the two glasses on the table now?",
+            "Answer": "The two glasses are still on the table, but they have been covered by a piece of cloth."
+         },
+         {
+            "UID": 3283,
+            "Timestamp": "2:33",
+            "Question type": "Adversarial, False Statement",
+            "Key words": "Illusions Trick",
+            "Question": "At 2:33 of the video, the woman is holding two glasses in her hands. Is one glass smaller than the other? Is the smaller glass inside the larger glass? Please give me your answer and reason.",
+            "Answer": "The woman is only holding one glass, and there is no smaller glass inside a larger glass."
+         },
+         {
+            "UID": 3284,
+            "Timestamp": "2:49",
+            "Question type": "Paradoxical Reasoning",
+            "Key words": "Illusions Trick",
+            "Question": "At 2:49 of the video, why are the people surprised?",
+            "Answer": "The people are surprised because the magician got the ring from the woman's shadow on the screen."
+         },
+         {
+            "UID": 3285,
+            "Timestamp": "3:42",
+            "Question type": "Paradoxical Reasoning",
+            "Key words": "Illusions Trick",
+            "Question": "At 3:42 of the video, why are the people surprised?",
+            "Answer": "The people are surprised because the magician throws the ring into the shadow of the glasses on the screen, and the ring appears in the actual glasses."
+         },
+         {
+            "UID": 3286,
+            "Timestamp": "4:05",
+            "Question type": "Instant Reasoning",
+            "Key words": "Illusions Trick",
+            "Question": "At 4:05 of the video, is there a shadow of a chair on the screen?",
+            "Answer": "Yes, there is a shadow of a chair on the screen."
+         },
+         {
+            "UID": 3287,
+            "Timestamp": "4:11",
+            "Question type": "Paradoxical Reasoning",
+            "Key words": "Illusions Trick",
+            "Question": "At 4:11 of the video, why are the people surprised?",
+            "Answer": "The people are surprised because the magician tried to fold up the shadow of the chair on the screen, and then the real (foldable) chair folded up."
+         }
+      ],
+      "metadata": {
+         "start": "1:13"
+      }
+   },
+   "DmOkGcwWTx0": {
+      "Questions": [
+         {
+            "UID": 3288,
+            "Timestamp": "2:00",
+            "Question type": "Contextual Reasoning",
+            "Key words": "Card Tricks Trick",
+            "Question": "At 2:00 of the video, how many playing cards are on the table right now?",
+            "Answer": "Three playing cards are on the table right now."
+         },
+         {
+            "UID": 3289,
+            "Timestamp": "3:30",
+            "Question type": "Contextual Reasoning",
+            "Key words": "Card Tricks Trick",
+            "Question": "At 3:30 of the video, did the woman put a card that was facing down onto the pile of cards on the table?",
+            "Answer": "Yes, the woman did put a card that was facing down onto the pile of cards on the table."
+         },
+         {
+            "UID": 3290,
+            "Timestamp": "3:56",
+            "Question type": "Temporal Summarization",
+            "Key words": "Card Tricks Trick",
+            "Question": "From 2:25 to 3:56, can you summarize how many cards are faced down and put on the table by the woman?",
+            "Answer": "One card was faced down and put on the table by the woman."
+         }
+      ],
+      "metadata": {
+         "start": "0:56"
+      }
+   },
+   "1GILzii1Ft4": {
+      "Questions": [
+         {
+            "UID": 3291,
+            "Timestamp": "2:09",
+            "Question type": "Contextual Reasoning",
+            "Key words": "Illusions Trick",
+            "Question": "At 2:09 of the video, where is the woman standing inside?",
+            "Answer": "The woman is standing inside a cabinet."
+         },
+         {
+            "UID": 3292,
+            "Timestamp": "2:51",
+            "Question type": "Paradoxical Reasoning",
+            "Key words": "Illusions Trick",
+            "Question": "At 2:51 of the video, why are the people surprised?",
+            "Answer": "The people are surprised because the middle part of the cabinet was cutting the woman inside horizontally, but the woman is fine."
+         },
+         {
+            "UID": 3293,
+            "Timestamp": "2:54",
+            "Question type": "Adversarial, False Implication",
+            "Key words": "Illusions Trick",
+            "Question": "At 2:54 of the video, what color are the shoes that the woman is wearing? Please give me your answer and reason.",
+            "Answer": "The woman is not wearing shoes."
+         },
+         {
+            "UID": 3294,
+            "Timestamp": "3:23",
+            "Question type": "Paradoxical Reasoning",
+            "Key words": "Illusions Trick",
+            "Question": "At 3:23 of the video, why are the people surprised?",
+            "Answer": "The people are surprised because the magician on the left of the image slides the middle section completely to the side, creating an empty gap where the woman's torso should be."
+         }
+      ],
+      "metadata": {
+         "start": "1:19"
+      }
+   },
+   "mWrKtsy4rs4": {
+      "Questions": [
+         {
+            "UID": 3295,
+            "Timestamp": "2:17",
+            "Question type": "Contextual Reasoning",
+            "Key words": "Illusions Trick",
+            "Question": "At 2:17 of the video, is the blue cylindrical tin in the magician's hands empty?",
+            "Answer": "Yes, the blue cylindrical tin in the magician's hands is empty."
+         },
+         {
+            "UID": 3296,
+            "Timestamp": "2:55",
+            "Question type": "Adversarial, False Implication",
+            "Key words": "Illusions Trick",
+            "Question": "At 2:55 of the video, what is inside the blue cylindrical tin right now? Please give me your answer and reason.",
+            "Answer": "There is nothing inside the blue cylindrical tin right now."
+         },
+         {
+            "UID": 3297,
+            "Timestamp": "3:14",
+            "Question type": "Contextual Reasoning",
+            "Key words": "Illusions Trick",
+            "Question": "At 3:14 of the video, is there something inside the blue cylindrical tin right now?",
+            "Answer": "No, there is nothing inside the blue cylindrical tin right now."
+         },
+         {
+            "UID": 3298,
+            "Timestamp": "3:26",
+            "Question type": "Paradoxical Reasoning",
+            "Key words": "Illusions Trick",
+            "Question": "At 3:26 of the video, why are the people surprised?",
+            "Answer": "The people are surprised because the prop appeared under the blue cylindrical tin."
+         },
+         {
+            "UID": 3299,
+            "Timestamp": "3:35",
+            "Question type": "Contextual Reasoning",
+            "Key words": "Illusions Trick",
+            "Question": "At 3:35 of the video, is there something inside the blue cylindrical tin right now?",
+            "Answer": "No, there should be nothing inside the blue cylindrical tin."
+         },
+         {
+            "UID": 3300,
+            "Timestamp": "4:20",
+            "Question type": "Contextual Reasoning",
+            "Key words": "Illusions Trick",
+            "Question": "At 4:20 of the video, what is on the table in front of the magician?",
+            "Answer": "There is a glass covered by a piece of cloth on the table."
+         },
+         {
+            "UID": 3301,
+            "Timestamp": "4:56",
+            "Question type": "Adversarial, False Statement",
+            "Key words": "Illusions Trick",
+            "Question": "At 4:56 of the video, there is a small bag under the blue cylindrical tin. What is the color of it? Please give me your answer and reason.",
+            "Answer": "There is no small bag under the blue cylindrical tin."
+         },
+         {
+            "UID": 3302,
+            "Timestamp": "5:30",
+            "Question type": "Paradoxical Reasoning",
+            "Key words": "Illusions Trick",
+            "Question": "At 5:30 of the video, why are the people surprised?",
+            "Answer": "The people are surprised because the white prop disappeared and a new prop appeared under the piece of cloth (and the blue tin)."
+         },
+         {
+            "UID": 3303,
+            "Timestamp": "6:04",
+            "Question type": "Paradoxical Reasoning",
+            "Key words": "Illusions Trick",
+            "Question": "At 6:04 of the video, why are the people surprised?",
+            "Answer": "The people are surprised because a rodent animal appeared under the blue cylindrical tin."
+         },
+         {
+            "UID": 3304,
+            "Timestamp": "6:55",
+            "Question type": "Paradoxical Reasoning",
+            "Key words": "Illusions Trick",
+            "Question": "At 6:55 of the video, why are the people surprised?",
+            "Answer": "The people are surprised because the magician just swallowed the rodent animal he was holding."
+         }
+      ],
+      "metadata": {
+         "start": "2:03"
+      }
+   },
+   "u_IyPlV4j-A": {
+      "Questions": [
+         {
+            "UID": 3305,
+            "Timestamp": "1:36",
+            "Question type": "Contextual Reasoning",
+            "Key words": "Illusions Trick",
+            "Question": "At 1:36 of the video, what did the magician draw on the paper?",
+            "Answer": "The magician drew a fork on the paper."
+         },
+         {
+            "UID": 3306,
+            "Timestamp": "2:47",
+            "Question type": "Paradoxical Reasoning",
+            "Key words": "Illusions Trick",
+            "Question": "At 2:47 of the video, why are the people surprised?",
+            "Answer": "The people are surprised because the fork bent itself."
+         },
+         {
+            "UID": 3307,
+            "Timestamp": "2:35",
+            "Question type": "Adversarial, False Statement",
+            "Key words": "Illusions Trick",
+            "Question": "At 2:35 of the video, there are more forks on the table. What are they stuck in? Please give me your answer and reason.",
+            "Answer": "There are no forks on the table."
+         },
+         {
+            "UID": 3308,
+            "Timestamp": "2:57",
+            "Question type": "Paradoxical Reasoning",
+            "Key words": "Illusions Trick",
+            "Question": "At 2:57 of the video, why are the people surprised?",
+            "Answer": "The people are surprised because the fork on the paper is now bent as well (it was straight)."
+         }
+      ],
+      "metadata": {
+         "start": "0:56"
+      }
+   },
+   "7uHYsC-CyO0": {
+      "Questions": [
+         {
+            "UID": 3309,
+            "Timestamp": "2:39",
+            "Question type": "Instant Reasoning",
+            "Key words": "Sleight Of Hand Trick",
+            "Question": "At 2:39 of the video, what are the rank and suit of the playing card?",
+            "Answer": "For the playing card, its rank is queen, and its suit is spades."
+         },
+         {
+            "UID": 3310,
+            "Timestamp": "3:05",
+            "Question type": "Contextual Reasoning",
+            "Key words": "Sleight Of Hand Trick",
+            "Question": "At 3:05 of the video, how many pieces did the man on the right of the image tear the playing card into?",
+            "Answer": "The man on the right of the image tore the card into four pieces."
+         },
+         {
+            "UID": 3311,
+            "Timestamp": "3:23",
+            "Question type": "Contextual Reasoning",
+            "Key words": "Sleight Of Hand Trick",
+            "Question": "At 3:23 of the video, how many pieces has the man on the right of the image torn the playing card into?",
+            "Answer": "The man on the right of the image has torn the card into eight pieces."
+         },
+         {
+            "UID": 3312,
+            "Timestamp": "3:35",
+            "Question type": "Contextual Reasoning",
+            "Key words": "Sleight Of Hand Trick",
+            "Question": "At 3:35 of the video, how many paper clips are on the table right now?",
+            "Answer": "Four paper clips are on the table right now."
+         },
+         {
+            "UID": 3313,
+            "Timestamp": "3:50",
+            "Question type": "Adversarial, False Implication",
+            "Key words": "Sleight Of Hand Trick",
+            "Question": "At 3:50 of the video, are there 6 pieces of the playing card in the magician's (man on the left of the image) hand? Please give me your answer and reason.",
+            "Answer": "No, there are 7 pieces of the playing card in the magician's hand."
+         },
+         {
+            "UID": 3314,
+            "Timestamp": "4:51",
+            "Question type": "Paradoxical Reasoning",
+            "Key words": "Sleight Of Hand Trick",
+            "Question": "At 4:51 of the video, why are the people surprised?",
+            "Answer": "The people are surprised because the magician took out the remaining parts of the Queen of Spades, which match the pieces missing from the hand of the participant (the man on the right)."
+         },
+         {
+            "UID": 3315,
+            "Timestamp": "5:30",
+            "Question type": "Contextual Reasoning",
+            "Key words": "Sleight Of Hand Trick",
+            "Question": "At 5:30 of the video, what did the magician write on the piece of the Queen of Spades?",
+            "Answer": "The magician wrote the characters A and J on the piece of the Queen of Spades."
+         },
+         {
+            "UID": 3316,
+            "Timestamp": "5:58",
+            "Question type": "Paradoxical Reasoning",
+            "Key words": "Sleight Of Hand Trick",
+            "Question": "At 5:58 of the video, why are the people surprised?",
+            "Answer": "The people are surprised because the magician restores the missing piece of the Queen of Spades, but it is now facing the opposite direction from the rest of the card."
+         }
+      ],
+      "metadata": {
+         "start": "2:25"
+      }
+   },
+   "zunG0Bu56uQ": {
+      "Questions": [
+         {
+            "UID": 3317,
+            "Timestamp": "1:41",
+            "Question type": "Paradoxical Reasoning",
+            "Key words": "Illusions Trick",
+            "Question": "At 1:41 of the video, why are the people surprised?",
+            "Answer": "The people are surprised because the wand that the magician was holding suddenly disappeared."
+         },
+         {
+            "UID": 3318,
+            "Timestamp": "1:52",
+            "Question type": "Adversarial, False Statement",
+            "Key words": "Illusions Trick",
+            "Question": "At 1:52 of the video, there is a wand in the hat. What color is the wand? Please give me your answer and reason.",
+            "Answer": "There is nothing in the hat."
+         },
+         {
+            "UID": 3319,
+            "Timestamp": "1:59",
+            "Question type": "Paradoxical Reasoning",
+            "Key words": "Illusions Trick",
+            "Question": "At 1:59 of the video, why are the people surprised?",
+            "Answer": "The people are surprised because the missing wand appeared in the hat."
+         },
+         {
+            "UID": 3320,
+            "Timestamp": "2:26",
+            "Question type": "Adversarial, False Implication",
+            "Key words": "Illusions Trick",
+            "Question": "At 2:26 of the video, is there a wand in the hat right now? Please give me your answer and reason.",
+            "Answer": "No, there is nothing inside the hat right now."
+         },
+         {
+            "UID": 3321,
+            "Timestamp": "3:09",
+            "Question type": "Contextual Reasoning",
+            "Key words": "Illusions Trick",
+            "Question": "At 3:09 of the video, how many crackers are in the magician's hands?",
+            "Answer": "Three crackers are in the magician's hands."
+         },
+         {
+            "UID": 3322,
+            "Timestamp": "3:28",
+            "Question type": "Contextual Reasoning",
+            "Key words": "Illusions Trick",
+            "Question": "At 3:28 of the video, where are the crackers now?",
+            "Answer": "The crackers are now in the hat."
+         },
+         {
+            "UID": 3323,
+            "Timestamp": "3:43",
+            "Question type": "Paradoxical Reasoning",
+            "Key words": "Illusions Trick",
+            "Question": "At 3:43 of the video, why are the people surprised?",
+            "Answer": "The people are surprised because all the crackers appeared in the magician's hand."
+         },
+         {
+            "UID": 3324,
+            "Timestamp": "3:44",
+            "Question type": "Adversarial, False Implication",
+            "Key words": "Illusions Trick",
+            "Question": "At 3:44 of the video, are there two crackers in the magician's hand right now? Please give me your answer and reason.",
+            "Answer": "No, there are three crackers in the magician's hand right now."
+         },
+         {
+            "UID": 3325,
+            "Timestamp": "4:01",
+            "Question type": "Paradoxical Reasoning",
+            "Key words": "Illusions Trick",
+            "Question": "At 4:01 of the video, why are the people surprised?",
+            "Answer": "The people are surprised because two of the crackers suddenly disappeared from her hand."
+         },
+         {
+            "UID": 3326,
+            "Timestamp": "4:09",
+            "Question type": "Contextual Reasoning",
+            "Key words": "Illusions Trick",
+            "Question": "At 4:09 of the video, how many crackers are in the hat right now?",
+            "Answer": "One cracker is in the hat right now."
+         },
+         {
+            "UID": 3327,
+            "Timestamp": "4:19",
+            "Question type": "Paradoxical Reasoning",
+            "Key words": "Illusions Trick",
+            "Question": "At 4:19 of the video, why are the people surprised?",
+            "Answer": "The people are surprised because all of the crackers went back to her hand."
+         },
+         {
+            "UID": 3328,
+            "Timestamp": "4:33",
+            "Question type": "Paradoxical Reasoning",
+            "Key words": "Illusions Trick",
+            "Question": "At 4:33 of the video, why are the people surprised?",
+            "Answer": "The people are surprised because all of the crackers appeared in the hat."
+         },
+         {
+            "UID": 3329,
+            "Timestamp": "4:55",
+            "Question type": "Contextual Reasoning",
+            "Key words": "Illusions Trick",
+            "Question": "At 4:55 of the video, where are the crackers now?",
+            "Answer": "The magician crushed the crackers into crumbs."
+         },
+         {
+            "UID": 3330,
+            "Timestamp": "5:08",
+            "Question type": "Paradoxical Reasoning",
+            "Key words": "Illusions Trick",
+            "Question": "At 5:08 of the video, why are the people surprised?",
+            "Answer": "The people are surprised because the magician turned the crumbs back into crackers."
+         },
+         {
+            "UID": 3331,
+            "Timestamp": "5:22",
+            "Question type": "Adversarial, False Statement",
+            "Key words": "Illusions Trick",
+            "Question": "At 5:22 of the video, there are two crackers on the table that have been bitten by the magician. Which two (count from left to right in the magician's perspective)? Please give me your answer and reason.",
+            "Answer": "There is only one cracker that has been bitten by the magician, which is the rightmost one on the table from the magician's perspective."
+         },
+         {
+            "UID": 3332,
+            "Timestamp": "5:40",
+            "Question type": "Contextual Reasoning",
+            "Key words": "Illusions Trick",
+            "Question": "At 5:40 of the video, how many crackers are on the table right now?",
+            "Answer": "Three crackers are on the table right now. One of them is under a cookie."
+         },
+         {
+            "UID": 3333,
+            "Timestamp": "5:46",
+            "Question type": "Paradoxical Reasoning",
+            "Key words": "Illusions Trick",
+            "Question": "At 5:46 of the video, why are the people surprised?",
+            "Answer": "The people are surprised because a box of ice cream appeared in the hat."
+         }
+      ],
+      "metadata": {
+         "start": "1:21"
+      }
+   },
+   "gKVok2cwCx4": {
+      "Questions": [
+         {
+            "UID": 3334,
+            "Timestamp": "1:24",
+            "Question type": "Contextual Reasoning",
+            "Key words": "Illusions Trick",
+            "Question": "At 1:24 of the video, how many ropes was the magician on the stage holding in his hands?",
+            "Answer": "The magician on the stage was holding one rope in his hands."
+         },
+         {
+            "UID": 3335,
+            "Timestamp": "2:10",
+            "Question type": "Adversarial, False Implication",
+            "Key words": "Illusions Trick",
+            "Question": "At 2:10 of the video, who is holding the rope now? Please give me your answer and reason.",
+            "Answer": "Nobody is holding the rope now. The rope dropped on the ground."
+         },
+         {
+            "UID": 3336,
+            "Timestamp": "2:18",
+            "Question type": "Contextual Reasoning",
+            "Key words": "Illusions Trick",
+            "Question": "At 2:18 of the video, how many glasses are on the table behind the participant (the woman)?",
+            "Answer": "There is one glass on the table behind the female participant."
+         },
+         {
+            "UID": 3337,
+            "Timestamp": "3:18",
+            "Question type": "Paradoxical Reasoning",
+            "Key words": "Illusions Trick",
+            "Question": "At 3:18 of the video, why are the people surprised?",
+            "Answer": "The people are surprised because a fish hooked by a fishing line suddenly appeared in the glass."
+         },
+         {
+            "UID": 3338,
+            "Timestamp": "4:15",
+            "Question type": "Contextual Reasoning",
+            "Key words": "Illusions Trick",
+            "Question": "At 4:15 of the video, what is the magician (the man) holding in his hand?",
+            "Answer": "The magician is holding a piece of the skin of a carrot in his hand."
+         },
+         {
+            "UID": 3339,
+            "Timestamp": "4:28",
+            "Question type": "Adversarial, False Implication",
+            "Key words": "Illusions Trick",
+            "Question": "At 4:28 of the video, what is the color of the fish in the glass right now? Please give me your answer and reason.",
+            "Answer": "There is no fish in the glass right now."
+         },
+         {
+            "UID": 3340,
+            "Timestamp": "4:32",
+            "Question type": "Paradoxical Reasoning",
+            "Key words": "Illusions Trick",
+            "Question": "At 4:32 of the video, why are the people surprised?",
+            "Answer": "The people are surprised because the magician just bit the piece of carrot skin in his hand, and it turned into a fish shape."
+         },
+         {
+            "UID": 3341,
+            "Timestamp": "5:15",
+            "Question type": "Paradoxical Reasoning",
+            "Key words": "Illusions Trick",
+            "Question": "At 5:15 of the video, why are the people surprised?",
+            "Answer": "The people are surprised because the piece of carrot skin turned into a real fish in the glass."
+         }
+      ],
+      "metadata": {
+         "start": "1:15"
+      }
+   },
+   "KVlJ-E3SojE": {
+      "Questions": [
+         {
+            "UID": 3342,
+            "Timestamp": "1:30",
+            "Question type": "Contextual Reasoning",
+            "Key words": "Sleight Of Hand Trick",
+            "Question": "At 1:30 of the video, how many chips did the magician take out from his pocket?",
+            "Answer": "The magician took out three chips from his pocket."
+         },
+         {
+            "UID": 3343,
+            "Timestamp": "1:53",
+            "Question type": "Paradoxical Reasoning",
+            "Key words": "Sleight Of Hand Trick",
+            "Question": "At 1:53 of the video, why are the people surprised?",
+            "Answer": "The people are surprised because one chip disappeared from his right hand and one chip appeared in his left hand."
+         },
+         {
+            "UID": 3344,
+            "Timestamp": "2:18",
+            "Question type": "Paradoxical Reasoning",
+            "Key words": "Sleight Of Hand Trick",
+            "Question": "At 2:18 of the video, why are the people surprised?",
+            "Answer": "The people are surprised because one chip disappeared from his right hand and one more chip appeared in his left hand."
+         },
+         {
+            "UID": 3345,
+            "Timestamp": "3:24",
+            "Question type": "Contextual Reasoning",
+            "Key words": "Sleight Of Hand Trick",
+            "Question": "At 3:24 of the video, how many chips are in the magician's right hand?",
+            "Answer": "One chip is in the magician's right hand."
+         },
+         {
+            "UID": 3346,
+            "Timestamp": "3:38",
+            "Question type": "Paradoxical Reasoning",
+            "Key words": "Sleight Of Hand Trick",
+            "Question": "At 3:38 of the video, why are the people surprised?",
+            "Answer": "The people are surprised because the chip in the magician's right hand appeared in the magician's left hand."
+         }
+      ],
+      "metadata": {
+         "start": "1:15"
+      }
+   },
+   "ZyLca274WX4": {
+      "Questions": [
+         {
+            "UID": 3347,
+            "Timestamp": "1:27",
+            "Question type": "Contextual Reasoning",
+            "Key words": "Illusions Trick",
+            "Question": "At 1:27 of the video, what did the magician (the man) take from the participant's (the woman's) hand?",
+            "Answer": "The magician took a ring from the participant's hand."
+         },
+         {
+            "UID": 3348,
+            "Timestamp": "1:32",
+            "Question type": "Adversarial, False Implication",
+            "Key words": "Illusions Trick",
+            "Question": "At 1:32 of the video, what is inside the participant's (the woman) right hand? Please give me your answer and reason.",
+            "Answer": "Nothing is inside the participant's right hand."
+         },
+         {
+            "UID": 3349,
+            "Timestamp": "3:00",
+            "Question type": "Instant Reasoning",
+            "Key words": "Illusions Trick",
+            "Question": "At 3:00 of the video, how many tennis balls are the magician (the man) playing around with?",
+            "Answer": "The magician is playing around with three tennis balls."
+         },
+         {
+            "UID": 3350,
+            "Timestamp": "4:22",
+            "Question type": "Paradoxical Reasoning",
+            "Key words": "Illusions Trick",
+            "Question": "At 4:22 of the video, why are the people surprised?",
+            "Answer": "The people are surprised because the magician swung the tennis racket at the ball, and it turned into confetti."
+         },
+         {
+            "UID": 3351,
+            "Timestamp": "5:22",
+            "Question type": "Contextual Reasoning",
+            "Key words": "Illusions Trick",
+            "Question": "At 5:22 of the video, how many tennis balls are in the holder?",
+            "Answer": "One tennis ball is in the holder."
+         },
+         {
+            "UID": 3352,
+            "Timestamp": "6:30",
+            "Question type": "Paradoxical Reasoning",
+            "Key words": "Illusions Trick",
+            "Question": "At 6:30 of the video, why are the people surprised?",
+            "Answer": "The people are surprised because after the magician cut the tennis ball, a ring dropped out of it."
+         }
+      ],
+      "metadata": {
+         "start": "1:10"
+      }
+   },
+   "_TvUbI9jLm0": {
+      "Questions": [
+         {
+            "UID": 3353,
+            "Timestamp": "2:55",
+            "Question type": "Paradoxical Reasoning",
+            "Key words": "Illusions Trick",
+            "Question": "At 2:55 of the video, why are the people surprised?",
+            "Answer": "The people are surprised because the magician starts floating in midair while rotating a rope around his body."
+         },
+         {
+            "UID": 3354,
+            "Timestamp": "8:18",
+            "Question type": "Adversarial, False Statement",
+            "Key words": "Illusions Trick",
+            "Question": "At 8:18 of the video, what color is the wand under the cloth in the magician's (the man's) right hand? Please give me your answer and reason.",
+            "Answer": "There is nothing under the cloth in the magician's right hand."
+         },
+         {
+            "UID": 3355,
+            "Timestamp": "8:23",
+            "Question type": "Paradoxical Reasoning",
+            "Key words": "Illusions Trick",
+            "Question": "At 8:23 of the video, why are the people surprised?",
+            "Answer": "The people are surprised because a pigeon suddenly appears under the piece of cloth in the magician's hand."
+         },
+         {
+            "UID": 3356,
+            "Timestamp": "9:22",
+            "Question type": "Paradoxical Reasoning",
+            "Key words": "Illusions Trick",
+            "Question": "At 9:22 of the video, why are the people surprised?",
+            "Answer": "The people are surprised because the pigeon (the bird) was crumpled and disappeared as if it were a sheet of paper."
+         },
+         {
+            "UID": 3357,
+            "Timestamp": "10:08",
+            "Question type": "Contextual Reasoning",
+            "Key words": "Illusions Trick",
+            "Question": "At 10:08 of the video, where did the magician take the pigeon in his hand from?",
+            "Answer": "The magician took out the pigeon from his pocket."
+         },
+         {
+            "UID": 3358,
+            "Timestamp": "10:33",
+            "Question type": "Paradoxical Reasoning",
+            "Key words": "Illusions Trick",
+            "Question": "At 10:33 of the video, why are the people surprised?",
+            "Answer": "The people are surprised because the magician pulled off the pigeon's head without any blood, as if it were just a toy."
+         },
+         {
+            "UID": 3359,
+            "Timestamp": "10:39",
+            "Question type": "Paradoxical Reasoning",
+            "Key words": "Illusions Trick",
+            "Question": "At 10:39 of the video, why are the people surprised?",
+            "Answer": "The people are surprised because the magician put the pigeon's head back onto its body, and the pigeon came back to life."
+         }
+      ],
+      "metadata": {
+         "start": "1:55"
+      }
+   },
+   "fIriRMQMO7A": {
+      "Questions": [
+         {
+            "UID": 3360,
+            "Timestamp": "1:36",
+            "Question type": "Contextual Reasoning",
+            "Key words": "Illusions Trick",
+            "Question": "At 1:36 of the video, how many times has the apple been bitten?",
+            "Answer": "The apple has been bitten once."
+         },
+         {
+            "UID": 3361,
+            "Timestamp": "1:50",
+            "Question type": "Paradoxical Reasoning",
+            "Key words": "Illusions Trick",
+            "Question": "At 1:50 of the video, why are the people surprised?",
+            "Answer": "The people are surprised because the bite mark on the apple turned into a sticker."
+         },
+         {
+            "UID": 3362,
+            "Timestamp": "3:23",
+            "Question type": "Adversarial, False Implication",
+            "Key words": "Illusions Trick",
+            "Question": "At 3:23 of the video, what is inside the black bag that the woman is holding? Please give me your answer and reason.",
+            "Answer": "There is nothing inside the black bag that the woman is holding."
+         },
+         {
+            "UID": 3363,
+            "Timestamp": "3:38",
+            "Question type": "Paradoxical Reasoning",
+            "Key words": "Illusions Trick",
+            "Question": "At 3:38 of the video, why are the people surprised?",
+            "Answer": "The people are surprised because the magician pulled an egg from an empty black bag."
+         },
+         {
+            "UID": 3364,
+            "Timestamp": "4:34",
+            "Question type": "Contextual Reasoning",
+            "Key words": "Illusions Trick",
+            "Question": "At 4:34 of the video, is there something inside the black bag that the woman is holding?",
+            "Answer": "No, there is nothing inside the black bag that the woman is holding."
+         },
+         {
+            "UID": 3365,
+            "Timestamp": "4:54",
+            "Question type": "Paradoxical Reasoning",
+            "Key words": "Illusions Trick",
+            "Question": "At 4:54 of the video, why are the people surprised?",
+            "Answer": "The people are surprised because the woman pulled an egg from an empty black bag."
+         },
+         {
+            "UID": 3366,
+            "Timestamp": "5:41",
+            "Question type": "Paradoxical Reasoning",
+            "Key words": "Illusions Trick",
+            "Question": "At 5:41 of the video, why are the people surprised?",
+            "Answer": "The people are surprised because the egg the magician is holding keeps pouring out a long stream of white liquid."
+         }
+      ],
+      "metadata": {
+         "start": "1:10"
+      }
+   },
+   "diqGvx6s_dk": {
+      "Questions": [
+         {
+            "UID": 3367,
+            "Timestamp": "2:14",
+            "Question type": "Contextual Reasoning",
+            "Key words": "Piercing Magic Trick",
+            "Question": "At 2:14 of the video, what items are on the table next to the magician?",
+            "Answer": "There are a dollar bill and a pair of blue gloves on the table."
+         },
+         {
+            "UID": 3368,
+            "Timestamp": "2:22",
+            "Question type": "Contextual Reasoning",
+            "Key words": "Piercing Magic Trick",
+            "Question": "At 2:22 of the video, is the bill on the table missing a small corner?",
+            "Answer": "Yes, the bill on the table is missing a small corner."
+         },
+         {
+            "UID": 3369,
+            "Timestamp": "3:14",
+            "Question type": "Adversarial, False Statement",
+            "Key words": "Piercing Magic Trick",
+            "Question": "At 3:14 of the video, the woman is holding a needle in her hands. What is the color of the needle? Please give me your answer and reason.",
+            "Answer": "The woman is not holding a needle in her hands. She is holding a tongue piercing."
+         },
+         {
+            "UID": 3370,
+            "Timestamp": "3:19",
+            "Question type": "Contextual Reasoning",
+            "Key words": "Piercing Magic Trick",
+            "Question": "At 3:19 of the video, what is in the bowl?",
+            "Answer": "A tongue piercing is in the bowl."
+         },
+         {
+            "UID": 3371,
+            "Timestamp": "4:05",
+            "Question type": "Contextual Reasoning",
+            "Key words": "Piercing Magic Trick",
+            "Question": "At 4:05 of the video, what was put into the big bowl of shredded dollar bills?",
+            "Answer": "The corner of the dollar bill on the table was put into the big bowl of shredded dollar bills."
+         },
+         {
+            "UID": 3372,
+            "Timestamp": "4:46",
+            "Question type": "Paradoxical Reasoning",
+            "Key words": "Piercing Magic Trick",
+            "Question": "At 4:46 of the video, why are the people surprised?",
+            "Answer": "The people are surprised because a piece of shredded dollar bill appeared attached to the tongue piercing."
+         },
+         {
+            "UID": 3373,
+            "Timestamp": "5:05",
+            "Question type": "Paradoxical Reasoning",
+            "Key words": "Piercing Magic Trick",
+            "Question": "At 5:05 of the video, why are the people surprised?",
+            "Answer": "The people are surprised because the piece of the shredded dollar bill turns out to be the missing corner of the dollar bill that was torn earlier."
+         }
+      ],
+      "metadata": {
+         "start": "1:15"
+      }
+   },
+   "QWvMI_YtCoY": {
+      "Questions": [
+         {
+            "UID": 3374,
+            "Timestamp": "2:41",
+            "Question type": "Paradoxical Reasoning",
+            "Key words": "Mentalism Trick",
+            "Question": "At 2:41 of the video, why are the people surprised?",
+            "Answer": "The people are surprised because the portrait of the magician on the card box suddenly sticks out its tongue."
+         },
+         {
+            "UID": 3375,
+            "Timestamp": "4:01",
+            "Question type": "Paradoxical Reasoning",
+            "Key words": "Mentalism Trick",
+            "Question": "At 4:01 of the video, why are the people surprised?",
+            "Answer": "The people are surprised because the coin disappears from the magician's right hand and appears in his left hand as he turns his right hand over."
+         },
+         {
+            "UID": 3376,
+            "Timestamp": "5:28",
+            "Question type": "Paradoxical Reasoning",
+            "Key words": "Mentalism Trick",
+            "Question": "At 5:28 of the video, why are the people surprised?",
+            "Answer": "The people are surprised because the same coin marked 'JW' now appears on the magician's back."
+         },
+         {
+            "UID": 3377,
+            "Timestamp": "6:25",
+            "Question type": "Contextual Reasoning",
+            "Key words": "Mentalism Trick",
+            "Question": "At 6:25 of the video, where is the coin now?",
+            "Answer": "The coin is in the magician's right hand now."
+         },
+         {
+            "UID": 3378,
+            "Timestamp": "11:24",
+            "Question type": "Contextual Reasoning",
+            "Key words": "Mentalism Trick",
+            "Question": "At 11:24 of the video, what is the total number shown on the real dice on the table?",
+            "Answer": "The total number shown on the real dice is 20."
+         },
+         {
+            "UID": 3379,
+            "Timestamp": "12:08",
+            "Question type": "Contextual Reasoning",
+            "Key words": "Mentalism Trick",
+            "Question": "At 12:08 of the video, how many dice are in the dice cup on the right from the magician's perspective?",
+            "Answer": "Four dice are in the dice cup on the right from the magician's perspective."
+         },
+         {
+            "UID": 3380,
+            "Timestamp": "12:14",
+            "Question type": "Paradoxical Reasoning",
+            "Key words": "Mentalism Trick",
+            "Question": "At 12:14 of the video, why are the people surprised?",
+            "Answer": "The people are surprised because only three dice appeared in the dice cup instead of four."
+         },
+         {
+            "UID": 3381,
+            "Timestamp": "12:14",
+            "Question type": "Adversarial, False Implication",
+            "Key words": "Mentalism Trick",
+            "Question": "At 12:14 of the video, are there three dice behind the poker card? Please give me your answer and reason.",
+            "Answer": "No, there should be four dice behind the poker card."
+         },
+         {
+            "UID": 3382,
+            "Timestamp": "12:30",
+            "Question type": "Contextual Reasoning",
+            "Key words": "Mentalism Trick",
+            "Question": "At 12:30 of the video, how many dice are behind the poker card right now?",
+            "Answer": "Three dice are behind the poker card right now."
+         },
+         {
+            "UID": 3383,
+            "Timestamp": "12:35",
+            "Question type": "Paradoxical Reasoning",
+            "Key words": "Mentalism Trick",
+            "Question": "At 12:35 of the video, why are the people surprised?",
+            "Answer": "The people are surprised because there are only two dice left under the dice cup and behind the card."
+         },
+         {
+            "UID": 3384,
+            "Timestamp": "13:43",
+            "Question type": "Contextual Reasoning",
+            "Key words": "Mentalism Trick",
+            "Question": "At 13:43 of the video, how many dice in total are under the two dice cups?",
+            "Answer": "Eight dice in total are under the two dice cups."
+         }
+      ],
+      "metadata": {
+         "start": "2:01"
+      }
+   }
+}

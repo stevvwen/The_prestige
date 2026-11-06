@@ -1,0 +1,3862 @@
+{
+    "J3_h_-_Y5Ug": {
+        "Questions": [
+            {
+                "UID": 5000,
+                "Timestamp": "1:36",
+                "Question type": "Instant Reasoning",
+                "Key words": "Everyday Objects, Illusions",
+                "Question": "At 1:36 of the video, what is on the table?",
+                "Answer": "3 glasses, 3 bottles of water, and 1 kettle."
+            },
+            {
+                "UID": 5001,
+                "Timestamp": "1:55",
+                "Question type": "Instant Reasoning",
+                "Key words": "Everyday Objects, Illusions",
+                "Question": "At 1:55 of the video, what is in the kettle?",
+                "Answer": "The kettle is empty."
+            },
+            {
+                "UID": 5002,
+                "Timestamp": "1:55",
+                "Question type": "Contextual Reasoning",
+                "Key words": "Everyday Objects, Illusions",
+                "Question": "At 1:55 of the video, what liquid is in the kettle? Give me your answer and reason.",
+                "Answer": "The kettle is not filled with a liquid."
+            },
+            {
+                "UID": 5003,
+                "Timestamp": "2:51",
+                "Question type": "Contextual Reasoning",
+                "Key words": "Everyday Objects, Illusions",
+                "Question": "At 2:51 of the video, what liquid is put in the kettle?",
+                "Answer": "The kettle is filled with water."
+            },
+            {
+                "UID": 5004,
+                "Timestamp": "3:12",
+                "Question type": "Paradoxical Reasoning",
+                "Key words": "Everyday Objects, Illusions",
+                "Question": "At 3:12 of the video, why is the fact that a yellow liquid is coming of the kettle bizarre?",
+                "Answer": "It is because the kettle was originally empty, then filled with pure water."
+            },
+            {
+                "UID": 5005,
+                "Timestamp": "4:33",
+                "Question type": "Paradoxical Reasoning",
+                "Key words": "Everyday Objects, Illusions",
+                "Question": "At 4:33 of the video, why is the fact that a red liquid is coming of the kettle bizarre?",
+                "Answer": "It is because the kettle was filled with pure water."
+            },
+            {
+                "UID": 5006,
+                "Timestamp": "6:44",
+                "Question type": "Contextual Reasoning",
+                "Key words": "Everyday Objects, Illusions",
+                "Question": "At 6:44 of the video, how many different liquids came out of the kettle?",
+                "Answer": "Four different drinks came out (yellow, red, pink, light pink)."
+            },
+            {
+                "UID": 5007,
+                "Timestamp": "6:45",
+                "Question type": "Paradoxical Reasoning",
+                "Key words": "Everyday Objects, Illusions",
+                "Question": "At 6:45 of the video, what is so magical about this kettle?",
+                "Answer": "By being filled only with pure water it has been able to pour out many different types of liquid."
+            },
+            {
+                "UID": 5385,
+                "Timestamp": "3:12",
+                "Question type": "Adversarial, False Statement",
+                "Key words": "Everyday Objects, Illusions",
+                "Question": "At 3:12 of the video, when the blue liquid came out, was it boiling? Give me your answer and reason.",
+                "Answer": "No blue liquid came out of the kettle."
+            },
+            {
+                "UID": 5386,
+                "Timestamp": "2:46",
+                "Question type": "Adversarial, False Statement",
+                "Key words": "Everyday Objects, Illusions",
+                "Question": "At 2:46 of the video, the man put ice in the kettle, is it full? Give me your answer and reason.",
+                "Answer": "The man did not put any ice in the kettle."
+            }
+        ],
+        "metadata": {
+            "start": "1:10"
+        }
+    },
+    "5y2tb3hp1eQ": {
+        "Questions": [
+            {
+                "UID": 5008,
+                "Timestamp": "0:04",
+                "Question type": "Instant Reasoning",
+                "Key words": "Everyday Objects, Illusions",
+                "Question": "At 0:04 of the video, describe the two people sitting in the foreground?",
+                "Answer": "One man in a black suit and orange tie and one woman in a red and black outfit."
+            },
+            {
+                "UID": 5009,
+                "Timestamp": "1:34",
+                "Question type": "Contextual Reasoning",
+                "Key words": "Everyday Objects, Illusions",
+                "Question": "At 1:34 of the video there is a man behind the red curtain. Previously, where was he on the stage?",
+                "Answer": "He was last seen on the left side of the curtain."
+            },
+            {
+                "UID": 5010,
+                "Timestamp": "1:41",
+                "Question type": "Instant Reasoning",
+                "Key words": "Everyday Objects, Illusions",
+                "Question": "At 1:41 of the video, what is the man holding?",
+                "Answer": "The man is holding a white piece of paper with text on it and an image in the middle."
+            },
+            {
+                "UID": 5011,
+                "Timestamp": "1:43",
+                "Question type": "Instant Reasoning",
+                "Key words": "Everyday Objects, Illusions",
+                "Question": "At 1:43 of the video, what is happening to the piece of paper?",
+                "Answer": "The man ripped the paper."
+            },
+            {
+                "UID": 5012,
+                "Timestamp": "2:28",
+                "Question type": "Contextual Reasoning",
+                "Key words": "Everyday Objects, Illusions",
+                "Question": "At 2:28 of the video, what is the man doing to the piece of paper?",
+                "Answer": "He is using a wand to cast a spell on the paper."
+            },
+            {
+                "UID": 5013,
+                "Timestamp": "2:34",
+                "Question type": "Paradoxical Reasoning",
+                "Key words": "Everyday Objects, Illusions",
+                "Question": "At 2:34 of the video, what is surprising about the piece of paper now?",
+                "Answer": "The paper is no longer ripped."
+            },
+            {
+                "UID": 5014,
+                "Timestamp": "2:55",
+                "Question type": "Paradoxical Reasoning",
+                "Key words": "Everyday Objects, Illusions",
+                "Question": "At 2:55 of the video, what is surprising the people?",
+                "Answer": "The man pulled a cup of water out of the paper."
+            },
+            {
+                "UID": 5015,
+                "Timestamp": "3:19",
+                "Question type": "Paradoxical Reasoning",
+                "Key words": "Everyday Objects, Illusions",
+                "Question": "At 3:19 of the video, what is surprising the people?",
+                "Answer": "The man to the left of the frame was wearing a mask."
+            },
+            {
+                "UID": 5016,
+                "Timestamp": "3:19",
+                "Question type": "Adversarial, False Implication",
+                "Key words": "Everyday Objects, Illusions",
+                "Question": "At 3:19 of the video there is a man taking a mask off, we have never seen this man before right? Give me your answer and reason.",
+                "Answer": "No, the man taking off the mask was the person in the black suit and orange tie last seen sitting next to the woman in red."
+            },
+            {
+                "UID": 5017,
+                "Timestamp": "4:10",
+                "Question type": "Temporal Summarization",
+                "Key words": "Everyday Objects, Illusions",
+                "Question": "At 4:10 of the video, three main tricks happened in this video what were they? order doesn't matter.",
+                "Answer": "One was having the paper go from ripped to not ripped, one was pulling the water out of the paper roll, and one was the man in the orange tie disguising himself as the other man."
+            },
+            {
+                "UID": 5363,
+                "Timestamp": "2:57",
+                "Question type": "Adversarial, False Statement",
+                "Key words": "Everyday Objects, Illusions",
+                "Question": "At 2:57 of the video, as this cup was shown to be filled with ice, when did it turn to water? Give me your answer and reason.",
+                "Answer": "It was never shown to be filled with ice."
+            },
+            {
+                "UID": 5364,
+                "Timestamp": "0:37",
+                "Question type": "Adversarial, False Statement",
+                "Key words": "Everyday Objects, Illusions",
+                "Question": "At 0:37 of the video, there is a man wearing a blue suit, what is he holding? Give me your answer and reason.",
+                "Answer": "There is no man in a blue suit."
+            },
+            {
+                "UID": 5365,
+                "Timestamp": "1:50",
+                "Question type": "Adversarial, False Statement",
+                "Key words": "Everyday Objects, Illusions",
+                "Question": "At 1:50 of the video, what is the man writing on the paper? Give me your answer and reason.",
+                "Answer": "The man is not writing on the paper."
+            }
+        ],
+        "metadata": {
+            "start": "0:00"
+        }
+    },
+    "6QEKzqtC6Jk": {
+        "Questions": [
+            {
+                "UID": 5018,
+                "Timestamp": "0:17",
+                "Question type": "Instant Reasoning",
+                "Key words": "Everyday Objects, Predictions",
+                "Question": "At 0:17 of the video, what is behind the man in the scene?",
+                "Answer": "A board filled with large pieces of paper (post-it notes)."
+            },
+            {
+                "UID": 5019,
+                "Timestamp": "0:51",
+                "Question type": "Instant Reasoning",
+                "Key words": "Everyday Objects, Predictions",
+                "Question": "At 0:51 of the video, what is the man on the left in the light grey suit doing?",
+                "Answer": "He is spinning the wheel."
+            },
+            {
+                "UID": 5020,
+                "Timestamp": "1:44",
+                "Question type": "Contextual Reasoning",
+                "Key words": "Everyday Objects, Predictions",
+                "Question": "At 1:44 of the video, what is hidden under the black cloth?",
+                "Answer": "The magician is hiding his hand under the cloth."
+            },
+            {
+                "UID": 5021,
+                "Timestamp": "1:59",
+                "Question type": "Paradoxical Reasoning",
+                "Key words": "Everyday Objects, Predictions",
+                "Question": "At 1:59 of the video, why the audience finds surprising about the hand of the magician?",
+                "Answer": "He was not originally holding a card. Then after passing the black cloth over his hand the card appeared there."
+            },
+            {
+                "UID": 5022,
+                "Timestamp": "2:33",
+                "Question type": "Paradoxical Reasoning",
+                "Key words": "Everyday Objects, Predictions",
+                "Question": "At 2:33 of the video, why the audience finds surprising about holding a 2 of clubs?",
+                "Answer": "The woman in white had raised 2 fingers, and then the magician presented her a card of value 2."
+            },
+            {
+                "UID": 5023,
+                "Timestamp": "4:10",
+                "Question type": "Instant Reasoning",
+                "Key words": "Everyday Objects, Predictions",
+                "Question": "At 4:10 of the video, what is in the girl's hand?",
+                "Answer": "In her hand, there is one coin and a upside down glass."
+            },
+            {
+                "UID": 5024,
+                "Timestamp": "4:29",
+                "Question type": "Paradoxical Reasoning",
+                "Key words": "Everyday Objects, Predictions",
+                "Question": "At 4:29 of the video, why the audience finds surprising about what is happening?",
+                "Answer": "The coin appears to magically be flipping in the girls hand."
+            },
+            {
+                "UID": 5025,
+                "Timestamp": "5:58",
+                "Question type": "Paradoxical Reasoning",
+                "Key words": "Everyday Objects, Predictions",
+                "Question": "At 5:58 of the video, why the audience finds surprising about what is on the board?",
+                "Answer": "The tricks were predicted and written on the board before the act started."
+            },
+            {
+                "UID": 5026,
+                "Timestamp": "7:15",
+                "Question type": "Temporal Summarization",
+                "Key words": "Everyday Objects, Predictions",
+                "Question": "At 7:15 of the video, how many times did the man in the light grey suit spin the wheel in the video?",
+                "Answer": "He spun the wheel 3 times."
+            },
+            {
+                "UID": 5027,
+                "Timestamp": "7:15",
+                "Question type": "Temporal Summarization",
+                "Key words": "Everyday Objects, Predictions",
+                "Question": "At 7:15 of the video, how does the magician decide what tricks to do in this video?",
+                "Answer": "Every time the man in the light grey suit spins the wheel the magician does a trick."
+            },
+            {
+                "UID": 5366,
+                "Timestamp": "2:06",
+                "Question type": "Adversarial, False Statement",
+                "Key words": "Everyday Objects, Predictions",
+                "Question": "At 2:06 of the video, what is the woman in the red dress holding? Give me your answer and reason.",
+                "Answer": "There is no woman in a red dress in the video."
+            }
+        ],
+        "metadata": {
+            "start": "0:15"
+        }
+    },
+    "163B33R9wfU": {
+        "Questions": [
+            {
+                "UID": 5028,
+                "Timestamp": "0:10",
+                "Question type": "Instant Reasoning",
+                "Key words": "Everyday Objects, Predictions",
+                "Question": "At 0:10 of the video, what is in the magicians hand?",
+                "Answer": "He is holding a glass with an egg in it.(could be identified as a white ball)"
+            },
+            {
+                "UID": 5029,
+                "Timestamp": "0:26",
+                "Question type": "Adversarial, False Implication",
+                "Key words": "Everyday Objects, Predictions",
+                "Question": "At 0:26 of the video, is the white ball supposed to be an egg? Give me your answer and reason.",
+                "Answer": "No, it is not supposed to be an egg because the magician bounced it off the ground, and it did not break."
+            },
+            {
+                "UID": 5030,
+                "Timestamp": "0:42",
+                "Question type": "Adversarial, False Implication",
+                "Key words": "Everyday Objects, Predictions",
+                "Question": "At 0:42 of the video, but that object that bounced off the ground was not a real egg right? Give me your answer and reason.",
+                "Answer": "Yes it was a real egg, the magician even cracked it open to show that it was a normal egg."
+            },
+            {
+                "UID": 5031,
+                "Timestamp": "1:22",
+                "Question type": "Instant Reasoning",
+                "Key words": "Everyday Objects, Predictions",
+                "Question": "At 1:22 of the video, what is the magician handing to the woman in the white dress?",
+                "Answer": "He is handing her a pair of scissors."
+            },
+            {
+                "UID": 5032,
+                "Timestamp": "1:40",
+                "Question type": "Contextual Reasoning",
+                "Key words": "Everyday Objects, Predictions",
+                "Question": "At 1:40 of the video, who cut the string that was holding the balloon?",
+                "Answer": "The woman in white cut the string."
+            },
+            {
+                "UID": 5033,
+                "Timestamp": "2:08",
+                "Question type": "Contextual Reasoning",
+                "Key words": "Everyday Objects, Predictions",
+                "Question": "At 2:08 of the video, who decided which of the second two balloons to cut?",
+                "Answer": "The two men in the black and red suits each decided on one balloon.(member of the audience)"
+            },
+            {
+                "UID": 5034,
+                "Timestamp": "3:06",
+                "Question type": "Instant Reasoning",
+                "Key words": "Everyday Objects, Predictions",
+                "Question": "At 3:06 of the video, what is the color of the balloon that came out of the box?",
+                "Answer": "It is black."
+            },
+            {
+                "UID": 5035,
+                "Timestamp": "3:06",
+                "Question type": "Paradoxical Reasoning",
+                "Key words": "Everyday Objects, Predictions",
+                "Question": "At 3:06 of the video, why the audience finds surprising about the balloon that came out of the box?",
+                "Answer": "The balloon that came out of the box is the same color as the one balloon that was not cut."
+            },
+            {
+                "UID": 5036,
+                "Timestamp": "3:38",
+                "Question type": "Instant Reasoning",
+                "Key words": "Everyday Objects, Predictions",
+                "Question": "At 3:38 of the video, what was shown to be inside the box?",
+                "Answer": "A transparent tube with paper inside."
+            },
+            {
+                "UID": 5037,
+                "Timestamp": "5:02",
+                "Question type": "Paradoxical Reasoning",
+                "Key words": "Everyday Objects, Predictions",
+                "Question": "At 5:02 of the video, why the audience finds surprising about the paper that was shown?",
+                "Answer": "Paper predicts which balloons were going to be cut and their order."
+            },
+            {
+                "UID": 5394,
+                "Timestamp": "3:55",
+                "Question type": "Adversarial, False Statement",
+                "Key words": "Everyday Objects, Predictions",
+                "Question": "At 3:55 of the video, a transparent cylinder is shown to contain a blue liquid, what is that liquid? Give me your answer and reason.",
+                "Answer": "There is no blue liquid in the transparent cylinder."
+            }
+        ],
+        "metadata": {
+            "start": "0:02"
+        }
+    },
+    "AU8NPmx66j8": {
+        "Questions": [
+            {
+                "UID": 5038,
+                "Timestamp": "1:08",
+                "Question type": "Contextual Reasoning",
+                "Key words": "Everyday Objects, Sleight Of Hand, Cardtricks",
+                "Question": "At 1:08 of the video, what did the magician put on the table?",
+                "Answer": "He put a deck of cards and a shaker of salt on the table."
+            },
+            {
+                "UID": 5039,
+                "Timestamp": "1:22",
+                "Question type": "Paradoxical Reasoning",
+                "Key words": "Everyday Objects, Sleight Of Hand, Cardtricks",
+                "Question": "At 1:22 of the video, why the audience finds surprising about the cards that the magician is holding?",
+                "Answer": "The magician pulled those cards out of his mouth."
+            },
+            {
+                "UID": 5040,
+                "Timestamp": "1:30",
+                "Question type": "Paradoxical Reasoning",
+                "Key words": "Everyday Objects, Sleight Of Hand, Cardtricks",
+                "Question": "At 1:30 of the video, why the audience finds surprising about the card in the hand of the magician?",
+                "Answer": "Everytime he puts the card into his hat a new one appears in his hand."
+            },
+            {
+                "UID": 5041,
+                "Timestamp": "1:42",
+                "Question type": "Contextual Reasoning",
+                "Key words": "Everyday Objects, Sleight Of Hand, Cardtricks",
+                "Question": "At 1:42 of the video, how did the balls get on the table?",
+                "Answer": "They came out of the salt shaker."
+            },
+            {
+                "UID": 5042,
+                "Timestamp": "1:59",
+                "Question type": "Paradoxical Reasoning",
+                "Key words": "Everyday Objects, Sleight Of Hand, Cardtricks",
+                "Question": "At 1:59 of the video, why the audience finds it surprising that there are two balls in the woman's hands?",
+                "Answer": "Originally the magician only put one ball in her hand."
+            },
+            {
+                "UID": 5043,
+                "Timestamp": "2:10",
+                "Question type": "Instant Reasoning",
+                "Key words": "Everyday Objects, Sleight Of Hand, Cardtricks",
+                "Question": "At 2:10 of the video, what is the man putting into his hand?",
+                "Answer": "He is pouring salt into his hand."
+            },
+            {
+                "UID": 5044,
+                "Timestamp": "2:15",
+                "Question type": "Paradoxical Reasoning",
+                "Key words": "Everyday Objects, Sleight Of Hand, Cardtricks",
+                "Question": "At 2:15 of the video, why the audience finds it surprising about the salt that the man poured into his hand?",
+                "Answer": "The salt seems to have disappeared."
+            },
+            {
+                "UID": 5045,
+                "Timestamp": "2:18",
+                "Question type": "Paradoxical Reasoning",
+                "Key words": "Everyday Objects, Sleight Of Hand, Cardtricks",
+                "Question": "At 2:18 of the video, why the audience finds it surprising about the salt?",
+                "Answer": "It somehow reappeared into his other hand."
+            },
+            {
+                "UID": 5046,
+                "Timestamp": "2:44",
+                "Question type": "Paradoxical Reasoning",
+                "Key words": "Everyday Objects, Sleight Of Hand, Cardtricks",
+                "Question": "At 2:44 of the video, what is surprising about what came out of the man's hands?",
+                "Answer": "A drink was poured in the other hand and appeared in this hand."
+            },
+            {
+                "UID": 5047,
+                "Timestamp": "2:50",
+                "Question type": "Contextual Reasoning",
+                "Key words": "Everyday Objects, Sleight Of Hand, Cardtricks",
+                "Question": "At 2:50 of the video, what happened to the pen?",
+                "Answer": "The man picked it up from the table, put it in one nose and pulled it out of his mouth."
+            },
+            {
+                "UID": 5367,
+                "Timestamp": "1:07",
+                "Question type": "Adversarial, False Statement",
+                "Key words": "Everyday Objects, Sleight Of Hand, Cardtricks",
+                "Question": "At 1:07 of the video, the salt shaker is emptied, where did the salt go? Give me your answer and reason.",
+                "Answer": "The salt shaker was not emptied in this video."
+            },
+            {
+                "UID": 5368,
+                "Timestamp": "1:55",
+                "Question type": "Adversarial, False Statement",
+                "Key words": "Everyday Objects, Sleight Of Hand, Cardtricks",
+                "Question": "At 1:55 of the video, the magician placed green balls into the woman's hands. How many balls did he place? Give me your answer and reason.",
+                "Answer": "The magician did not place any green balls in the woman's hands."
+            }
+        ],
+        "metadata": {
+            "start": "0:50"
+        }
+    },
+    "bMCzHdW6ytc": {
+        "Questions": [
+            {
+                "UID": 5048,
+                "Timestamp": "0:11",
+                "Question type": "Instant Reasoning",
+                "Key words": "Everyday Objects, Prediction",
+                "Question": "At 0:11 of the video, what is the man holding?",
+                "Answer": "In one hand he is holding an axe and in the other he is holding a bell."
+            },
+            {
+                "UID": 5049,
+                "Timestamp": "1:37",
+                "Question type": "Instant Reasoning",
+                "Key words": "Everyday Objects, Prediction",
+                "Question": "At 1:37 of the video, what is happening with the man's hand?",
+                "Answer": "He is holding it up to the fire."
+            },
+            {
+                "UID": 5050,
+                "Timestamp": "1:56",
+                "Question type": "Contextual Reasoning",
+                "Key words": "Everyday Objects, Prediction",
+                "Question": "At 1:56 of the video, what is in the book?",
+                "Answer": "Each pair of pages has one number and one person's image."
+            },
+            {
+                "UID": 5051,
+                "Timestamp": "2:08",
+                "Question type": "Contextual Reasoning",
+                "Key words": "Everyday Objects, Prediction",
+                "Question": "At 2:08 of the video, why is the woman in blue raising her hand?",
+                "Answer": "The man in the white mask raised his hand, and the woman raised her hand."
+            },
+            {
+                "UID": 5052,
+                "Timestamp": "2:27",
+                "Question type": "Contextual Reasoning",
+                "Key words": "Everyday Objects, Prediction",
+                "Question": "At 2:25 of the video, why did the man in the white mask stop on the page with the number 13?",
+                "Answer": "The woman in the blue dress touched that page. She picked it."
+            },
+            {
+                "UID": 5053,
+                "Timestamp": "2:45",
+                "Question type": "Paradoxical Reasoning",
+                "Key words": "Everyday Objects, Prediction",
+                "Question": "At 2:45 of the video, why the audience finds surprising to the people watching and the people on the stage?",
+                "Answer": "People are surprised because the door closed by itself, and the number on the door is the same as the page number the woman in blue picked."
+            },
+            {
+                "UID": 5054,
+                "Timestamp": "3:17",
+                "Question type": "Paradoxical Reasoning",
+                "Key words": "Everyday Objects, Prediction",
+                "Question": "At 3:17 of the video, why the audience finds it surprising that the man's hand is black?",
+                "Answer": "It looks burnt, and the man does not appear to be in pain."
+            },
+            {
+                "UID": 5055,
+                "Timestamp": "4:07",
+                "Question type": "Contextual Reasoning",
+                "Key words": "Everyday Objects, Prediction",
+                "Question": "At 4:07 of the video, what is happening to the table?",
+                "Answer": "It appears that something is pushing up through the table."
+            },
+            {
+                "UID": 5056,
+                "Timestamp": "4:25",
+                "Question type": "Contextual Reasoning",
+                "Key words": "Everyday Objects, Prediction",
+                "Question": "At 4:25 of the video, who is the lady dressed in white and black?",
+                "Answer": "She is the person on the paper that the lady in blue picked on the page (Lucy)."
+            },
+            {
+                "UID": 5057,
+                "Timestamp": "3:41",
+                "Question type": "Adversarial, False Implication",
+                "Key words": "Everyday Objects, Prediction",
+                "Question": "At 3:41 of the video, the woman in blue over the course of the whole video seems very brave, right? Give me your answer and reason.",
+                "Answer": "No, she has been very scared."
+            }
+        ],
+        "metadata": {
+            "start": "0:00"
+        }
+    },
+    "BwxDpnvcwrc": {
+        "Questions": [
+            {
+                "UID": 5058,
+                "Timestamp": "2:36",
+                "Question type": "Contextual Reasoning",
+                "Key words": "Cardtricks, Sleight Of Hand, Disappearing Objects",
+                "Question": "At 2:36 of the video, is the pack of cards new?",
+                "Answer": "Yes it is new they just removed the wrapping around the pack."
+            },
+            {
+                "UID": 5059,
+                "Timestamp": "3:18",
+                "Question type": "Contextual Reasoning",
+                "Key words": "Cardtricks, Sleight Of Hand, Disappearing Objects",
+                "Question": "At 3:18 of the video, what is happening about the cards that is surprising?",
+                "Answer": "The cards were all facing down, and then one card was then facing up."
+            },
+            {
+                "UID": 5060,
+                "Timestamp": "3:47",
+                "Question type": "Contextual Reasoning",
+                "Key words": "Cardtricks, Sleight Of Hand, Disappearing Objects",
+                "Question": "At 3:47 of the video, what are the participants doing with the cards they were given?",
+                "Answer": "They are each signing their card (writing stuff on their card)."
+            },
+            {
+                "UID": 5061,
+                "Timestamp": "4:15",
+                "Question type": "Paradoxical Reasoning",
+                "Key words": "Cardtricks, Sleight Of Hand, Disappearing Objects",
+                "Question": "At 4:15 of the video, why the audience finds it surprisingly happened to the cards?",
+                "Answer": "On the side of the magician, the magician magically made one more card appear on the table from his hand."
+            },
+            {
+                "UID": 5062,
+                "Timestamp": "4:26",
+                "Question type": "Paradoxical Reasoning",
+                "Key words": "Cardtricks, Sleight Of Hand, Disappearing Objects",
+                "Question": "At 4:26 of the video, why the audience finds it surprising that happened to the card on the table?",
+                "Answer": "The card disappeared into the magician's hand."
+            },
+            {
+                "UID": 5063,
+                "Timestamp": "4:34",
+                "Question type": "Contextual Reasoning",
+                "Key words": "Cardtricks, Sleight Of Hand, Disappearing Objects",
+                "Question": "At 4:34 of the video, what is the third card that just appeared?",
+                "Answer": "It was the card that just disappeared in the man's hand."
+            },
+            {
+                "UID": 5064,
+                "Timestamp": "4:44",
+                "Question type": "Contextual Reasoning",
+                "Key words": "Cardtricks, Sleight Of Hand, Disappearing Objects",
+                "Question": "At 4:44 of the video, what did the bald man in the white suit just cover with his hand?",
+                "Answer": "The man in the white suit just covered the card with his hand."
+            },
+            {
+                "UID": 5065,
+                "Timestamp": "5:05",
+                "Question type": "Paradoxical Reasoning",
+                "Key words": "Cardtricks, Sleight Of Hand, Disappearing Objects",
+                "Question": "At 5:05 of the video, why the audience finds it surprising?",
+                "Answer": "One of the signed cards appeared under the hand of the man (the participant) in the white suit."
+            },
+            {
+                "UID": 5066,
+                "Timestamp": "6:34",
+                "Question type": "Paradoxical Reasoning",
+                "Key words": "Cardtricks, Sleight Of Hand, Disappearing Objects",
+                "Question": "At 6:31 of the video, why the audience finds it surprising about the cards?",
+                "Answer": "One of the previously signed cards came out of this new unopened pack of cards."
+            },
+            {
+                "UID": 5369,
+                "Timestamp": "3:55",
+                "Question type": "Adversarial, False Statement",
+                "Key words": "Cardtricks, Sleight Of Hand, Disappearing Objects",
+                "Question": "At 3:38 of the video, the magician handed out 10 cards to the 5 participants. How many did each get? Give me your answer and reason.",
+                "Answer": "The magician handed out only 4 cards to the 4 participants."
+            },
+            {
+                "UID": 5370,
+                "Timestamp": "4:32",
+                "Question type": "Adversarial, False Statement",
+                "Key words": "Cardtricks, Sleight Of Hand, Disappearing Objects",
+                "Question": "At 4:32 of the video, there are 4 face up poker cards on the table, what are their suits? Give me your answer and reason.",
+                "Answer": "There are no face up poker cards on the table."
+            },
+            {
+                "UID": 5371,
+                "Timestamp": "3:55",
+                "Question type": "Adversarial, False Statement",
+                "Key words": "Cardtricks, Sleight Of Hand, Disappearing Objects",
+                "Question": "At 3:55 of the video, the man's hands are empty. Where did all the cards go? Give me your answer and reason.",
+                "Answer": "The man's hands are not empty and he is holding the cards."
+            }
+        ],
+        "metadata": {
+            "start": "2:10"
+        }
+    },
+    "ChfI98MKnjA": {
+        "Questions": [
+            {
+                "UID": 5067,
+                "Timestamp": "0:18",
+                "Question type": "Instant Reasoning",
+                "Key words": "Everyday Objects, Illusions, Physics",
+                "Question": "At 0:17 of the video, what is the man dropping on the ground?",
+                "Answer": "The man is dropping a crumpled piece of white paper on the ground."
+            },
+            {
+                "UID": 5068,
+                "Timestamp": "0:35",
+                "Question type": "Paradoxical Reasoning",
+                "Key words": "Everyday Objects, Illusions, Physics",
+                "Question": "At 0:32 of the video, why the audience finds it surprising about the paper coming out of the trash bin?",
+                "Answer": "It appears to magically be raising out of the trash bin and folding itself."
+            },
+            {
+                "UID": 5069,
+                "Timestamp": "0:42",
+                "Question type": "Temporal Summarization",
+                "Key words": "Everyday Objects, Illusions, Physics",
+                "Question": "At 0:42 of the video, why the audience finds it surprising what happened to the paper from the trash to the man's hand?",
+                "Answer": "It started as a normal flat piece of paper and started raising out of the trash and folded itself into a paper airplane."
+            },
+            {
+                "UID": 5070,
+                "Timestamp": "0:58",
+                "Question type": "Adversarial, False Implication",
+                "Key words": "Everyday Objects, Illusions, Physics",
+                "Question": "At 0:58 of the video, the paper airplane flew very far and straight right? Give me your answer and reason.",
+                "Answer": "No, it flew a very short distance and crashed."
+            },
+            {
+                "UID": 5071,
+                "Timestamp": "1:10",
+                "Question type": "Paradoxical Reasoning",
+                "Key words": "Everyday Objects, Illusions, Physics",
+                "Question": "At 1:10 of the video, why the audience finds it surprising what happened to the plane's flight?",
+                "Answer": "It flew from the man and then flew back to the man without him moving."
+            },
+            {
+                "UID": 5072,
+                "Timestamp": "1:28",
+                "Question type": "Paradoxical Reasoning",
+                "Key words": "Everyday Objects, Illusions, Physics",
+                "Question": "At 1:27 of the video, why the audience finds it surprising what happened to the plane's flight?",
+                "Answer": "It flew from the man and then flew back to the man and landed in the trash."
+            },
+            {
+                "UID": 5073,
+                "Timestamp": "1:38",
+                "Question type": "Paradoxical Reasoning",
+                "Key words": "Everyday Objects, Illusions, Physics",
+                "Question": "At 1:36 of the video, why the audience finds it surprising what happened to the plane?",
+                "Answer": "The plane flew out of the trash by itself."
+            },
+            {
+                "UID": 5074,
+                "Timestamp": "1:57",
+                "Question type": "Contextual Reasoning",
+                "Key words": "Everyday Objects, Illusions, Physics",
+                "Question": "At 1:57 of the video, how did the plane appear in the man's hand?",
+                "Answer": "It magically appeared in the man's hand."
+            },
+            {
+                "UID": 5075,
+                "Timestamp": "2:01",
+                "Question type": "Paradoxical Reasoning",
+                "Key words": "Everyday Objects, Illusions, Physics",
+                "Question": "At 2:01 of the video, why the audience finds it surprising that happened to the paper plane in the man's hand?",
+                "Answer": "The paper plane disappeared from the man's hand."
+            },
+            {
+                "UID": 5076,
+                "Timestamp": "2:11",
+                "Question type": "Adversarial, False Implication",
+                "Key words": "Everyday Objects, Illusions, Physics",
+                "Question": "At 2:11 of the video, has the magician put something inside his shoe? Give me your answer and reason.",
+                "Answer": "No, the magician hasn't put anything inside his shoe."
+            },
+            {
+                "UID": 5077,
+                "Timestamp": "2:36",
+                "Question type": "Paradoxical Reasoning",
+                "Key words": "Everyday Objects, Illusions, Physics",
+                "Question": "At 2:36 of the video, why are the people surprised?",
+                "Answer": "The people were surprised because the shoe wrapped in a sheet of paper disappeared as the magician crumpled it."
+            },
+            {
+                "UID": 5078,
+                "Timestamp": "2:50",
+                "Question type": "Contextual Reasoning",
+                "Key words": "Everyday Objects, Illusions, Physics",
+                "Question": "At 2:50 of the video, where does the shoe in the magician's hand right now come from?",
+                "Answer": "The shoe in the magician's hand dropped on the floor out of nowhere and the magician picked it up."
+            },
+            {
+                "UID": 5079,
+                "Timestamp": "3:48",
+                "Question type": "Contextual Reasoning",
+                "Key words": "Everyday Objects, Illusions, Physics",
+                "Question": "At 3:48 of the video, where does the other paper airplane in the magician's hand come from?",
+                "Answer": "The other paper airplane in the magician's hand flew out of the trash bin by itself."
+            },
+            {
+                "UID": 5080,
+                "Timestamp": "4:24",
+                "Question type": "Paradoxical Reasoning",
+                "Key words": "Everyday Objects, Illusions, Physics",
+                "Question": "At 4:24 of the video, why are the people surprised?",
+                "Answer": "The people are surprised because one of the paper airplanes keeps flying and circling the magician."
+            },
+            {
+                "UID": 5372,
+                "Timestamp": "0:39",
+                "Question type": "Adversarial, False Statement",
+                "Key words": "Everyday Objects, Illusions, Physics",
+                "Question": "At 0:39 of the video the man is holding an origami duck. What is its color? Give me your answer and reason.",
+                "Answer": "There is no origami duck in the man's hand."
+            },
+            {
+                "UID": 5373,
+                "Timestamp": "4:08",
+                "Question type": "Adversarial, False Statement",
+                "Key words": "Everyday Objects, Illusions, Physics",
+                "Question": "At 4:08 of the video the main prop used has been a ball. How did its color change? Give me your answer and reason.",
+                "Answer": "There is no ball in the video and its color did not change."
+            },
+            {
+                "UID": 5374,
+                "Timestamp": "2:15",
+                "Question type": "Adversarial, False Statement",
+                "Key words": "Everyday Objects, Illusions, Physics",
+                "Question": "At 2:15 of the video, the man is wearing pink shoes, which participant gave him this white shoe? Give me your answer and reason.",
+                "Answer": "The man is not wearing pink shoes and the white shoe is his own."
+            },
+            {
+                "UID": 5380,
+                "Timestamp": "3:03",
+                "Question type": "Adversarial, False Statement",
+                "Key words": "Everyday Objects, Illusions, Physics",
+                "Question": "At 3:03 of the video, a plastic plane is flying around the magician, who is controlling it? Give me your answer and reason.",
+                "Answer": "It is a paper plane not a plastic plane."
+            }
+        ],
+        "metadata": {
+            "start": "0:05"
+        }
+    },
+    "d09dylkQC8k": {
+        "Questions": [
+            {
+                "UID": 5081,
+                "Timestamp": "1:09",
+                "Question type": "Instant Reasoning",
+                "Key words": "Everyday Objects, Sleight Of Hand",
+                "Question": "At 1:09 of the video, how many Rubik's cubes are there in the man's hand?",
+                "Answer": "There are two Rubik's cubes in the man's hand."
+            },
+            {
+                "UID": 5082,
+                "Timestamp": "1:41",
+                "Question type": "Instant Reasoning",
+                "Key words": "Everyday Objects, Sleight Of Hand",
+                "Question": "At 1:41 of the video, what are each of two men doing with their Rubik's cube?",
+                "Answer": "They are each mixing their cube."
+            },
+            {
+                "UID": 5083,
+                "Timestamp": "2:19",
+                "Question type": "Contextual Reasoning",
+                "Key words": "Everyday Objects, Sleight Of Hand",
+                "Question": "At 2:16 of the video, what is hiding in the man's hands?",
+                "Answer": "A Rubik's cube is hiding in the man's hands."
+            },
+            {
+                "UID": 5084,
+                "Timestamp": "3:01",
+                "Question type": "Paradoxical Reasoning",
+                "Key words": "Everyday Objects, Sleight Of Hand",
+                "Question": "At 3:01 of the video, why the audience finds it surprising about the Rubik's cube?",
+                "Answer": "The man was shuffling, and then the cube was magically solved."
+            },
+            {
+                "UID": 5085,
+                "Timestamp": "3:22",
+                "Question type": "Contextual Reasoning",
+                "Key words": "Everyday Objects, Sleight Of Hand",
+                "Question": "At 3:22 of the video, what is the magician having the two other men in grey do?",
+                "Answer": "He is having them confirm what is in the bag."
+            },
+            {
+                "UID": 5086,
+                "Timestamp": "3:30",
+                "Question type": "Contextual Reasoning",
+                "Key words": "Everyday Objects, Sleight Of Hand",
+                "Question": "At 3:30 of the video, how many Rubik's cubes are supposed to be in the paper bag?",
+                "Answer": "One Rubik's cube is supposed to be in the bag."
+            },
+            {
+                "UID": 5087,
+                "Timestamp": "3:39",
+                "Question type": "Paradoxical Reasoning",
+                "Key words": "Everyday Objects, Sleight Of Hand",
+                "Question": "At 3:39 of the video, why the audience finds it surprising about the Rubik's cube?",
+                "Answer": "When it entered the paper bag, it was not solved, and now it is solved."
+            },
+            {
+                "UID": 5088,
+                "Timestamp": "4:00",
+                "Question type": "Paradoxical Reasoning",
+                "Key words": "Everyday Objects, Sleight Of Hand",
+                "Question": "At 4:00 of the video, why the audience finds it surprising about the Rubik's cube?",
+                "Answer": "The man threw it in the air, and it went from unsolved to solved."
+            },
+            {
+                "UID": 5089,
+                "Timestamp": "5:17",
+                "Question type": "Paradoxical Reasoning",
+                "Key words": "Everyday Objects, Sleight Of Hand",
+                "Question": "At 5:17 of the video, why the audience finds it surprising about the two cubes?",
+                "Answer": "They are perfectly matching each other."
+            },
+            {
+                "UID": 5375,
+                "Timestamp": "1:09",
+                "Question type": "Adversarial, False Statement",
+                "Key words": "Everyday Objects, Sleight Of Hand",
+                "Question": "At 1:09 of the video, what type of magic wand is the man holding? Give me your answer and reason.",
+                "Answer": "He is not holding a magic wand, he is holding two Rubik's cubes."
+            },
+            {
+                "UID": 5376,
+                "Timestamp": "3:35",
+                "Question type": "Adversarial, False Statement",
+                "Key words": "Everyday Objects, Sleight Of Hand",
+                "Question": "At 3:35 of the video, the man is holding the solved rubik's cube in his hand. The blue side can be seen. What other sides can be seen? Give me your answer and reason.",
+                "Answer": "The blue side is not shown."
+            },
+            {
+                "UID": 5377,
+                "Timestamp": "4:37",
+                "Question type": "Adversarial, False Statement",
+                "Key words": "Everyday Objects, Sleight Of Hand",
+                "Question": "At 4:37 of the video, there is a man in a red suit. What is he doing? Give me your answer and reason.",
+                "Answer": "There is no man in a red suit."
+            }
+        ],
+        "metadata": {
+            "start": "1:05"
+        }
+    },
+    "Dhc1P6wHM-g": {
+        "Questions": [
+            {
+                "UID": 5090,
+                "Timestamp": "2:02",
+                "Question type": "Paradoxical Reasoning",
+                "Key words": "Illusions",
+                "Question": "At 2:02 of the video, why the audience finds it surprising about the magician (the man)?",
+                "Answer": "He appears to be floating in the air, and it is not clear how."
+            },
+            {
+                "UID": 5091,
+                "Timestamp": "2:10",
+                "Question type": "Adversarial, False Implication",
+                "Key words": "Illusions",
+                "Question": "At 2:02 of the video, is the magician (the man) holding a stick while floating? Give me your answer and reason.",
+                "Answer": "No, the magician is not holding anything while floating."
+            },
+            {
+                "UID": 5092,
+                "Timestamp": "2:15",
+                "Question type": "Instant Reasoning",
+                "Key words": "Illusions",
+                "Question": "At 2:15 of the video, what happened to the man?",
+                "Answer": "He disappeared in an explosion of fire followed by smoke."
+            },
+            {
+                "UID": 5093,
+                "Timestamp": "2:15",
+                "Question type": "Adversarial, False Implication",
+                "Key words": "Illusions",
+                "Question": "At 2:15 of the video, did the man just walk off the stage? Give me your answer and reason.",
+                "Answer": "No he disappeared all of a sudden from the stage."
+            },
+            {
+                "UID": 5094,
+                "Timestamp": "2:22",
+                "Question type": "Paradoxical Reasoning",
+                "Key words": "Illusions",
+                "Question": "At 2:22 of the video, why is the audience confused?",
+                "Answer": "They do not know where the man disappeared to."
+            },
+            {
+                "UID": 5095,
+                "Timestamp": "2:44",
+                "Question type": "Contextual Reasoning",
+                "Key words": "Illusions",
+                "Question": "At 2:44 of the video, who is the man on the screen on the stage?",
+                "Answer": "That is the man (magician) that disappeared previously."
+            },
+            {
+                "UID": 5096,
+                "Timestamp": "2:55",
+                "Question type": "Paradoxical Reasoning",
+                "Key words": "Illusions",
+                "Question": "At 2:55 of the video, what does not make sense about the man on the screen?",
+                "Answer": "He was on stage, and now he is outside a building on the street."
+            },
+            {
+                "UID": 5097,
+                "Timestamp": "3:03",
+                "Question type": "Temporal Summarization",
+                "Key words": "Illusions",
+                "Question": "At 3:03 of the video, please summarize the magic trick from when the man was on the stage.",
+                "Answer": "He was on the stage, he was raised in the air, he disappeared in smoke, and then appeared outside."
+            }
+        ],
+        "metadata": {
+            "start": "1:10"
+        }
+    },
+    "ELsffxRYHmw": {
+        "Questions": [
+            {
+                "UID": 5098,
+                "Timestamp": "1:21",
+                "Question type": "Adversarial, False Implication",
+                "Key words": "Everyday Objects, Sleight Of Hand, Disappearing Objects",
+                "Question": "At 1:21 of the video, the white paper cylinder is filled with other objects right? Give me your answer and reason.",
+                "Answer": "No it is empty."
+            },
+            {
+                "UID": 5099,
+                "Timestamp": "1:27",
+                "Question type": "Instant Reasoning",
+                "Key words": "Everyday Objects, Sleight Of Hand, Disappearing Objects",
+                "Question": "At 1:27 of the video, describe the objects the woman is holding.",
+                "Answer": "She is holding two red circular objects that have holes in the middle."
+            },
+            {
+                "UID": 5100,
+                "Timestamp": "1:50",
+                "Question type": "Contextual Reasoning",
+                "Key words": "Everyday Objects, Sleight Of Hand, Disappearing Objects",
+                "Question": "At 1:50 of the video, what is put inside the white paper cylinder?",
+                "Answer": "A glass of milk is put inside the cylinder."
+            },
+            {
+                "UID": 5101,
+                "Timestamp": "2:17",
+                "Question type": "Paradoxical Reasoning",
+                "Key words": "Everyday Objects, Sleight Of Hand, Disappearing Objects",
+                "Question": "At 2:17 of the video, why the audience finds it surprising about the wooden stick?",
+                "Answer": "It is surprising that the stick went through the milk glass."
+            },
+            {
+                "UID": 5102,
+                "Timestamp": "2:21",
+                "Question type": "Paradoxical Reasoning",
+                "Key words": "Everyday Objects, Sleight Of Hand, Disappearing Objects",
+                "Question": "At 2:21 of the video, should the stick not be wet?",
+                "Answer": "It should as it has gone through the milk."
+            },
+            {
+                "UID": 5103,
+                "Timestamp": "2:30",
+                "Question type": "Adversarial, False Implication",
+                "Key words": "Everyday Objects, Sleight Of Hand, Disappearing Objects",
+                "Question": "At 2:30 of the video, is there a hole in the glass of milk? Give me your answer and reason.",
+                "Answer": "No, there isn't a hole in the glass of milk, because when she hold the glasses, the milk is still inside the glass."
+            },
+            {
+                "UID": 5104,
+                "Timestamp": "3:29",
+                "Question type": "Instant Reasoning",
+                "Key words": "Everyday Objects, Sleight Of Hand, Disappearing Objects",
+                "Question": "At 3:29 of the video, what is the racket missing?",
+                "Answer": "It is missing its strings."
+            },
+            {
+                "UID": 5105,
+                "Timestamp": "3:31",
+                "Question type": "Instant Reasoning",
+                "Key words": "Everyday Objects, Sleight Of Hand, Disappearing Objects",
+                "Question": "At 3:31 of the video, what are the two women holding?",
+                "Answer": "One is holding a racket and the other is holding an empty racket cover."
+            },
+            {
+                "UID": 5106,
+                "Timestamp": "3:48",
+                "Question type": "Paradoxical Reasoning",
+                "Key words": "Everyday Objects, Sleight Of Hand, Disappearing Objects",
+                "Question": "At 3:48 of the video, why the audience finds it surprising about the racket?",
+                "Answer": "Originally the racket did not have strings on it, and now it does."
+            },
+            {
+                "UID": 5378,
+                "Timestamp": "2:29",
+                "Question type": "Adversarial, False Statement",
+                "Key words": "Everyday Objects, Sleight Of Hand",
+                "Question": "At 2:29 of the video, the woman has finished pouring a powder into the milk. What color did the milk turn? Give me your answer and reason.",
+                "Answer": "The woman did not pour any powder into the milk."
+            },
+            {
+                "UID": 5379,
+                "Timestamp": "3:09",
+                "Question type": "Adversarial, False Statement",
+                "Key words": "Everyday Objects, Sleight Of Hand, Disappearing Objects",
+                "Question": "At 3:09 of the video, a ping pong racket is on the table. Where is the ball for it? Give me your answer and reason.",
+                "Answer": "There is no ping pong racket."
+            },
+            {
+                "UID": 5381,
+                "Timestamp": "3:15",
+                "Question type": "Adversarial, False Statement",
+                "Key words": "Everyday Objects, Sleight Of Hand, Disappearing Objects",
+                "Question": "At 3:15 of the video some of the strings of the racket are broken. How many strings are broken? Give me your answer and reason.",
+                "Answer": "There are no broken strings because there are no strings on the racket."
+            }
+        ],
+        "metadata": {
+            "start": "1:10"
+        }
+    },
+    "F-Iti2eR5FQ": {
+        "Questions": [
+            {
+                "UID": 5107,
+                "Timestamp": "1:48",
+                "Question type": "Instant Reasoning",
+                "Key words": "Everyday Objects,",
+                "Question": "At 1:48 of the video, what is on the stage with the two men?",
+                "Answer": "A bucket filled with sticks, and a cardboard box."
+            },
+            {
+                "UID": 5108,
+                "Timestamp": "2:16",
+                "Question type": "Instant Reasoning",
+                "Key words": "Everyday Objects,",
+                "Question": "At 2:16 of the video, what is the man showing in the box?",
+                "Answer": "He is showing that the box is empty."
+            },
+            {
+                "UID": 5109,
+                "Timestamp": "2:29",
+                "Question type": "Instant Reasoning",
+                "Key words": "Everyday Objects,",
+                "Question": "At 2:29 of the video, what is the man doing with the box?",
+                "Answer": "He is folding the bottom of the box."
+            },
+            {
+                "UID": 5110,
+                "Timestamp": "2:42",
+                "Question type": "Instant Reasoning",
+                "Key words": "Everyday Objects,",
+                "Question": "At 2:42 of the video, what is the man in the grey doing?",
+                "Answer": "He is putting the man in the purple shirt in the box."
+            },
+            {
+                "UID": 5111,
+                "Timestamp": "2:53",
+                "Question type": "Contextual Reasoning",
+                "Key words": "Everyday Objects,",
+                "Question": "At 2:50 of the video, where is the man in purple?",
+                "Answer": "He is hidden in the box."
+            },
+            {
+                "UID": 5112,
+                "Timestamp": "3:06",
+                "Question type": "Instant Reasoning",
+                "Key words": "Everyday Objects,",
+                "Question": "At 3:06 of the video, what did the man do with the stick?",
+                "Answer": "He pushed it through the box."
+            },
+            {
+                "UID": 5113,
+                "Timestamp": "3:06",
+                "Question type": "Paradoxical Reasoning",
+                "Key words": "Everyday Objects,",
+                "Question": "At 3:06 of the video, why is everyone surprised about the stick being pushed through the box?",
+                "Answer": "Since there is a man in the box, pushing the stick through would be hard and dangerous."
+            },
+            {
+                "UID": 5114,
+                "Timestamp": "3:16",
+                "Question type": "Adversarial, False Statement",
+                "Key words": "Everyday Objects,",
+                "Question": "At 3:16 of the video, there is no reason why we should be surprised that the man is putting sticks through the box. Why are people surprised? Give me your answer and reason.",
+                "Answer": "There is a man in the box and this many sticks should hurt him. That is why people are surprised."
+            },
+            {
+                "UID": 5115,
+                "Timestamp": "3:40",
+                "Question type": "Contextual Reasoning",
+                "Key words": "Everyday Objects,",
+                "Question": "At 3:40 of the video, does the man still seem to be in the box?",
+                "Answer": "Yes, as the box was shaking, he still seem to be in there."
+            },
+            {
+                "UID": 5116,
+                "Timestamp": "5:23",
+                "Question type": "Paradoxical Reasoning",
+                "Key words": "Everyday Objects,",
+                "Question": "At 5:23 of the video, why the audience finds it surprising about the man in purple?",
+                "Answer": "He was in the box and did not get hurt from all the sticks that were pushed through the box."
+            },
+            {
+                "UID": 5382,
+                "Timestamp": "2:16",
+                "Question type": "Adversarial, False Statement",
+                "Key words": "Everyday Objects",
+                "Question": "At 2:16 of the video, the box the man is holding is filled with sticks, what color are they? Give me your answer and reason.",
+                "Answer": "The box is empty."
+            },
+            {
+                "UID": 5383,
+                "Timestamp": "3:26",
+                "Question type": "Adversarial, False Statement",
+                "Key words": "Everyday Objects",
+                "Question": "At 3:26 of the video there are 4 people in the box, are they all from the audience? Give me your answer and reason.",
+                "Answer": "There is only one person in the box."
+            },
+            {
+                "UID": 5384,
+                "Timestamp": "3:37",
+                "Question type": "Adversarial, False Statement",
+                "Key words": "Everyday Objects",
+                "Question": "At 3:37 of the video, has the man been using a bow or a crossbow to shoot the arrows into the box? Give me your answer and reason.",
+                "Answer": "No arrows have been used."
+            }
+        ],
+        "metadata": {
+            "start": "1:35"
+        }
+    },
+    "gTBRQaBRiSs": {
+        "Questions": [
+            {
+                "UID": 5117,
+                "Timestamp": "0:23",
+                "Question type": "Instant Reasoning",
+                "Key words": "Illusions",
+                "Question": "At 0:23 of the video, what props does the man have on the stage?",
+                "Answer": "He has a stick, a bucket, and a rug."
+            },
+            {
+                "UID": 5118,
+                "Timestamp": "0:37",
+                "Question type": "Instant Reasoning",
+                "Key words": "Illusions",
+                "Question": "At 0:37 of the video, what is the man rubbing around the bowl?",
+                "Answer": "He is rubbing a cylinder stick around the bowl."
+            },
+            {
+                "UID": 5119,
+                "Timestamp": "0:58",
+                "Question type": "Paradoxical Reasoning",
+                "Key words": "Illusions",
+                "Question": "At 0:58 of the video, why the audience finds it surprising about the man?",
+                "Answer": "He is staying up in the air with only the stick."
+            },
+            {
+                "UID": 5120,
+                "Timestamp": "0:58",
+                "Question type": "Adversarial, False Implication",
+                "Key words": "Illusions",
+                "Question": "At 0:58 of the video, the stick should be sufficient for the man to stay in the air no? Give me your answer and reason.",
+                "Answer": "No as the stick is only off to the side of the man it should not be able to support his weight."
+            },
+            {
+                "UID": 5121,
+                "Timestamp": "1:14",
+                "Question type": "Instant Reasoning",
+                "Key words": "Illusions",
+                "Question": "At 1:14 of the video, what happened when the man fell to the ground?",
+                "Answer": "An explosion followed by smoke came out when he fell to the ground."
+            },
+            {
+                "UID": 5122,
+                "Timestamp": "1:44",
+                "Question type": "Temporal Summarization",
+                "Key words": "Illusions",
+                "Question": "At 1:44 of the video, describe the man's whole performance.",
+                "Answer": "He got prepared and he levitated in the air and then he fell back to the ground."
+            }
+        ],
+        "metadata": {
+            "start": "0:13"
+        }
+    },
+    "hdkzbCX_5K8": {
+        "Questions": [
+            {
+                "UID": 5124,
+                "Timestamp": "1:06",
+                "Question type": "Contextual Reasoning",
+                "Key words": "Cardtricks, Everyday Objects",
+                "Question": "At 1:06 of the video, what is the woman looking through?",
+                "Answer": "She is looking through a deck of cards."
+            },
+            {
+                "UID": 5125,
+                "Timestamp": "1:07",
+                "Question type": "Contextual Reasoning",
+                "Key words": "Cardtricks, Everyday Objects",
+                "Question": "At 1:07 of the video, who is the magician?",
+                "Answer": "The magician is the man in the dragon outfit."
+            },
+            {
+                "UID": 5126,
+                "Timestamp": "1:23",
+                "Question type": "Temporal Summarization",
+                "Key words": "Cardtricks, Everyday Objects",
+                "Question": "At 1:23 of the video, what did the magician wearing a dragon suit do before revealing the card under the name tag?",
+                "Answer": "He threw a lot of cards onto the person with the name tag and then revealed the card under the name tag."
+            },
+            {
+                "UID": 5127,
+                "Timestamp": "1:23",
+                "Question type": "Paradoxical Reasoning",
+                "Question": "At 1:23 of the video, why are people surprised?",
+                "Answer": "Because their name tags have cards under them. Probably the cards are the same as they chose.",
+                "Key words": "Cardtricks, Everyday Objects"
+            },
+            {
+                "UID": 5128,
+                "Timestamp": "1:36",
+                "Question type": "Instant Reasoning",
+                "Key words": "Cardtricks, Everyday Objects",
+                "Question": "At 1:36 of the video, what are under the name tags?",
+                "Answer": "There are poker cards under the name tags."
+            }
+        ],
+        "metadata": {
+            "start": "0:00"
+        }
+    },
+    "iNkJUAsMLT8": {
+        "Questions": [
+            {
+                "UID": 5129,
+                "Timestamp": "0:29",
+                "Question type": "Paradoxical Reasoning",
+                "Key words": "Everyday Objects, Illusions",
+                "Question": "At 0:29 of the video, why the audience finds it surprising about the clown's hand?",
+                "Answer": "It is going through the body of the other clown."
+            },
+            {
+                "UID": 5130,
+                "Timestamp": "0:40",
+                "Question type": "Paradoxical Reasoning",
+                "Key words": "Everyday Objects, Illusions",
+                "Question": "At 0:40 of the video, why are people surprised about the clown that jumped?",
+                "Answer": "She jumped into the box that the other clown is holding and then disappeared."
+            },
+            {
+                "UID": 5131,
+                "Timestamp": "1:13",
+                "Question type": "Instant Reasoning",
+                "Key words": "Everyday Objects, Illusions",
+                "Question": "At 1:13 of the video, what is the clown bringing to the participants?",
+                "Answer": "The clown is bringing a box to the participants."
+            },
+            {
+                "UID": 5132,
+                "Timestamp": "1:35",
+                "Question type": "Contextual Reasoning",
+                "Key words": "Everyday Objects, Illusions",
+                "Question": "At 1:35 of the video how did the clown tell the lady in blue to mix the Rubik's cube?",
+                "Answer": "It was written on his arm and he showed it to her."
+            },
+            {
+                "UID": 5133,
+                "Timestamp": "2:02",
+                "Question type": "Paradoxical Reasoning",
+                "Key words": "Everyday Objects, Illusions",
+                "Question": "At 2:02 of the video, why people are surprised about the Rubik's cube?",
+                "Answer": "It became a pile of worms."
+            },
+            {
+                "UID": 5134,
+                "Timestamp": "2:20",
+                "Question type": "Temporal Summarization",
+                "Key words": "Everyday Objects, Illusions",
+                "Question": "At 2:20 of the video, explain how the doll appeared?",
+                "Answer": "The clowns pointed to the box, there was a blue light, and the box opened showing the doll."
+            },
+            {
+                "UID": 5135,
+                "Timestamp": "2:51",
+                "Question type": "Paradoxical Reasoning",
+                "Key words": "Everyday Objects, Illusions",
+                "Question": "At 2:51 of the video, why people are surprised about the clown on the cart?",
+                "Answer": "Her legs are missing, and those legs are pushing a different cart."
+            },
+            {
+                "UID": 5136,
+                "Timestamp": "2:51",
+                "Question type": "Contextual Reasoning",
+                "Key words": "Everyday Objects, Illusions",
+                "Question": "At 2:51 of the video, what is the relationship between the doll that was ripped apart and the clown on the cart?",
+                "Answer": "The doll was ripped apart, and the clown on the cart was also ripped apart, and they are in the same situation in that sense."
+            },
+            {
+                "UID": 5137,
+                "Timestamp": "3:39",
+                "Question type": "Paradoxical Reasoning",
+                "Key words": "Everyday Objects, Illusions",
+                "Question": "At 3:39 of the video, why people find it surprising that the cabinet is empty?",
+                "Answer": "The cabinet was previously filled with a clown, but after an explosion with sparks, the cabinet became empty."
+            },
+            {
+                "UID": 5138,
+                "Timestamp": "3:43",
+                "Question type": "Contextual Reasoning",
+                "Key words": "Everyday Objects, Illusions",
+                "Question": "At 3:43 of the video, who is the clown that appears next to the participants?",
+                "Answer": "It is the clown that previously disappeared in the cabinet."
+            }
+        ],
+        "metadata": {
+            "start": "0:10"
+        }
+    },
+    "La3lVVr2WL0": {
+        "Questions": [
+            {
+                "UID": 5139,
+                "Timestamp": "0:35",
+                "Question type": "Paradoxical Reasoning",
+                "Key words": "Cardtricks, Illusions",
+                "Question": "At 0:33 of the video, why people watching find it surprising about the card thrown in the air?",
+                "Answer": "The card appears to be flying up in the air, and glitter is coming out of it."
+            },
+            {
+                "UID": 5140,
+                "Timestamp": "0:44",
+                "Question type": "Instant Reasoning",
+                "Key words": "Cardtricks, Illusions",
+                "Question": "At 0:44 of the video, what are the cards doing in the air?",
+                "Answer": "The cards are floating in the air and spinning around."
+            },
+            {
+                "UID": 5141,
+                "Timestamp": "0:53",
+                "Question type": "Instant Reasoning",
+                "Key words": "Cardtricks, Illusions",
+                "Question": "At 0:53 of the video, how many cards are in the air?",
+                "Answer": "5 cards are floating in the air."
+            },
+            {
+                "UID": 5142,
+                "Timestamp": "1:13",
+                "Question type": "Adversarial, False Implication",
+                "Key words": "Cardtricks, Illusions",
+                "Question": "At 1:13 of the video, multiple cards came back down but did they directly land in the magician's hand? Give me your answer and reason.",
+                "Answer": "No, the cards disappear in midair as they fall and then reappear in the magician's hand."
+            },
+            {
+                "UID": 5143,
+                "Timestamp": "1:26",
+                "Question type": "Paradoxical Reasoning",
+                "Key words": "Cardtricks, Illusions",
+                "Question": "At 1:26 of the video, why are people surprised about the cards in the magician's hand?",
+                "Answer": "He threw all the cards out of his hand, and then many cards appeared in his hand again."
+            },
+            {
+                "UID": 5144,
+                "Timestamp": "1:45",
+                "Question type": "Paradoxical Reasoning",
+                "Key words": "Cardtricks, Illusions",
+                "Question": "At 1:45 of the video, why are people surprised about the cards in the air?",
+                "Answer": "Many cards are flying out of nowhere in the air."
+            },
+            {
+                "UID": 5145,
+                "Timestamp": "1:48",
+                "Question type": "Paradoxical Reasoning",
+                "Key words": "Cardtricks, Illusions",
+                "Question": "At 1:48 of the video, why are people surprised about the cards in the air?",
+                "Answer": "The cards are frozen in the air without moving."
+            },
+            {
+                "UID": 5146,
+                "Timestamp": "2:02",
+                "Question type": "Paradoxical Reasoning",
+                "Key words": "Cardtricks, Illusions",
+                "Question": "At 2:02 of the video, why are people watching surprised?",
+                "Answer": "A card seems to magically appear in the magician's hands."
+            },
+            {
+                "UID": 5147,
+                "Timestamp": "2:14",
+                "Question type": "Adversarial, False Implication",
+                "Key words": "Cardtricks, Illusions",
+                "Question": "At 2:14 of the video the five cards shown do not have the same rank right? Give me your answer and reason.",
+                "Answer": "Right, the five cards shown do not have the same rank."
+            },
+            {
+                "UID": 5148,
+                "Timestamp": "2:19",
+                "Question type": "Paradoxical Reasoning",
+                "Key words": "Cardtricks, Illusions",
+                "Question": "At 2:19 of the video, why are peopling watching surprised about the cards in the magician's hand?",
+                "Answer": "He threw them out, and they became white strings."
+            }
+        ],
+        "metadata": {
+            "start": "0:02"
+        }
+    },
+    "LPthnGXJe9c": {
+        "Questions": [
+            {
+                "UID": 5149,
+                "Timestamp": "2:11",
+                "Question type": "Instant Reasoning",
+                "Key words": "Cardtricks, Sleight Of Hand, Prediction",
+                "Question": "At 2:11 of the video, what did the magician put on the table?",
+                "Answer": "The magician is putting cards on the table."
+            },
+            {
+                "UID": 5150,
+                "Timestamp": "3:29",
+                "Question type": "Instant Reasoning",
+                "Key words": "Cardtricks, Sleight Of Hand, Prediction",
+                "Question": "At 3:29 of the video, what is the magician holding in his hands?",
+                "Answer": "He is holding a deck of cards and a book."
+            },
+            {
+                "UID": 5151,
+                "Timestamp": "4:19",
+                "Question type": "Contextual Reasoning",
+                "Key words": "Cardtricks, Sleight Of Hand, Prediction",
+                "Question": "At 4:19 of the video, what is the relationship between the book and the lady dressed in black?",
+                "Answer": "The lady follows what the girl in the book is doing."
+            },
+            {
+                "UID": 5152,
+                "Timestamp": "4:43",
+                "Question type": "Instant Reasoning",
+                "Key words": "Cardtricks, Sleight Of Hand, Prediction",
+                "Question": "At 4:43 of the video, how many stacks of cards are on the table?",
+                "Answer": "3 stacks of cards are on the table."
+            },
+            {
+                "UID": 5153,
+                "Timestamp": "6:23",
+                "Question type": "Paradoxical Reasoning",
+                "Key words": "Cardtricks, Sleight Of Hand, Prediction",
+                "Question": "At 6:23 of the video, why are people watching surprised by the cards?",
+                "Answer": "The card the lady in black picked was the same as the card attached in the book."
+            },
+            {
+                "UID": 5154,
+                "Timestamp": "6:23",
+                "Question type": "Adversarial, False Statement",
+                "Key words": "Cardtricks, Sleight Of Hand, Prediction",
+                "Question": "At 6:23 of the video, the lady showed the magician what card she was going to pick. What is the trick? Give me your answer and reason.",
+                "Answer": "She did not actually show him the card; The magician predicted it."
+            },
+            {
+                "UID": 5155,
+                "Timestamp": "9:01",
+                "Question type": "Adversarial, False Implication",
+                "Key words": "Cardtricks, Sleight Of Hand, Prediction",
+                "Question": "At 9:01 of the video, is this the same magician as before? Give me your answer and reason.",
+                "Answer": "No, this is a new magician and effectively a new 'bit'."
+            },
+            {
+                "UID": 5156,
+                "Timestamp": "11:07",
+                "Question type": "Contextual Reasoning",
+                "Key words": "Cardtricks, Sleight Of Hand, Prediction",
+                "Question": "At 11:07 of the video, what is the role of the woman in black?",
+                "Answer": "She selects which (record) to choose."
+            },
+            {
+                "UID": 5157,
+                "Timestamp": "11:20",
+                "Question type": "Adversarial, False Implication",
+                "Key words": "Cardtricks, Sleight Of Hand, Prediction",
+                "Question": "At 11:20 of the video, the woman in pink chose this record right? Give me your answer and reason.",
+                "Answer": "No, the woman in the black dress did."
+            },
+            {
+                "UID": 5158,
+                "Timestamp": "13:54",
+                "Question type": "Adversarial, False Statement",
+                "Key words": "Cardtricks, Sleight Of Hand, Prediction",
+                "Question": "At 13:54 of the video, there was a book in the wooden contraption. What happened to it? Give me your answer and reason.",
+                "Answer": "There was actually a record. There never was a book."
+            }
+        ],
+        "metadata": {
+            "start": "2:02"
+        }
+    },
+    "PLCBWv7Fbyk": {
+        "Questions": [
+            {
+                "UID": 5159,
+                "Timestamp": "2:59",
+                "Question type": "Instant Reasoning",
+                "Question": "At 2:59 of the video what is the man in the middle giving to the two other men on stage?",
+                "Answer": "He is giving them yellow helmets.",
+                "Key words": "Sleight Of Hand"
+            },
+            {
+                "UID": 5160,
+                "Timestamp": "3:09",
+                "Question type": "Adversarial, False Statement",
+                "Question": "At 3:09 of the video the man in the middle so far gave the two participants only one object. What is the object that they were given? Give me your answer and reason.",
+                "Answer": "This is incorrect because he has given them 2-4 objects depending on how you count (if you count helmets)",
+                "Key words": "Sleight Of Hand"
+            },
+            {
+                "UID": 5161,
+                "Timestamp": "3:52",
+                "Question type": "Adversarial, False Implication",
+                "Question": "At 3:52 of the video, where are the three pieces of string on the stage? Give me your answer and reason.",
+                "Answer": "There are only 2 pieces. The man in the middle and the man on the right each have one.",
+                "Key words": "Sleight Of Hand"
+            },
+            {
+                "UID": 5162,
+                "Timestamp": "4:13",
+                "Question type": "Contextual Reasoning",
+                "Question": "At 4:13 of the video, the two participants on the stage, how many pieces of string do they think there are?",
+                "Answer": "They think there is only one as their eyes were covered when the second piece came out.",
+                "Key words": "Sleight Of Hand"
+            },
+            {
+                "UID": 5163,
+                "Timestamp": "4:38",
+                "Question type": "Paradoxical Reasoning",
+                "Question": "At 4:38 of the video, what are the participants surprised about that the viewers are not surprised about?",
+                "Answer": "The participants do not know how the cup got through the string (as their eyes were covered).",
+                "Key words": "Sleight Of Hand"
+            },
+            {
+                "UID": 5164,
+                "Timestamp": "5:47",
+                "Question type": "Paradoxical Reasoning",
+                "Question": "At 5:47 of the video, what does the participant on the right know that the one on the left (with the cup on his head) does not?",
+                "Answer": "He knows that the participant on the left has a cup on his head, while the one on the left believes the red cup has changed into the blue cup on the string.",
+                "Key words": "Sleight Of Hand"
+            },
+            {
+                "UID": 5165,
+                "Timestamp": "6:36",
+                "Question type": "Contextual Reasoning",
+                "Question": "At 6:36 of the video, what is happening to the blue cup?",
+                "Answer": "It is covered by the yellow tarp and looped through by the string.",
+                "Key words": "Sleight Of Hand"
+            },
+            {
+                "UID": 5166,
+                "Timestamp": "6:40",
+                "Question type": "Contextual Reasoning",
+                "Question": "At 6:40 of the video, where is the blue cup?",
+                "Answer": "The blue cup is under the yellow fabric attached to the string.",
+                "Key words": "Sleight Of Hand"
+            },
+            {
+                "UID": 5167,
+                "Timestamp": "7:07",
+                "Question type": "Adversarial, False Statement",
+                "Question": "At 7:07 of the video, the blue cup was never attached to the string why are people surprised? Give me your answer and reason.",
+                "Answer": "The blue cup was looped by the string and is now magically unlooped. This is very surprising to the people.",
+                "Key words": "Sleight Of Hand"
+            },
+            {
+                "UID": 5168,
+                "Timestamp": "7:07",
+                "Question type": "Paradoxical Reasoning",
+                "Question": "At 7:07 of the video, the cup magically detached from the string. This was the final \"trick\" of the act. For the general audience what is the difference between this trick and the previous ones?",
+                "Answer": "In all the previous tricks the people were not fooled as they saw how the trick works. The only people surprised were the two participants in the yellow hats who had their view covered.",
+                "Key words": "Sleight Of Hand"
+            }
+        ],
+        "metadata": {
+            "start": "2:15"
+        }
+    },
+    "QBc8Qs8Q3Jo": {
+        "Questions": [
+            {
+                "UID": 5169,
+                "Timestamp": "0:33",
+                "Question type": "Contextual Reasoning",
+                "Question": "At 0:27 of the video what came out of the metal contraption in the lady's hands?",
+                "Answer": "Money came out.",
+                "Key words": "Everyday Objects, Disappearing Objects"
+            },
+            {
+                "UID": 5170,
+                "Timestamp": "0:51",
+                "Question type": "Adversarial, False Implication",
+                "Question": "At 0:51 of the video, is there money left in the metal contraption? Give me your answer and reason.",
+                "Answer": "No the woman in black took the money out.",
+                "Key words": "Everyday Objects, Disappearing Objects"
+            },
+            {
+                "UID": 5171,
+                "Timestamp": "0:57",
+                "Question type": "Contextual Reasoning",
+                "Question": "At 0:57 of the video, the money in the woman's hand, where did it come from?",
+                "Answer": "It came out of the metal machine.",
+                "Key words": "Everyday Objects, Disappearing Objects"
+            },
+            {
+                "UID": 5172,
+                "Timestamp": "1:19",
+                "Question type": "Adversarial, False Implication",
+                "Question": "At 1:19 of the video, is the woman in blue signing the other woman's hand? Give me your answer and reason.",
+                "Answer": "No she is signing a dollar bill which is on the woman's hand.",
+                "Key words": "Everyday Objects, Disappearing Objects"
+            },
+            {
+                "UID": 5173,
+                "Timestamp": "2:10",
+                "Question type": "Contextual Reasoning",
+                "Question": "At 2:10 of the video, where is the dollar bill the woman in blue signed?",
+                "Answer": "It is in the metal contraption.",
+                "Key words": "Everyday Objects, Disappearing Objects"
+            },
+            {
+                "UID": 5174,
+                "Timestamp": "2:47",
+                "Question type": "Contextual Reasoning",
+                "Question": "At 2:47 of the video, why is there a black band on the woman's head?",
+                "Answer": "She will probably cover her eyes in the future.",
+                "Key words": "Everyday Objects, Disappearing Objects"
+            },
+            {
+                "UID": 5175,
+                "Timestamp": "3:20",
+                "Question type": "Contextual Reasoning",
+                "Question": "At 3:20 of the video what did the woman pick off the floor?",
+                "Answer": "She picked up a dollar bill from the floor.",
+                "Key words": "Everyday Objects, Disappearing Objects"
+            },
+            {
+                "UID": 5176,
+                "Timestamp": "3:37",
+                "Question type": "Adversarial, False Statement",
+                "Question": "At 3:37 of the video, the magician has found the signed bill. How did she do this? Give me your answer and reason.",
+                "Answer": "No bill in the lady's hand is a different bill and not the signed one.",
+                "Key words": "Everyday Objects, Disappearing Objects"
+            },
+            {
+                "UID": 5177,
+                "Timestamp": "4:56",
+                "Question type": "Paradoxical Reasoning",
+                "Question": "At 4:56 of the video, why are people watching surprised by the location where the lady in blue found the signed bill?",
+                "Answer": "It was inside a prepared piece of food which was inside a wrapper. It is surprising because it is not clear how it got in.",
+                "Key words": "Everyday Objects, Disappearing Objects"
+            }
+        ],
+        "metadata": {
+            "start": "0:02"
+        }
+    },
+    "QrPhn-jaV5A": {
+        "Questions": [
+            {
+                "UID": 5178,
+                "Timestamp": "1:12",
+                "Question type": "Instant Reasoning",
+                "Question": "At 1:12 of the video, what is the bald man doing to the cloth?",
+                "Answer": "He is tying a knot on the cloth.",
+                "Key words": "Everyday Objects, Illusions, Disappearing Objects"
+            },
+            {
+                "UID": 5179,
+                "Timestamp": "1:31",
+                "Question type": "Contextual Reasoning",
+                "Question": "At 1:31 of the video, why are they pulling on the pieces of cloth that are tied together?",
+                "Answer": "They are showing that the knot is tight and will not come apart.",
+                "Key words": "Everyday Objects, Illusions, Disappearing Objects"
+            },
+            {
+                "UID": 5180,
+                "Timestamp": "1:57",
+                "Question type": "Contextual Reasoning",
+                "Question": "At 1:57 of the video, where is the knot between the pieces of cloth hidden?",
+                "Answer": "The knot is hidden inside the bald man's hand.",
+                "Key words": "Everyday Objects, Illusions, Disappearing Objects"
+            },
+            {
+                "UID": 5181,
+                "Timestamp": "2:00",
+                "Question type": "Paradoxical Reasoning",
+                "Question": "At 2:00 of the video, why are people watching surprised about the pieces of cloth?",
+                "Answer": "They were tied together, and the magician lightly pulled them apart.",
+                "Key words": "Everyday Objects, Illusions, Disappearing Objects"
+            },
+            {
+                "UID": 5182,
+                "Timestamp": "2:14",
+                "Question type": "Contextual Reasoning",
+                "Question": "At 2:14 of the video, why did the man previously press the buzzer?",
+                "Answer": "He pressed the buzzer so he can take a part of the red light.",
+                "Key words": "Everyday Objects, Illusions, Disappearing Objects"
+            },
+            {
+                "UID": 5183,
+                "Timestamp": "2:14",
+                "Question type": "Paradoxical Reasoning",
+                "Question": "At 2:14 of the video, why are the people watching surprised that the magician (the man) has the red light in his hand?",
+                "Answer": "It is surprising because he pulled the red light off the red X marker attached to the table.",
+                "Key words": "Everyday Objects, Illusions, Disappearing Objects"
+            },
+            {
+                "UID": 5184,
+                "Timestamp": "2:17",
+                "Question type": "Paradoxical Reasoning",
+                "Question": "At 2:17 of the video, why is the audience surprised by what happened to the red light?",
+                "Answer": "The magician tossed it away, and it disappeared.",
+                "Key words": "Everyday Objects, Illusions, Disappearing Objects"
+            },
+            {
+                "UID": 5185,
+                "Timestamp": "2:19",
+                "Question type": "Contextual Reasoning",
+                "Question": "At 2:19 of the video where did the red light reappear from?",
+                "Answer": "It appeared from the bald man.",
+                "Key words": "Everyday Objects, Illusions, Disappearing Objects"
+            },
+            {
+                "UID": 5186,
+                "Timestamp": "2:43",
+                "Question type": "Adversarial, False Implication",
+                "Question": "At 2:43 of the video, are there as many lights as there were before? Give me your answer and reason.",
+                "Answer": "No, now there are two. There used to be one.",
+                "Key words": "Everyday Objects, Illusions, Disappearing Objects"
+            },
+            {
+                "UID": 5187,
+                "Timestamp": "3:41",
+                "Question type": "Contextual Reasoning",
+                "Question": "At 3:41 of the video, where exactly does the ring on the woman's index finger come from?",
+                "Answer": "The ring on the woman's index finger comes from the magician's (the man's) pocket.",
+                "Key words": "Everyday Objects, Illusions, Disappearing Objects"
+            },
+            {
+                "UID": 5188,
+                "Timestamp": "3:57",
+                "Question type": "Paradoxical Reasoning",
+                "Question": "At 3:57 of the video, why are the people surprised?",
+                "Answer": "The people are surprised because the magician spun the ring, and it began to float in the air.",
+                "Key words": "Everyday Objects, Illusions, Disappearing Objects"
+            }
+        ],
+        "metadata": {
+            "start": "0:47"
+        }
+    },
+    "R5BNbE6pwrs": {
+        "Questions": [
+            {
+                "UID": 5189,
+                "Timestamp": "2:56",
+                "Question type": "Paradoxical Reasoning",
+                "Question": "At 2:56 of the video, why is the audience surprised about the egg?",
+                "Answer": "It seems to have appeared out of nowhere. The man's hand was empty, he covered it and then the egg appeared.",
+                "Key words": "Everyday Objects, Disappearing Objects"
+            },
+            {
+                "UID": 5190,
+                "Timestamp": "3:20",
+                "Question type": "Contextual Reasoning",
+                "Question": "At 3:20 of the video, who has the egg right now?",
+                "Answer": "The woman in the white has the egg.",
+                "Key words": "Everyday Objects, Disappearing Objects"
+            },
+            {
+                "UID": 5191,
+                "Timestamp": "3:46",
+                "Question type": "Contextual Reasoning",
+                "Question": "At 3:46 of the video, what has the man from the audience (in the black shirt) been doing since he got onto the stage?",
+                "Answer": "He has been writing on a dollar bill.",
+                "Key words": "Everyday Objects, Disappearing Objects"
+            },
+            {
+                "UID": 5192,
+                "Timestamp": "3:54",
+                "Question type": "Instant Reasoning",
+                "Question": "At 3:54 of the video, what is written on the dollar bill?",
+                "Answer": "CHRIS is written on it.",
+                "Key words": "Everyday Objects, Disappearing Objects"
+            },
+            {
+                "UID": 5193,
+                "Timestamp": "4:53",
+                "Question type": "Contextual Reasoning",
+                "Question": "At 4:53 of the video, what is inside the white envelope?",
+                "Answer": "A folded dollar bill is inside the white envelope.",
+                "Key words": "Everyday Objects, Disappearing Objects"
+            },
+            {
+                "UID": 5194,
+                "Timestamp": "4:57",
+                "Question type": "Contextual Reasoning",
+                "Question": "At 4:57 of the video, how many bills were placed in how many envelopes?",
+                "Answer": "3 bills were placed in 3 envelopes.",
+                "Key words": "Everyday Objects, Disappearing Objects"
+            },
+            {
+                "UID": 5195,
+                "Timestamp": "6:36",
+                "Question type": "Adversarial, False Implication",
+                "Question": "At 6:36 of the video, did the bill with CHRIS get shredded? Give me your answer and reason.",
+                "Answer": "No that bill was not shredded, we can see that there are only white pieces falling to the ground.",
+                "Key words": "Everyday Objects, Disappearing Objects"
+            },
+            {
+                "UID": 5196,
+                "Timestamp": "8:25",
+                "Question type": "Paradoxical Reasoning",
+                "Question": "At 8:25 of the video, why are people surprised about the bill?",
+                "Answer": "They are surprised it did not get shredded. The man shuffled the envelopes and then they chose which one to shred at random.",
+                "Key words": "Everyday Objects, Disappearing Objects"
+            },
+            {
+                "UID": 5197,
+                "Timestamp": "8:27",
+                "Question type": "Adversarial, False Implication",
+                "Question": "At 8:27 of the video, has the bill with CHRIS written been revealed yet? Give me your answer and reason.",
+                "Answer": "No, it has not been revealed yet; another signed bill has been revealed instead.",
+                "Key words": "Everyday Objects, Disappearing Objects"
+            },
+            {
+                "UID": 5198,
+                "Timestamp": "8:27",
+                "Question type": "Contextual Reasoning",
+                "Question": "At 8:27 of the video, the bill marked CHRIS was not yet revealed. Where do you think it is?",
+                "Answer": "It is probably in the egg.",
+                "Key words": "Everyday Objects, Disappearing Objects"
+            },
+            {
+                "UID": 5199,
+                "Timestamp": "9:13",
+                "Question type": "Paradoxical Reasoning",
+                "Question": "At 9:13 of the video, why is the audience surprised about the bill with CHRIS written on it?",
+                "Answer": "It was hidden in an egg that the magician was not touching.",
+                "Key words": "Everyday Objects, Disappearing Objects"
+            }
+        ],
+        "metadata": {
+            "start": "2:15"
+        }
+    },
+    "Rwgf5LEj4NY": {
+        "Questions": [
+            {
+                "UID": 5200,
+                "Timestamp": "1:14",
+                "Question type": "Adversarial, False Implication",
+                "Question": "At 1:14 of the video, how many red chairs are there on the stage? Give me your answer and reason.",
+                "Answer": "There are no red chairs.",
+                "Key words": "Everyday Objects, Illusions"
+            },
+            {
+                "UID": 5201,
+                "Timestamp": "2:09",
+                "Question type": "Contextual Reasoning",
+                "Question": "At 2:09 of the video, what did both participants do?",
+                "Answer": "They cleaned the chalkboards.",
+                "Key words": "Everyday Objects, Illusions"
+            },
+            {
+                "UID": 5202,
+                "Timestamp": "2:16",
+                "Question type": "Adversarial, False Implication",
+                "Question": "At 2:16 of the video, what is written on each chalkboard? Give me your answer and reason.",
+                "Answer": "They were cleaned and now blank.",
+                "Key words": "Everyday Objects, Illusions"
+            },
+            {
+                "UID": 5203,
+                "Timestamp": "2:20",
+                "Question type": "Contextual Reasoning",
+                "Question": "At 2:20 of the video, what did the man add between the two chalkboards?",
+                "Answer": "He added a piece of chalk.",
+                "Key words": "Everyday Objects, Illusions"
+            },
+            {
+                "UID": 5204,
+                "Timestamp": "2:20",
+                "Question type": "Adversarial, False Implication",
+                "Question": "At 2:20 of the video, how many pieces of pink chalk did the man add? Give me your answer and reason.",
+                "Answer": "None; the chalk added was white.",
+                "Key words": "Everyday Objects, Illusions"
+            },
+            {
+                "UID": 5205,
+                "Timestamp": "3:59",
+                "Question type": "Paradoxical Reasoning",
+                "Question": "At 3:59 of the video, why is the audience surprised about the chalkboards?",
+                "Answer": "The words 'I'm here' appeared on it.",
+                "Key words": "Everyday Objects, Illusions"
+            },
+            {
+                "UID": 5390,
+                "Timestamp": "2:03",
+                "Question type": "Adversarial, False Statement",
+                "Key words": "Everyday Objects, Illusions",
+                "Question": "At 2:03 of the video, what is each participant doing to the white board that they were given? Give me your answer and reason.",
+                "Answer": "They were not given white boards, they were given chalkboards."
+            }
+        ],
+        "metadata": {
+            "start": "1:10"
+        }
+    },
+    "Uy8JcH_Yq7Q": {
+        "Questions": [
+            {
+                "UID": 5206,
+                "Timestamp": "2:51",
+                "Question type": "Instant Reasoning",
+                "Question": "At 2:51 of the video, on the stage in the field of view, who is the magician and who are the participants in this act?",
+                "Answer": "The lady is the magician, and the two men are the participants.",
+                "Key words": "Cardtricks, Sleight Of Hand"
+            },
+            {
+                "UID": 5207,
+                "Timestamp": "3:20",
+                "Question type": "Adversarial, False Implication",
+                "Question": "At 3:20 of the video, are all the cards facing down? Give me your answer and reason.",
+                "Answer": "No, some of them are facing up.",
+                "Key words": "Cardtricks, Sleight Of Hand"
+            },
+            {
+                "UID": 5208,
+                "Timestamp": "3:33",
+                "Question type": "Contextual Reasoning",
+                "Question": "At 3:33 of the video, what is written on the piece of paper?",
+                "Answer": "The suits and ranks of 5 cards are listed on the piece of paper.",
+                "Key words": "Cardtricks, Sleight Of Hand"
+            },
+            {
+                "UID": 5209,
+                "Timestamp": "3:59",
+                "Question type": "Adversarial, False Statement",
+                "Question": "At 3:59 of the video, all the cards are facing up. Why are some being flipped up? Give me your answer and reason.",
+                "Answer": "No this is incorrect most of the cards are facing down and those facing up are being flipped down.",
+                "Key words": "Cardtricks, Sleight Of Hand"
+            },
+            {
+                "UID": 5210,
+                "Timestamp": "4:07",
+                "Question type": "Instant Reasoning",
+                "Question": "At 4:07 of the video, there are two sets of cards, what is the difference between them?",
+                "Answer": "Some cards are facing up, and some are facing down.",
+                "Key words": "Cardtricks, Sleight Of Hand"
+            },
+            {
+                "UID": 5211,
+                "Timestamp": "4:18",
+                "Question type": "Adversarial, False Implication",
+                "Question": "At 4:18 of the video, are all the cards in the deck facing down? Give me your answer and reason.",
+                "Answer": "No, some of them are facing up.",
+                "Key words": "Cardtricks, Sleight Of Hand"
+            },
+            {
+                "UID": 5212,
+                "Timestamp": "4:24",
+                "Question type": "Instant Reasoning",
+                "Question": "At 4:24 of the video, what happened to some of the cards being shuffled?",
+                "Answer": "Some of them fell on the table.",
+                "Key words": "Cardtricks, Sleight Of Hand"
+            },
+            {
+                "UID": 5213,
+                "Timestamp": "4:57",
+                "Question type": "Contextual Reasoning",
+                "Question": "At 4:57 of the video, what is the lady handing to the man?",
+                "Answer": "She is handing him a black and empty bag. The man then checked the bag.",
+                "Key words": "Cardtricks, Sleight Of Hand"
+            },
+            {
+                "UID": 5214,
+                "Timestamp": "6:19",
+                "Question type": "Contextual Reasoning",
+                "Question": "At 6:19 of the video, what is the relationship between this scene and the similar scene at the beginning?",
+                "Answer": "This scene appear to be the reverse of the first scene with most cards down and some up. This is the reverse.",
+                "Key words": "Cardtricks, Sleight Of Hand"
+            }
+        ],
+        "metadata": {
+            "start": "2:10"
+        }
+    },
+    "VhcD8w53n54": {
+        "Questions": [
+            {
+                "UID": 5215,
+                "Timestamp": "0:08",
+                "Question type": "Instant Reasoning",
+                "Question": "At 0:08 of the video, what is on the table?",
+                "Answer": "There is a globe and a white fabric.",
+                "Key words": "Cardtricks, Illusions"
+            },
+            {
+                "UID": 5216,
+                "Timestamp": "0:33",
+                "Question type": "Adversarial, False Statement",
+                "Question": "At 0:33 of the video, the cards being shown are poker cards. What are the suits and ranks? Give me your answer and reason.",
+                "Answer": "No, these are blank cards, not poker cards.",
+                "Key words": "Cardtricks, Illusions"
+            },
+            {
+                "UID": 5217,
+                "Timestamp": "0:43",
+                "Question type": "Paradoxical Reasoning",
+                "Question": "At 0:43 of the video, why are people surprised about what happened to the top card?",
+                "Answer": "It went from a blank card to an image of a building.",
+                "Key words": "Cardtricks, Illusions"
+            },
+            {
+                "UID": 5218,
+                "Timestamp": "0:48",
+                "Question type": "Instant Reasoning",
+                "Question": "At 0:48 of the video, what is the similarity between the markings of each card?",
+                "Answer": "The cards are all famous buildings.",
+                "Key words": "Cardtricks, Illusions"
+            },
+            {
+                "UID": 5219,
+                "Timestamp": "1:02",
+                "Question type": "Paradoxical Reasoning",
+                "Question": "At 1:02 of the video, why the people are surprised by the object in the man's hand?",
+                "Answer": "It normally should not fit in the light colored white fabric pouch.",
+                "Key words": "Cardtricks, Illusions"
+            },
+            {
+                "UID": 5220,
+                "Timestamp": "1:13",
+                "Question type": "Adversarial, False Statement",
+                "Question": "At 1:13 of the video, there is the image of a flag. Which flag is this? Give me your answer and reason.",
+                "Answer": "It is actually a map of the world.",
+                "Key words": "Cardtricks, Illusions"
+            },
+            {
+                "UID": 5221,
+                "Timestamp": "1:39",
+                "Question type": "Paradoxical Reasoning",
+                "Question": "At 1:39 of the video, why is the audience surprised about what happened to the image on the card with the faces?",
+                "Answer": "The faces on the card changed.",
+                "Key words": "Cardtricks, Illusions"
+            },
+            {
+                "UID": 5222,
+                "Timestamp": "2:05",
+                "Question type": "Adversarial, False Implication",
+                "Question": "At 2:05 of the video, is it unsurprising that the card is standing on its own? Give me your answer and reason.",
+                "Answer": "No it is very surprising that the card is standing on its own.",
+                "Key words": "Cardtricks, Illusions"
+            },
+            {
+                "UID": 5223,
+                "Timestamp": "2:13",
+                "Question type": "Instant Reasoning",
+                "Question": "At 2:13 of the video, what is the relationship between the leaning card and the image drawn on it?",
+                "Answer": "The card shows the leaning tower of pisa which also leans.",
+                "Key words": "Cardtricks, Illusions"
+            },
+            {
+                "UID": 5224,
+                "Timestamp": "2:50",
+                "Question type": "Paradoxical Reasoning",
+                "Question": "At 2:50 of the video, why would the people be surprised?",
+                "Answer": "The images on the cards turn into real plastic models.",
+                "Key words": "Cardtricks, Illusions"
+            }
+        ],
+        "metadata": {
+            "start": "0:06"
+        }
+    },
+    "XmmR3RW6qEk": {
+        "Questions": [
+            {
+                "UID": 5225,
+                "Timestamp": "0:05",
+                "Question type": "Instant Reasoning",
+                "Question": "At 0:05 of the video, what is the man dressed up as?",
+                "Answer": "A dragon.",
+                "Key words": "Cardtricks, Illusions, Disappearing Objects"
+            },
+            {
+                "UID": 5226,
+                "Timestamp": "0:31",
+                "Question type": "Adversarial, False Implication",
+                "Question": "At 0:31 of the video, is the dog physically on the stage? Give me your answer and reason.",
+                "Answer": "No the dog is on the screen which is on the stage.",
+                "Key words": "Cardtricks, Illusions, Disappearing Objects"
+            },
+            {
+                "UID": 5227,
+                "Timestamp": "1:11",
+                "Question type": "Instant Reasoning",
+                "Question": "At 1:11 of the video, what is being done with the bread?",
+                "Answer": "It is being put in the toaster.",
+                "Key words": "Cardtricks, Illusions, Disappearing Objects"
+            },
+            {
+                "UID": 5228,
+                "Timestamp": "1:37",
+                "Question type": "Paradoxical Reasoning",
+                "Question": "At 1:37 of the video, why is the audience surprised about the rabbit toy?",
+                "Answer": "It appeared out of nowhere.",
+                "Key words": "Cardtricks, Illusions, Disappearing Objects"
+            },
+            {
+                "UID": 5229,
+                "Timestamp": "2:06",
+                "Question type": "Contextual Reasoning",
+                "Question": "At 2:06 of the video, what did the woman select?",
+                "Answer": "She selected a card.",
+                "Key words": "Cardtricks, Illusions, Disappearing Objects"
+            },
+            {
+                "UID": 5230,
+                "Timestamp": "2:27",
+                "Question type": "Instant Reasoning",
+                "Question": "At 2:27 of the video, what card is showing?",
+                "Answer": "The 7 of diamonds is showing.",
+                "Key words": "Cardtricks, Illusions, Disappearing Objects"
+            },
+            {
+                "UID": 5231,
+                "Timestamp": "2:35",
+                "Question type": "Paradoxical Reasoning",
+                "Question": "At 2:35 of the video, why is the audience surprised about the card that was thrown in the air?",
+                "Answer": "It went up, fell down and then disappeared.",
+                "Key words": "Cardtricks, Illusions, Disappearing Objects"
+            },
+            {
+                "UID": 5232,
+                "Timestamp": "3:39",
+                "Question type": "Adversarial, False Statement",
+                "Question": "At 3:39 of the video, what face is drawn on the bread? Give me your answer and reason.",
+                "Answer": "No face is shown; Just a 3 and a heart.",
+                "Key words": "Cardtricks, Illusions, Disappearing Objects"
+            },
+            {
+                "UID": 5233,
+                "Timestamp": "3:39",
+                "Question type": "Paradoxical Reasoning",
+                "Question": "At 3:39 of the video, why is the audience surprised about the values written on the bread? Have we seen these numbers before?",
+                "Answer": "It is the same value as that written on the card shown by the lady.",
+                "Key words": "Cardtricks, Illusions, Disappearing Objects"
+            },
+            {
+                "UID": 5234,
+                "Timestamp": "3:54",
+                "Question type": "Paradoxical Reasoning",
+                "Question": "At 3:54 of the video, why is the audience surprised about the fact that a card was in between the two pieces of bread?",
+                "Answer": "There was no card there before.",
+                "Key words": "Cardtricks, Illusions, Disappearing Objects"
+            },
+            {
+                "UID": 5235,
+                "Timestamp": "4:22",
+                "Question type": "Contextual Reasoning",
+                "Question": "At 4:22 of the video, where were the cards thrown to?",
+                "Answer": "They were thrown on the screen and some fell on the ground.",
+                "Key words": "Cardtricks, Illusions, Disappearing Objects"
+            },
+            {
+                "UID": 5236,
+                "Timestamp": "5:00",
+                "Question type": "Paradoxical Reasoning",
+                "Question": "At 5:00 of the video, why is the audience surprised about the card?",
+                "Answer": "It was thrown on the screen from the stage and is now on the other side of the screen at the pool.",
+                "Key words": "Cardtricks, Illusions, Disappearing Objects"
+            },
+            {
+                "UID": 5237,
+                "Timestamp": "5:10",
+                "Question type": "Temporal Summarization",
+                "Question": "At 5:10 of the video, what are the 3 main tricks in the video?",
+                "Answer": "Bread with the numbers on it, card between the bread, card through the screen.",
+                "Key words": "Cardtricks, Illusions, Disappearing Objects"
+            },
+            {
+                "UID": 5393,
+                "Timestamp": "1:11",
+                "Question type": "Adversarial, False Statement",
+                "Key words": "Cardtricks, Illusions, Disappearing Objects",
+                "Question": "At 1:11 of the video, there are 2 toasters on the table. How many pieces of bread are in each? Give me your answer and reason.",
+                "Answer": "There is only 1 toaster."
+            },
+            {
+                "UID": 5395,
+                "Timestamp": "3:54",
+                "Question type": "Adversarial, False Statement",
+                "Key words": "Cardtricks, Illusions, Disappearing Objects",
+                "Question": "At 3:54 of the video, the man revealed a pokemon card. What pokemon card is it? Give me your answer and reason.",
+                "Answer": "It is not a pokemon card, it is a regular playing card."
+            }
+        ],
+        "metadata": {
+            "start": "0:01"
+        }
+    },
+    "ZGI9B1vgUEo": {
+        "Questions": [
+            {
+                "UID": 5239,
+                "Timestamp": "0:11",
+                "Question type": "Contextual Reasoning",
+                "Question": "At 0:11 of the video, do the eyes of the stuffed animal change?",
+                "Answer": "Yes, the eyes switch between normal eyes and poker card symbols (suit and rank).",
+                "Key words": "Everyday Objects, Cardtricks"
+            },
+            {
+                "UID": 5240,
+                "Timestamp": "0:35",
+                "Question type": "Paradoxical Reasoning",
+                "Question": "At 0:35 of the video, why is the audience surprised about the eyes of the stuffed animal?",
+                "Answer": "It is the same as the card that was shown before.",
+                "Key words": "Everyday Objects, Cardtricks"
+            },
+            {
+                "UID": 5241,
+                "Timestamp": "2:00",
+                "Question type": "Temporal Summarization",
+                "Question": "At 2:00 of the video, describe the video in relation to the trick. Was the same trick repeated many times?",
+                "Answer": "Yes, the same trick was repeated many times with different people on the street.",
+                "Key words": "Everyday Objects, Cardtricks"
+            }
+        ],
+        "metadata": {
+            "start": "0:00"
+        }
+    },
+    "n15TNOsJHoY": {
+        "Questions": [
+            {
+                "UID": 5242,
+                "Timestamp": "2:23",
+                "Question type": "Contextual Reasoning",
+                "Question": "At 2:23 of the video, who is the magician and who is the participant?",
+                "Answer": "The man in the green dragon suit is the magician and the woman in the dress is the participant.",
+                "Key words": "Cardtricks, Everyday Objects,"
+            },
+            {
+                "UID": 5243,
+                "Timestamp": "3:02",
+                "Question type": "Contextual Reasoning",
+                "Question": "At 3:01 of the video, what did the woman pick?",
+                "Answer": "She picked a card.",
+                "Key words": "Cardtricks, Everyday Objects,"
+            },
+            {
+                "UID": 5244,
+                "Timestamp": "3:15",
+                "Question type": "Instant Reasoning",
+                "Question": "At 3:15 of the video, what does the woman sign?",
+                "Answer": "She signs a card.",
+                "Key words": "Cardtricks, Everyday Objects,"
+            },
+            {
+                "UID": 5245,
+                "Timestamp": "3:29",
+                "Question type": "Adversarial, False Implication",
+                "Question": "At 3:29 of the video, since the two cards being shown appear to match, is the trick finished? Give me your answer and reason.",
+                "Answer": "No, the cards are not the same. One is a king of hearts, and the other is a 7 of spades.",
+                "Key words": "Cardtricks, Everyday Objects,"
+            },
+            {
+                "UID": 5246,
+                "Timestamp": "3:47",
+                "Question type": "Instant Reasoning",
+                "Question": "At 3:47 of the video, what is the magician doing to the card?",
+                "Answer": "He is folding the card.",
+                "Key words": "Cardtricks, Everyday Objects,"
+            },
+            {
+                "UID": 5247,
+                "Timestamp": "3:52",
+                "Question type": "Contextual Reasoning",
+                "Question": "At 3:52 of the video, what was the suit and rank that the woman signed?",
+                "Answer": "She signed the king of hearts.",
+                "Key words": "Cardtricks, Everyday Objects,"
+            },
+            {
+                "UID": 5248,
+                "Timestamp": "4:20",
+                "Question type": "Contextual Reasoning",
+                "Question": "At 4:20 of the video, what happened to the card?",
+                "Answer": "The magician transformed the card from a king of hearts to a 7 of spades.",
+                "Key words": "Cardtricks, Everyday Objects,"
+            },
+            {
+                "UID": 5249,
+                "Timestamp": "4:20",
+                "Question type": "Paradoxical Reasoning",
+                "Question": "At 4:20 of the video, why is the audience surprised about the card?",
+                "Answer": "It transformed from one suit and rank to another.",
+                "Key words": "Cardtricks, Everyday Objects,"
+            },
+            {
+                "UID": 5250,
+                "Timestamp": "4:22",
+                "Question type": "Contextual Reasoning",
+                "Question": "At 4:22 of the video, does the transformed card still have the woman's signature?",
+                "Answer": "Yes it does.",
+                "Key words": "Cardtricks, Everyday Objects,"
+            },
+            {
+                "UID": 5251,
+                "Timestamp": "5:03",
+                "Question type": "Adversarial, False Implication",
+                "Question": "At 5:03 of the video, there is a card hidden in the banana right? Give me your answer and reason.",
+                "Answer": "No there is not, as we can see the skin of banana has been peeled off.",
+                "Key words": "Cardtricks, Everyday Objects,"
+            },
+            {
+                "UID": 5387,
+                "Timestamp": "1:58",
+                "Question type": "Adversarial, False Implication",
+                "Key words": "Cardtricks, Everyday Objects",
+                "Question": "At 1:58 of the video, how many blue flowers did the magician have in his hand? Give me your answer and reason.",
+                "Answer": "There are no blue flowers in his hand."
+            },
+            {
+                "UID": 5388,
+                "Timestamp": "3:48",
+                "Question type": "Adversarial, False Statement",
+                "Key words": "Cardtricks, Everyday Objects",
+                "Question": "At 3:48 of the video, the man is holding a poker card in his hand. The card is not folded and can be clearly seen by the audience. What is the suit and rank of the card? Give me your answer and reason.",
+                "Answer": "The card in the man's hand is folded."
+            },
+            {
+                "UID": 5389,
+                "Timestamp": "4:00",
+                "Question type": "Adversarial, False Statement",
+                "Key words": "Cardtricks, Everyday Objects",
+                "Question": "At 4:00 of the video, the man is holding a card of the suit of clubs. Is this the signed card from earlier? Give me your answer and reason.",
+                "Answer": "No, the card being shown is partially of the suit of spades and partially from the suit of hearts."
+            }
+        ],
+        "metadata": {
+            "start": "0:58"
+        }
+    },
+    "okbiPfdSN7o": {
+        "Questions": [
+            {
+                "UID": 5252,
+                "Timestamp": "0:11",
+                "Question type": "Instant Reasoning",
+                "Question": "At 0:11 of the video, what objects are shown at the back of the stage in the background?",
+                "Answer": "Coins are shown in the background.",
+                "Key words": "Everyday Objects, Sleight Of Hand, Disappearing Object"
+            },
+            {
+                "UID": 5253,
+                "Timestamp": "0:27",
+                "Question type": "Instant Reasoning",
+                "Question": "At 0:27 of the video, what is the man holding?",
+                "Answer": "He is holding a golden ring like object.",
+                "Key words": "Everyday Objects, Sleight Of Hand, Disappearing Object"
+            },
+            {
+                "UID": 5254,
+                "Timestamp": "0:41",
+                "Question type": "Contextual Reasoning",
+                "Question": "At 0:41 of the video, what are the objects on the table?",
+                "Answer": "Coins and the golden ring.",
+                "Key words": "Everyday Objects, Sleight Of Hand, Disappearing Object"
+            },
+            {
+                "UID": 5255,
+                "Timestamp": "0:55",
+                "Question type": "Contextual Reasoning",
+                "Question": "At 0:55 of the video, how many coins are on the table?",
+                "Answer": "There are 4 coins on the table.",
+                "Key words": "Everyday Objects, Sleight Of Hand, Disappearing Object"
+            },
+            {
+                "UID": 5256,
+                "Timestamp": "1:20",
+                "Question type": "Paradoxical Reasoning",
+                "Question": "At 1:20 of the video, why is the audience surprised by the trick that happened?",
+                "Answer": "The coins move from inside the golden ring to the other side of the table.",
+                "Key words": "Everyday Objects, Sleight Of Hand, Disappearing Object"
+            },
+            {
+                "UID": 5257,
+                "Timestamp": "1:20",
+                "Question type": "Adversarial, False Implication",
+                "Question": "At 1:20 of the video, the golden ring never had coins in it right? Give me your answer and reason.",
+                "Answer": "No there were coins in the ring.",
+                "Key words": "Everyday Objects, Sleight Of Hand, Disappearing Object"
+            },
+            {
+                "UID": 5258,
+                "Timestamp": "1:43",
+                "Question type": "Paradoxical Reasoning",
+                "Question": "At 1:43 of the video, why is the audience surprised about the coin?",
+                "Answer": "It magically moved from the golden ring to the hand.",
+                "Key words": "Everyday Objects, Sleight Of Hand, Disappearing Object"
+            },
+            {
+                "UID": 5259,
+                "Timestamp": "1:56",
+                "Question type": "Adversarial, False Statement",
+                "Question": "At 1:56 of the video, there are 5 coins on the table. Where are they? Give me your answer and reason.",
+                "Answer": "There are 4 coins, 3 in the ring and 1 in the man's hand.",
+                "Key words": "Everyday Objects, Sleight Of Hand, Disappearing Object"
+            },
+            {
+                "UID": 5260,
+                "Timestamp": "2:03",
+                "Question type": "Paradoxical Reasoning",
+                "Question": "At 2:02 of the video, why is the audience surprised about the 2 coins on the table?",
+                "Answer": "The man had one coin in his hand and it fell on the table and became two.",
+                "Key words": "Everyday Objects, Sleight Of Hand, Disappearing Object"
+            },
+            {
+                "UID": 5261,
+                "Timestamp": "2:36",
+                "Question type": "Paradoxical Reasoning",
+                "Question": "At 2:36 of the video, why is the audience surprised about the coin?",
+                "Answer": "It moved from the right to the left hand.",
+                "Key words": "Everyday Objects, Sleight Of Hand, Disappearing Object"
+            },
+            {
+                "UID": 5262,
+                "Timestamp": "3:03",
+                "Question type": "Paradoxical Reasoning",
+                "Question": "At 3:03 of the video, why is the audience surprised about the coins?",
+                "Answer": "They were all inside the golden ring and then they disappeared.",
+                "Key words": "Everyday Objects, Sleight Of Hand, Disappearing Object"
+            }
+        ],
+        "metadata": {
+            "start": "0:05"
+        }
+    },
+    "ozKPCtAMWy8": {
+        "Questions": [
+            {
+                "UID": 5263,
+                "Timestamp": "0:39",
+                "Question type": "Adversarial, False Implication",
+                "Question": "At 0:39 of the video, describe the long-haired person on the stage. Give me your answer and reason.",
+                "Answer": "There is no such person on the stage. The person shown has no visible hair.",
+                "Key words": "Everyday Objects, Disappearing Objects"
+            },
+            {
+                "UID": 5264,
+                "Timestamp": "1:00",
+                "Question type": "Contextual Reasoning",
+                "Question": "At 1:00 of the video, what happened to the cassette?",
+                "Answer": "The cassette is in the cassette player.",
+                "Key words": "Everyday Objects, Disappearing Objects"
+            },
+            {
+                "UID": 5265,
+                "Timestamp": "1:05",
+                "Question type": "Adversarial, False Implication",
+                "Question": "At 1:05 of the video, is the floating white mask on the stage? Give me your answer and reason.",
+                "Answer": "No it is on the screen and not physically on the stage.",
+                "Key words": "Everyday Objects, Disappearing Objects"
+            },
+            {
+                "UID": 5266,
+                "Timestamp": "1:32",
+                "Question type": "Contextual Reasoning",
+                "Question": "At 1:32 of the video, has the magician scared some of the participants?",
+                "Answer": "Yes, some of the participants appeared to be scared.",
+                "Key words": "Everyday Objects, Disappearing Objects"
+            },
+            {
+                "UID": 5267,
+                "Timestamp": "1:43",
+                "Question type": "Contextual Reasoning",
+                "Question": "At 1:42 of the video, where did the woman get the piece of paper from?",
+                "Answer": "It was inside the box.",
+                "Key words": "Everyday Objects, Disappearing Objects"
+            },
+            {
+                "UID": 5268,
+                "Timestamp": "1:51",
+                "Question type": "Paradoxical Reasoning",
+                "Question": "At 1:51 of the video, why is the audience surprised about the object in the man's hand?",
+                "Answer": "It magically appeared there.",
+                "Key words": "Everyday Objects, Disappearing Objects"
+            },
+            {
+                "UID": 5269,
+                "Timestamp": "2:05",
+                "Question type": "Instant Reasoning",
+                "Question": "At 2:05 of the video, what is the woman doing?",
+                "Answer": "She is dropping black drops on the paper.",
+                "Key words": "Everyday Objects, Disappearing Objects"
+            },
+            {
+                "UID": 5270,
+                "Timestamp": "2:17",
+                "Question type": "Instant Reasoning",
+                "Question": "At 2:17 of the video, how many black drops are there on the paper?",
+                "Answer": "There are 5 black drops on the paper.",
+                "Key words": "Everyday Objects, Disappearing Objects"
+            },
+            {
+                "UID": 5271,
+                "Timestamp": "2:17",
+                "Question type": "Adversarial, False Statement",
+                "Question": "At 2:17 of the video, many red drops were put on the paper, how many red drops are there? Give me your answer and reason.",
+                "Answer": "There are no red drops on the paper.",
+                "Key words": "Everyday Objects, Disappearing Objects"
+            },
+            {
+                "UID": 5272,
+                "Timestamp": "3:03",
+                "Question type": "Paradoxical Reasoning",
+                "Question": "At 3:03 of the video, what just happened that surprised the people?",
+                "Answer": "The man's hand and the paper in it caught fire.",
+                "Key words": "Everyday Objects, Disappearing Objects"
+            },
+            {
+                "UID": 5273,
+                "Timestamp": "3:21",
+                "Question type": "Paradoxical Reasoning",
+                "Question": "At 3:21 of the video, what is the relationship between the spider and what happened before?",
+                "Answer": "The piece of paper had a drawn spider on it.",
+                "Key words": "Everyday Objects, Disappearing Objects"
+            },
+            {
+                "UID": 5274,
+                "Timestamp": "3:54",
+                "Question type": "Paradoxical Reasoning",
+                "Question": "At 3:54 of the video, what happened that is surprising to the audience?",
+                "Answer": "The fact that the spider turned into smoke.",
+                "Key words": "Everyday Objects, Disappearing Objects"
+            },
+            {
+                "UID": 5275,
+                "Timestamp": "3:53",
+                "Question type": "Adversarial, False Statement",
+                "Question": "At 3:53 of the video, what color did the spider in the man's hand turn to? Give me your answer and reason.",
+                "Answer": "There no longer is a spider in the man's hands.",
+                "Key words": "Everyday Objects, Disappearing Objects"
+            }
+        ],
+        "metadata": {
+            "start": "0:27"
+        }
+    },
+    "pl3J3o2q9Hg": {
+        "Questions": [
+            {
+                "UID": 5276,
+                "Timestamp": "0:07",
+                "Question type": "Instant Reasoning",
+                "Question": "At 0:07 of the video, what is the woman holding?",
+                "Answer": "She is holding a flower (maybe made of paper).",
+                "Key words": "Everyday Objects, Disappearing Objects"
+            },
+            {
+                "UID": 5277,
+                "Timestamp": "0:15",
+                "Question type": "Paradoxical Reasoning",
+                "Question": "At 0:15 of the video, what surprising thing to the audience is happening to the flower?",
+                "Answer": "it appears to be disintegrating/falling apart.",
+                "Key words": "Everyday Objects, Disappearing Objects"
+            },
+            {
+                "UID": 5278,
+                "Timestamp": "0:15",
+                "Question type": "Adversarial, False Implication",
+                "Question": "At 0:15 of the video, can the person see? Give me your answer and reason.",
+                "Answer": "No, they are blindfolded.",
+                "Key words": "Everyday Objects, Disappearing Objects"
+            },
+            {
+                "UID": 5279,
+                "Timestamp": "0:25",
+                "Question type": "Paradoxical Reasoning",
+                "Question": "At 0:25 of the video, what came out of the person's hands that is so surprising to the audience?",
+                "Answer": "A small object flew out of the hands.",
+                "Key words": "Everyday Objects, Disappearing Objects"
+            },
+            {
+                "UID": 5280,
+                "Timestamp": "0:52",
+                "Question type": "Adversarial, False Implication",
+                "Question": "At 0:52 of the video, how many flowers are there in the person's hands? Give me your answer and reason.",
+                "Answer": "There are no flowers in the persons hands.",
+                "Key words": "Everyday Objects, Disappearing Objects"
+            },
+            {
+                "UID": 5281,
+                "Timestamp": "1:10",
+                "Question type": "Contextual Reasoning",
+                "Question": "At 1:10 of the video, as the person is taking off the cover over the eyes, what also came out?",
+                "Answer": "Sand also came out.",
+                "Key words": "Everyday Objects, Disappearing Objects"
+            },
+            {
+                "UID": 5282,
+                "Timestamp": "1:30",
+                "Question type": "Paradoxical Reasoning",
+                "Question": "At 1:30 of the video, what happened that is surprising to the audience?",
+                "Answer": "The hands were empty yet objects fell out and another object magically floated up directly into the person's hands.",
+                "Key words": "Everyday Objects, Disappearing Objects"
+            },
+            {
+                "UID": 5283,
+                "Timestamp": "2:01",
+                "Question type": "Paradoxical Reasoning",
+                "Question": "At 2:01 of the video, what happened to all the objects in the person's hands that is surprising to the audience?",
+                "Answer": "They formed into flowers.",
+                "Key words": "Everyday Objects, Disappearing Objects"
+            },
+            {
+                "UID": 5284,
+                "Timestamp": "2:21",
+                "Question type": "Adversarial, False Implication",
+                "Question": "At 2:21 of the video, nothing surprising is happening right? Give me your answer and reason.",
+                "Answer": "Incorrect. There is a magical light that is floating that is surprising.",
+                "Key words": "Everyday Objects, Disappearing Objects"
+            },
+            {
+                "UID": 5285,
+                "Timestamp": "2:38",
+                "Question type": "Adversarial, False Statement",
+                "Question": "At 2:38 of the video, there is a singular red dot, where is it? Give me your answer and reason.",
+                "Answer": "There is no red dot.",
+                "Key words": "Everyday Objects, Disappearing Objects"
+            }
+        ],
+        "metadata": {
+            "start": "0:02"
+        }
+    },
+    "rGjnlOUOTx4": {
+        "Questions": [
+            {
+                "UID": 5286,
+                "Timestamp": "2:44",
+                "Question type": "Instant Reasoning",
+                "Question": "At 2:44 of the video, what is the man holding?",
+                "Answer": "He is holding a jar of olives.",
+                "Key words": "Everyday Objects"
+            },
+            {
+                "UID": 5287,
+                "Timestamp": "2:46",
+                "Question type": "Instant Reasoning",
+                "Question": "At 2:46 of the video, how many jars do you see?",
+                "Answer": "Two jars are visible.",
+                "Key words": "Everyday Objects"
+            },
+            {
+                "UID": 5288,
+                "Timestamp": "3:03",
+                "Question type": "Contextual Reasoning",
+                "Question": "At 3:03 of the video, the audience member had picked an object from the jar of olives or dominos?",
+                "Answer": "From the jar of olives.",
+                "Key words": "Everyday Objects"
+            },
+            {
+                "UID": 5289,
+                "Timestamp": "3:08",
+                "Question type": "Contextual Reasoning",
+                "Question": "At 3:02 of the video, what happened to the selected olive?",
+                "Answer": "It got eaten.",
+                "Key words": "Everyday Objects"
+            },
+            {
+                "UID": 5290,
+                "Timestamp": "3:16",
+                "Question type": "Adversarial, False Implication",
+                "Question": "At 3:16 of the video, how many dominos have been selected? Give me your answer and reason.",
+                "Answer": "No dominos have been selected.",
+                "Key words": "Everyday Objects"
+            },
+            {
+                "UID": 5291,
+                "Timestamp": "3:57",
+                "Question type": "Contextual Reasoning",
+                "Question": "At 3:57 of the video what are in the hands of the woman on the right in the image?",
+                "Answer": "The domino she took is in her hands.",
+                "Key words": "Everyday Objects"
+            },
+            {
+                "UID": 5292,
+                "Timestamp": "4:47",
+                "Question type": "Instant Reasoning",
+                "Question": "At 4:47 of the video, what is surprising about the man?",
+                "Answer": "He is not wearing pants.",
+                "Key words": "Everyday Objects"
+            },
+            {
+                "UID": 5293,
+                "Timestamp": "5:19",
+                "Question type": "Contextual Reasoning",
+                "Question": "At 5:19 of the video, what is the woman putting in the jar?",
+                "Answer": "She is putting the domino back in.",
+                "Key words": "Everyday Objects"
+            },
+            {
+                "UID": 5294,
+                "Timestamp": "5:22",
+                "Question type": "Adversarial, False Implication",
+                "Question": "At 5:22 of the video, how many dominos does the woman hold? Give me your answer and reason.",
+                "Answer": "She holds no dominos.",
+                "Key words": "Everyday Objects"
+            },
+            {
+                "UID": 5295,
+                "Timestamp": "6:48",
+                "Question type": "Paradoxical Reasoning",
+                "Question": "At 6:48 of the video, what is surprising to the audience about the domino the man found?",
+                "Answer": "He found the domino the lady had selected earlier.",
+                "Key words": "Everyday Objects"
+            }
+        ],
+        "metadata": {
+            "start": "1:21"
+        }
+    },
+    "Vj8x58dMJos": {
+        "Questions": [
+            {
+                "UID": 5296,
+                "Timestamp": "0:22",
+                "Question type": "Instant Reasoning",
+                "Question": "At 0:22 of the video, what is the man holding/looking at?",
+                "Answer": "He is looking at a piece of a mirror. A broken shard.",
+                "Key words": "Everyday Objects, Illusions"
+            },
+            {
+                "UID": 5297,
+                "Timestamp": "0:34",
+                "Question type": "Paradoxical Reasoning",
+                "Question": "At 0:34 of the video, why the people are surprised?",
+                "Answer": "The object in the man's hand disappeared.",
+                "Key words": "Everyday Objects, Illusions"
+            },
+            {
+                "UID": 5298,
+                "Timestamp": "0:37",
+                "Question type": "Contextual Reasoning",
+                "Question": "At 0:37 of the video, what is the object that just appeared in the man's left hand?",
+                "Answer": "It is the object (a piece of the mirror; a broken shard) that disappeared from the right hand just before.",
+                "Key words": "Everyday Objects, Illusions"
+            },
+            {
+                "UID": 5299,
+                "Timestamp": "0:43",
+                "Question type": "Paradoxical Reasoning",
+                "Question": "At 0:43 of the video, why are the people surprised by the scene?",
+                "Answer": "An apple appeared.",
+                "Key words": "Everyday Objects, Illusions"
+            },
+            {
+                "UID": 5300,
+                "Timestamp": "0:45",
+                "Question type": "Adversarial, False Implication",
+                "Question": "At 0:45 of the video, how many green apples are there in the man's hand? Give me your answer and reason.",
+                "Answer": "There are no green apples only one red apple.",
+                "Key words": "Everyday Objects, Illusions"
+            },
+            {
+                "UID": 5301,
+                "Timestamp": "0:52",
+                "Question type": "Contextual Reasoning",
+                "Question": "At 0:52 of the video, what happened to the apple?",
+                "Answer": "It got thrown away.",
+                "Key words": "Everyday Objects, Illusions"
+            },
+            {
+                "UID": 5302,
+                "Timestamp": "1:02",
+                "Question type": "Paradoxical Reasoning",
+                "Question": "At 1:02 of the video, why are people surprised about the apples?",
+                "Answer": "There are somehow 4 apples now that just appeared.",
+                "Key words": "Everyday Objects, Illusions"
+            },
+            {
+                "UID": 5303,
+                "Timestamp": "1:02",
+                "Question type": "Paradoxical Reasoning",
+                "Question": "At 1:02 of the video, why are people surprised about the position of apples?",
+                "Answer": "Two apples seem to be floating.",
+                "Key words": "Everyday Objects, Illusions"
+            },
+            {
+                "UID": 5304,
+                "Timestamp": "1:12",
+                "Question type": "Paradoxical Reasoning",
+                "Question": "At 1:12 of the video, why are people surprised about what just happened to the apple?",
+                "Answer": "It jumped into the man's hand out of nowhere.",
+                "Key words": "Everyday Objects, Illusions"
+            }
+        ],
+        "metadata": {
+            "start": "0:00"
+        }
+    },
+    "wX3XyEgfX5Y": {
+        "Questions": [
+            {
+                "UID": 5306,
+                "Timestamp": "0:37",
+                "Question type": "Instant Reasoning",
+                "Question": "At 0:37 of the video, how many deck of cards does the lady hold?",
+                "Answer": "She is holding two sets of card decks.",
+                "Key words": "Cardtricks, Sleight Of Hand"
+            },
+            {
+                "UID": 5307,
+                "Timestamp": "0:44",
+                "Question type": "Contextual Reasoning",
+                "Question": "At 0:44 of the video, which card deck does the man the choose?",
+                "Answer": "The golden deck.",
+                "Key words": "Cardtricks, Sleight Of Hand"
+            },
+            {
+                "UID": 5308,
+                "Timestamp": "1:26",
+                "Question type": "Instant Reasoning",
+                "Question": "At 1:26 of the video, what is the woman in the frame doing with the cards?",
+                "Answer": "She is shuffling the cards.",
+                "Key words": "Cardtricks, Sleight Of Hand"
+            },
+            {
+                "UID": 5309,
+                "Timestamp": "1:41",
+                "Question type": "Paradoxical Reasoning",
+                "Question": "At 1:41 of the video, why are people surprised about what is currently surprising about the cards?",
+                "Answer": "The cards are in the shape of a fan.",
+                "Key words": "Cardtricks, Sleight Of Hand"
+            },
+            {
+                "UID": 5310,
+                "Timestamp": "3:36",
+                "Question type": "Adversarial, False Implication",
+                "Question": "At 3:36 of the video, does the woman in red have the golden card deck? Give me your answer and reason.",
+                "Answer": "No, the man on the left does.",
+                "Key words": "Cardtricks, Sleight Of Hand"
+            },
+            {
+                "UID": 5311,
+                "Timestamp": "4:41",
+                "Question type": "Instant Reasoning",
+                "Question": "At 4:41 of the video, what card is being shown?",
+                "Answer": "The 6 of hearts.",
+                "Key words": "Cardtricks, Sleight Of Hand"
+            },
+            {
+                "UID": 5312,
+                "Timestamp": "4:41",
+                "Question type": "Paradoxical Reasoning",
+                "Question": "At 4:41 of the video, why are people watching surprised about the card being shown?",
+                "Answer": "It was the picked card at the beginning.",
+                "Key words": "Cardtricks, Sleight Of Hand"
+            },
+            {
+                "UID": 5391,
+                "Timestamp": "2:57",
+                "Question type": "Adversarial, False Statement",
+                "Key words": "Cardtricks, Sleight Of Hand",
+                "Question": "At 2:57 of the video, some cards on the table are facing up and some are facing down. Are there more facing up or down? Give me your answer and reason.",
+                "Answer": "All cards are facing down at that time in the video."
+            },
+            {
+                "UID": 5392,
+                "Timestamp": "2:35",
+                "Question type": "Adversarial, False Statement",
+                "Key words": "Cardtricks, Sleight Of Hand",
+                "Question": "At 2:35 of the video, there are 7 participants on stage. Which card did they each select? Give me your answer and reason.",
+                "Answer": "There are only 3 participants on the stage."
+            }
+        ],
+        "metadata": {
+            "start": "0:00"
+        }
+    },
+    "xFwRSr0u3Z4": {
+        "Questions": [
+            {
+                "UID": 5313,
+                "Timestamp": "0:04",
+                "Question type": "Instant Reasoning",
+                "Question": "At 0:04 of the video, what is the woman holding?",
+                "Answer": "She is holding two bars with chains and locks on them.",
+                "Key words": "Escaping"
+            },
+            {
+                "UID": 5314,
+                "Timestamp": "1:31",
+                "Question type": "Contextual Reasoning",
+                "Question": "At 1:31 of the video, what did the woman give to each man on stage?",
+                "Answer": "She gave each of them one set of chains.",
+                "Key words": "Escaping"
+            },
+            {
+                "UID": 5315,
+                "Timestamp": "3:14",
+                "Question type": "Contextual Reasoning",
+                "Question": "At 3:14 of the video, what is being done to the man in the orange tie?",
+                "Answer": "He is being tied up at the wrists.",
+                "Key words": "Escaping"
+            },
+            {
+                "UID": 5316,
+                "Timestamp": "3:16",
+                "Question type": "Contextual Reasoning",
+                "Question": "At 3:16 of the video, what is the similarity between what is happening to the woman and the man on the platforms?",
+                "Answer": "They are each being tied up in the same way.",
+                "Key words": "Escaping"
+            },
+            {
+                "UID": 5317,
+                "Timestamp": "3:30",
+                "Question type": "Adversarial, False Implication",
+                "Question": "At 3:30 of the video, can both tied-up people move freely? Give me your answer and reason.",
+                "Answer": "No, they are tied at the wrists and also attached to the platforms.",
+                "Key words": "Escaping"
+            },
+            {
+                "UID": 5318,
+                "Timestamp": "4:11",
+                "Question type": "Contextual Reasoning",
+                "Question": "At 4:11 of the video, why is the woman being blocked from view?",
+                "Answer": "So that she can escape from her chains.",
+                "Key words": "Escaping"
+            },
+            {
+                "UID": 5319,
+                "Timestamp": "4:24",
+                "Question type": "Contextual Reasoning",
+                "Question": "At 4:24 of the video, what is the man trying to do to escape?",
+                "Answer": "He is trying to use the metal to file the metal bar and escape.",
+                "Key words": "Escaping"
+            },
+            {
+                "UID": 5320,
+                "Timestamp": "5:09",
+                "Question type": "Contextual Reasoning",
+                "Question": "At 5:09 of the video, has the man freed himself from his chains?",
+                "Answer": "No he has not.",
+                "Key words": "Escaping"
+            },
+            {
+                "UID": 5321,
+                "Timestamp": "5:13",
+                "Question type": "Paradoxical Reasoning",
+                "Question": "At 5:13 of the video, why is the audience surprised about the woman?",
+                "Answer": "She is no longer chained up.",
+                "Key words": "Escaping"
+            }
+        ],
+        "metadata": {
+            "start": "0:00"
+        }
+    },
+    "xbBU3o6uSv0": {
+        "Questions": [
+            {
+                "UID": 5322,
+                "Timestamp": "1:55",
+                "Question type": "Adversarial, False Implication",
+                "Question": "At 1:55 of the video, is the man wearing a shirt? Give me your answer and reason.",
+                "Answer": "No he is not wearing a shirt, he's wearing a bathrobe.",
+                "Key words": "Everyday Objects,"
+            },
+            {
+                "UID": 5323,
+                "Timestamp": "2:03",
+                "Question type": "Paradoxical Reasoning",
+                "Question": "At 2:03 of the video, why is the audience surprised about the man?",
+                "Answer": "He was actually wearing clothes underneath the robe.",
+                "Key words": "Everyday Objects,"
+            },
+            {
+                "UID": 5324,
+                "Timestamp": "2:56",
+                "Question type": "Adversarial, False Implication",
+                "Question": "At 2:56 of the video, are there 2 people physically on the stage? Give me your answer and reason.",
+                "Answer": "No there is only one, the other one is on the screen.",
+                "Key words": "Everyday Objects,"
+            },
+            {
+                "UID": 5325,
+                "Timestamp": "4:10",
+                "Question type": "Contextual Reasoning",
+                "Question": "At 4:10 of the video, how was the man walking to the stage as a participant selected?",
+                "Answer": "By another participant randomly throwing a ball and it landing on him.",
+                "Key words": "Everyday Objects,"
+            },
+            {
+                "UID": 5326,
+                "Timestamp": "5:35",
+                "Question type": "Contextual Reasoning",
+                "Question": "At 5:35 of the video, what stuffed animal was shown by both the man on the stage and on the screen?",
+                "Answer": "Both showed at least one stuffed parrot.",
+                "Key words": "Everyday Objects,"
+            },
+            {
+                "UID": 5327,
+                "Timestamp": "5:40",
+                "Question type": "Adversarial, False Implication",
+                "Question": "At 5:40 of the video, how many green stuffed animals are shown currently? Give me your answer and reason.",
+                "Answer": "None they are red.",
+                "Key words": "Everyday Objects,"
+            },
+            {
+                "UID": 5328,
+                "Timestamp": "5:57",
+                "Question type": "Contextual Reasoning",
+                "Question": "At 5:57 of the video, what stuffed animal did the man on stage pick?",
+                "Answer": "He picked a brown monkey.",
+                "Key words": "Everyday Objects,"
+            },
+            {
+                "UID": 5329,
+                "Timestamp": "6:43",
+                "Question type": "Instant Reasoning",
+                "Question": "At 6:43 of the video, what is the man on the screen holding?",
+                "Answer": "He is holding an envelope with a paper in it.",
+                "Key words": "Everyday Objects,"
+            },
+            {
+                "UID": 5330,
+                "Timestamp": "6:45",
+                "Question type": "Paradoxical Reasoning",
+                "Question": "At 6:45 of the video, why is the paper the man on the screen surprising?",
+                "Answer": "It predicted the selection of the man on the stage.",
+                "Key words": "Everyday Objects,"
+            }
+        ],
+        "metadata": {
+            "start": "1:48"
+        }
+    },
+    "xzzx6tUlspM": {
+        "Questions": [
+            {
+                "UID": 5331,
+                "Timestamp": "1:00",
+                "Question type": "Adversarial, False Statement",
+                "Question": "At 1:00 of the video, what are the 5 living creatures on the stage (humans count)? Give me your answer and reason.",
+                "Answer": "There are 2, not 5.",
+                "Key words": "Cardtricks"
+            },
+            {
+                "UID": 5332,
+                "Timestamp": "1:00",
+                "Question type": "Contextual Reasoning",
+                "Question": "At 1:00 of the video, what is the similarity between the dog and the human on the stage?",
+                "Answer": "They are both wearing a green outfit.",
+                "Key words": "Cardtricks"
+            },
+            {
+                "UID": 5333,
+                "Timestamp": "2:00",
+                "Question type": "Contextual Reasoning",
+                "Question": "At 2:00 of the video, what card is the signed card? Give its suit and rank.",
+                "Answer": "It is the Ace of Spades.",
+                "Key words": "Cardtricks"
+            },
+            {
+                "UID": 5334,
+                "Timestamp": "3:22",
+                "Question type": "Adversarial, False Implication",
+                "Question": "At 3:22 of the video, does the man present the ace of spades? Give me your answer and reason.",
+                "Answer": "No he presents the Ace of hearts.",
+                "Key words": "Cardtricks"
+            },
+            {
+                "UID": 5335,
+                "Timestamp": "3:22",
+                "Question type": "Adversarial, False Implication",
+                "Question": "At 3:22 of the video, is the ace of hearts the signed card from earlier? Give me your answer and reason.",
+                "Answer": "No it is not, it does not have signature on.",
+                "Key words": "Cardtricks"
+            },
+            {
+                "UID": 5336,
+                "Timestamp": "3:51",
+                "Question type": "Paradoxical Reasoning",
+                "Question": "At 3:51 of the video, why are people surprised?",
+                "Answer": "The card was hidden in the sealed dog food can.",
+                "Key words": "Cardtricks"
+            },
+            {
+                "UID": 5337,
+                "Timestamp": "3:53",
+                "Question type": "Contextual Reasoning",
+                "Question": "At 3:53 of the video, is the card shown the signed card from earlier?",
+                "Answer": "Yes it is.",
+                "Key words": "Cardtricks"
+            }
+        ],
+        "metadata": {
+            "start": "0:47"
+        }
+    },
+    "yeYvdijgK-M": {
+        "Questions": [
+            {
+                "UID": 5338,
+                "Timestamp": "1:37",
+                "Question type": "Adversarial, False Statement",
+                "Question": "At 1:37 of the video, since there are 5 wooden boards on the stage what are the number written on each one? Give me your answer and reason.",
+                "Answer": "There are only 4 wooden boards.",
+                "Key words": "Everyday Objects, Predictions"
+            },
+            {
+                "UID": 5339,
+                "Timestamp": "2:14",
+                "Question type": "Contextual Reasoning",
+                "Question": "At 2:14 of the video, what is the relationship between the images on the boards and the audience?",
+                "Answer": "The images are of 4 members of the audience (the judges).",
+                "Key words": "Everyday Objects, Predictions"
+            },
+            {
+                "UID": 5340,
+                "Timestamp": "2:27",
+                "Question type": "Contextual Reasoning",
+                "Question": "At 2:27 of the video, what is written/drawn on each paper being shown?",
+                "Answer": "US states and cities are being shown.",
+                "Key words": "Everyday Objects, Predictions"
+            },
+            {
+                "UID": 5341,
+                "Timestamp": "3:03",
+                "Question type": "Contextual Reasoning",
+                "Question": "At 3:03 of the video, what is happening to the card?",
+                "Answer": "It is being ripped.",
+                "Key words": "Everyday Objects, Predictions"
+            },
+            {
+                "UID": 5342,
+                "Timestamp": "3:04",
+                "Question type": "Contextual Reasoning",
+                "Question": "At 3:04 of the video, into how many pieces is the card ripped?",
+                "Answer": "It is ripped into 2 pieces.",
+                "Key words": "Everyday Objects, Predictions"
+            },
+            {
+                "UID": 5343,
+                "Timestamp": "3:07",
+                "Question type": "Contextual Reasoning",
+                "Question": "At 3:07 of the video, who was given the larger part of the ripped card?",
+                "Answer": "The woman on the left in the image (pink, glittery and brown hair), was given the larger piece.",
+                "Key words": "Everyday Objects, Predictions"
+            },
+            {
+                "UID": 5344,
+                "Timestamp": "3:22",
+                "Question type": "Contextual Reasoning",
+                "Question": "At 3:22 of the video what was hidden under the paper?",
+                "Answer": "The ripped card piece was being hidden.",
+                "Key words": "Everyday Objects, Predictions"
+            },
+            {
+                "UID": 5345,
+                "Timestamp": "3:22",
+                "Question type": "Paradoxical Reasoning",
+                "Question": "At 3:22 of the video, why is the location of the card piece surprising to the audience?",
+                "Answer": "The man did not seem to hide it under the papers. It magically appeared there.",
+                "Key words": "Everyday Objects, Predictions"
+            },
+            {
+                "UID": 5346,
+                "Timestamp": "6:59",
+                "Question type": "Paradoxical Reasoning",
+                "Question": "At 6:59 of the video, why are the people so surprised?",
+                "Answer": "The magician made many predictions about what the people would select.",
+                "Key words": "Everyday Objects, Predictions"
+            }
+        ],
+        "metadata": {
+            "start": "0:19"
+        }
+    },
+    "zPokvEuncM0": {
+        "Questions": [
+            {
+                "UID": 5347,
+                "Timestamp": "0:06",
+                "Question type": "Adversarial, False Implication",
+                "Question": "At 0:06 of the video, how many pink rings are there on the man's fingers? Give me your answer and reason.",
+                "Answer": "There are no pink rings.",
+                "Key words": "Illusions, Sleight Of Hand"
+            },
+            {
+                "UID": 5348,
+                "Timestamp": "0:08",
+                "Question type": "Paradoxical Reasoning",
+                "Question": "At 0:08 of the video, why is the audience surprised about what just happened?",
+                "Answer": "The man just pulled the ring through his finger.",
+                "Key words": "Illusions, Sleight Of Hand"
+            },
+            {
+                "UID": 5349,
+                "Timestamp": "0:23",
+                "Question type": "Adversarial, False Statement",
+                "Question": "At 0:23 of the video, which finger did the man place the pink ring on? Give me your answer and reason.",
+                "Answer": "There is no pink ring.",
+                "Key words": "Illusions, Sleight Of Hand"
+            },
+            {
+                "UID": 5350,
+                "Timestamp": "0:38",
+                "Question type": "Paradoxical Reasoning",
+                "Question": "At 0:38 of the video, why is the audience surprised about what happened to the ring?",
+                "Answer": "It moved off the man's finger by seemingly moving through it.",
+                "Key words": "Illusions, Sleight Of Hand"
+            },
+            {
+                "UID": 5351,
+                "Timestamp": "1:10",
+                "Question type": "Paradoxical Reasoning",
+                "Question": "At 1:10 of the video, what happened that surprised the people?",
+                "Answer": "The man's finger seemed to have popped off.",
+                "Key words": "Illusions, Sleight Of Hand"
+            },
+            {
+                "UID": 5352,
+                "Timestamp": "1:24",
+                "Question type": "Adversarial, False Statement",
+                "Question": "At 1:24 of the video, what is the magician doing with the 7 fingers on his left hand? Give me your answer and reason.",
+                "Answer": "He only has 5 fingers on his left hand.",
+                "Key words": "Illusions, Sleight Of Hand"
+            },
+            {
+                "UID": 5353,
+                "Timestamp": "2:16",
+                "Question type": "Paradoxical Reasoning",
+                "Question": "At 2:16 of the video, what has the man placed on the table surprised the audience about?",
+                "Answer": "He has placed one of his fingers on the table.",
+                "Key words": "Illusions, Sleight Of Hand"
+            },
+            {
+                "UID": 5354,
+                "Timestamp": "2:35",
+                "Question type": "Temporal Summarization",
+                "Question": "At 2:35 of the video, what was the main theme of the magician's tricks?",
+                "Answer": "He was moving objects and body parts in unnatural ways.",
+                "Key words": "Illusions, Sleight Of Hand"
+            }
+        ],
+        "metadata": {
+            "start": "0:00"
+        }
+    },
+    "zQmTRj96YEM": {
+        "Questions": [
+            {
+                "UID": 5355,
+                "Timestamp": "1:33",
+                "Question type": "Instant Reasoning",
+                "Question": "At 1:33 of the video, what is on the table?",
+                "Answer": "2 boxes are on the table.",
+                "Key words": "Cardtricks, Disappearing Objects."
+            },
+            {
+                "UID": 5356,
+                "Timestamp": "2:28",
+                "Question type": "Contextual Reasoning",
+                "Question": "At 2:28 of the video, where did the glass the man is holding come from?",
+                "Answer": "It came from one of the locked boxes.",
+                "Key words": "Cardtricks, Disappearing Objects."
+            },
+            {
+                "UID": 5357,
+                "Timestamp": "2:48",
+                "Question type": "Contextual Reasoning",
+                "Question": "At 2:48 of the video, where did the smaller box go?",
+                "Answer": "It went into the larger box.",
+                "Key words": "Cardtricks, Disappearing Objects."
+            },
+            {
+                "UID": 5358,
+                "Timestamp": "4:15",
+                "Question type": "Instant Reasoning",
+                "Question": "At 4:15 of the video how many cards are there in the man's hand?",
+                "Answer": "There are 3 cards in his hand.",
+                "Key words": "Cardtricks, Disappearing Objects."
+            },
+            {
+                "UID": 5359,
+                "Timestamp": "4:23",
+                "Question type": "Paradoxical Reasoning",
+                "Question": "At 4:20 of the video, why are the people surprised about what happened?",
+                "Answer": "One of the three cards disappeared.",
+                "Key words": "Cardtricks, Disappearing Objects."
+            },
+            {
+                "UID": 5360,
+                "Timestamp": "4:24",
+                "Question type": "Contextual Reasoning",
+                "Question": "At 4:24 of the video, where did the disappearing card go?",
+                "Answer": "It is probably in the box.",
+                "Key words": "Cardtricks, Disappearing Objects."
+            },
+            {
+                "UID": 5361,
+                "Timestamp": "4:44",
+                "Question type": "Paradoxical Reasoning",
+                "Question": "At 4:44 of the video, why are the people surprised?",
+                "Answer": "The disappearing card appeared in the glass bottle through by going through 2 metal boxes.",
+                "Key words": "Cardtricks, Disappearing Objects."
+            },
+            {
+                "UID": 5362,
+                "Timestamp": "4:46",
+                "Question type": "Temporal Summarization",
+                "Question": "At 4:46 of the video, what was the main trick of the video? The one the was the main trick being built up to over the course of the video.",
+                "Answer": "The main trick was making the card appear in the originally empty, sealed bottle, hidden in two metal boxes.",
+                "Key words": "Cardtricks, Disappearing Objects."
+            }
+        ],
+        "metadata": {
+            "start": "1:12"
+        }
+    },
+    "9HNGHNDVZgE": {
+        "Questions": [
+            {
+                "UID": 5500,
+                "Timestamp": "0:22",
+                "Question type": "Adversarial, False Statement",
+                "Key words": "Bird Trick",
+                "Question": "At 0:22 of the video, 'King of Bears' is written on the magician's back. How does this relate to his grand entrance? Give me your answer and reason.",
+                "Answer": "'King of Birds' is written on his back, which matches his grand entrance as he arrives on stage riding a large bird prop."
+            },
+            {
+                "UID": 5501,
+                "Timestamp": "0:30",
+                "Question type": "Contextual Reasoning",
+                "Key words": "Bird Trick",
+                "Question": "At 0:30 of the video, what is in the man's hand?",
+                "Answer": "He's holding a bird."
+            },
+            {
+                "UID": 5502,
+                "Timestamp": "0:42",
+                "Question type": "Paradoxical Reasoning",
+                "Key words": "Bird Trick",
+                "Question": "At 0:42 of the video, why are the people surprised?",
+                "Answer": "Because he turned one bird into 2 birds."
+            },
+            {
+                "UID": 5503,
+                "Timestamp": "0:44",
+                "Question type": "Paradoxical Reasoning",
+                "Key words": "Bird Trick",
+                "Question": "At 0:44 of the video, why are the people surprised?",
+                "Answer": "Because he turned 2 birds into 1 bird; the other bird disappeared."
+            },
+            {
+                "UID": 5504,
+                "Timestamp": "1:06",
+                "Question type": "Paradoxical Reasoning",
+                "Key words": "Bird Trick",
+                "Question": "At 1:06 of the video, why are the people surprised?",
+                "Answer": "Because he made 2 birds stand on his arm."
+            },
+            {
+                "UID": 5505,
+                "Timestamp": "1:06",
+                "Question type": "Contextual Reasoning",
+                "Key words": "Bird Trick",
+                "Question": "At 1:06 of the video, how many birds are on the stage?",
+                "Answer": "Now we have 4 birds on the stage."
+            },
+            {
+                "UID": 5506,
+                "Timestamp": "2:17",
+                "Question type": "Temporal Summarization",
+                "Key words": "Bird Trick",
+                "Question": "At 2:17 of the video, how many cards has the magician handed out so far?",
+                "Answer": "He has handed out 3 cards so far."
+            },
+            {
+                "UID": 5507,
+                "Timestamp": "3:03",
+                "Question type": "Paradoxical Reasoning",
+                "Key words": "Bird Trick",
+                "Question": "At 3:03 of the video, why are the people surprised?",
+                "Answer": "Because the card matched the bird that the magician just generated."
+            },
+            {
+                "UID": 5508,
+                "Timestamp": "4:29",
+                "Question type": "Contextual Reasoning",
+                "Key words": "Bird Trick",
+                "Question": "At 4:29 of the video, how many birds are on this man, excluding the one he is holding in his hand?",
+                "Answer": "There are 5 birds on the man."
+            },
+            {
+                "UID": 5509,
+                "Timestamp": "4:36",
+                "Question type": "Paradoxical Reasoning",
+                "Key words": "Bird Trick",
+                "Question": "At 4:36 of the video, why are the people surprised?",
+                "Answer": "Because when the magician changed the position of the object that he was holding, it matched the card of the judge."
+            }
+        ],
+        "metadata": {
+            "start": "0:00"
+        }
+    },
+    "k6LCUggzF_w": {
+        "Questions": [
+            {
+                "UID": 5510,
+                "Timestamp": "1:38",
+                "Question type": "Adversarial, False Statement",
+                "Key words": "Move Trick",
+                "Question": "At 1:38 of the video, the woman in pink draws a piece of paper from a set of different colors. What color is the piece of paper she draws? Give me your answer and reason.",
+                "Answer": "There are no different colors; all the pieces of paper are white."
+            },
+            {
+                "UID": 5511,
+                "Timestamp": "2:55",
+                "Question type": "Adversarial, False Statement",
+                "Key words": "Move Trick",
+                "Question": "At 2:55 of the video, is the person on the right raised platform behind the red curtain male or female? Give me your answer and reason.",
+                "Answer": "There is no one behind the red curtain on the right raised platform."
+            },
+            {
+                "UID": 5512,
+                "Timestamp": "3:03",
+                "Question type": "Paradoxical Reasoning",
+                "Key words": "Move Trick",
+                "Question": "At 3:03 of the video, why are the people watching surprised?",
+                "Answer": "Because the woman changed places from the left higher platform to the right higher platform in the image."
+            },
+            {
+                "UID": 5513,
+                "Timestamp": "4:03",
+                "Question type": "Adversarial, False Statement",
+                "Key words": "Move Trick",
+                "Question": "At 4:03 of the video, there are four people in total standing on the raised platforms. How many of them have their eyes blindfolded? Give me your answer and reason.",
+                "Answer": "There are only three people in total standing on the raised platforms. Two of them have their eyes blindfolded."
+            },
+            {
+                "UID": 5514,
+                "Timestamp": "4:13",
+                "Question type": "Paradoxical Reasoning",
+                "Key words": "Move Trick",
+                "Question": "At 4:13 of the video, why are the people watching surprised?",
+                "Answer": "Because the man changed places from the left raised platform to the right raised platform in the image."
+            },
+            {
+                "UID": 5515,
+                "Timestamp": "4:52",
+                "Question type": "Contextual Reasoning",
+                "Key words": "Move Trick",
+                "Question": "At 4:52 of the video, what is the magician doing?",
+                "Answer": "He is taking a shoe from a woman."
+            },
+            {
+                "UID": 5516,
+                "Timestamp": "5:21",
+                "Question type": "Paradoxical Reasoning",
+                "Key words": "Move Trick",
+                "Question": "At 5:21 of the video, why is the audience surprised?",
+                "Answer": "Because the magician changed the positions of 2 people to his side."
+            },
+            {
+                "UID": 5517,
+                "Timestamp": "5:28",
+                "Question type": "Contextual Reasoning",
+                "Key words": "Move Trick",
+                "Question": "At 5:28 of the video, where is the shoe that the magician was previously holding?",
+                "Answer": "It transferred to where the magician currently is, held by a woman."
+            },
+            {
+                "UID": 5518,
+                "Timestamp": "5:49",
+                "Question type": "Contextual Reasoning",
+                "Key words": "Move Trick",
+                "Question": "At 5:49 of the video, what is in the magician's hand?",
+                "Answer": "It is the white shoe."
+            },
+            {
+                "UID": 5519,
+                "Timestamp": "6:01",
+                "Question type": "Contextual Reasoning",
+                "Key words": "Move Trick",
+                "Question": "At 6:01 of the video, where were those people who currently stand on the stage previously?",
+                "Answer": "They were previously sitting in the audience's seats."
+            }
+        ],
+        "metadata": {
+            "start": "0:52"
+        }
+    },
+    "ac6SRIHeCZs": {
+        "Questions": [
+            {
+                "UID": 5520,
+                "Timestamp": "0:32",
+                "Question type": "Contextual Reasoning",
+                "Key words": "Bird Trick",
+                "Question": "At 0:32 of the video, what is the blue thing on this man's clothes?",
+                "Answer": "He has blue feathers on his clothes."
+            },
+            {
+                "UID": 5521,
+                "Timestamp": "0:34",
+                "Question type": "Contextual Reasoning",
+                "Key words": "Bird Trick",
+                "Question": "At 0:34 of the video, is the man walking or sliding through the stage?",
+                "Answer": "The man is sliding through the stage."
+            },
+            {
+                "UID": 5522,
+                "Timestamp": "0:47",
+                "Question type": "Paradoxical Reasoning",
+                "Key words": "Bird Trick",
+                "Question": "At 0:47 of the video, why are the people surprised? Please do not miss the detailed description.",
+                "Answer": "Because the man turned a paper into a white bird, and it came with fire."
+            },
+            {
+                "UID": 5523,
+                "Timestamp": "1:16",
+                "Question type": "Contextual Reasoning",
+                "Key words": "Bird Trick",
+                "Question": "At 1:16 of the video, is the man walking or sliding through the stage?",
+                "Answer": "The man is walking through the stage."
+            },
+            {
+                "UID": 5524,
+                "Timestamp": "1:22",
+                "Question type": "Adversarial, False Statement",
+                "Key words": "Bird Trick",
+                "Question": "At 1:22 of the video, the magician is holding a sock in his hands. Is it for his left or right foot? Give me your answer and reason.",
+                "Answer": "The magician is not holding a sock; he is holding his gloves."
+            },
+            {
+                "UID": 5525,
+                "Timestamp": "1:52",
+                "Question type": "Paradoxical Reasoning",
+                "Key words": "Bird Trick",
+                "Question": "At 1:52 of the video, why are the people surprised?",
+                "Answer": "The audience is surprised because he generated a bottle of wine from a newspaper."
+            },
+            {
+                "UID": 5526,
+                "Timestamp": "1:53",
+                "Question type": "Contextual Reasoning",
+                "Key words": "Bird Trick",
+                "Question": "At 1:53 of the video, what is the object in the man's mouth?",
+                "Answer": "He has a feather in his mouth."
+            },
+            {
+                "UID": 5527,
+                "Timestamp": "1:56",
+                "Question type": "Temporal Summarization",
+                "Key words": "Bird Trick",
+                "Question": "At 1:56 of the video, can you summarize the scene and tell me why the people are surprised?",
+                "Answer": "The audience is surprised because the man turned a feather into a bird."
+            },
+            {
+                "UID": 5528,
+                "Timestamp": "2:21",
+                "Question type": "Contextual Reasoning",
+                "Key words": "Bird Trick",
+                "Question": "At 2:21 of the video, what is the man doing?",
+                "Answer": "He is pouring liquid into the newspaper."
+            },
+            {
+                "UID": 5529,
+                "Timestamp": "2:47",
+                "Question type": "Paradoxical Reasoning",
+                "Key words": "Bird Trick",
+                "Question": "At 2:47 of the video, why are people surprised?",
+                "Answer": "Because we saw that the liquid came out of the newspaper and poured onto the ground of the stage; now it can be poured back into the glass from the newspaper."
+            }
+        ],
+        "metadata": {
+            "start": "0:24"
+        }
+    },
+    "TJX-z0O9TOE": {
+        "Questions": [
+            {
+                "UID": 5540,
+                "Timestamp": "1:14",
+                "Question type": "Adversarial, False Statement",
+                "Key words": "Card Trick",
+                "Question": "At 1:14 of the video, is the card that the participant sitting on the left in the image is holding signed? Give me your answer and reason.",
+                "Answer": "The participant on the left in the image is not holding anything."
+            },
+            {
+                "UID": 5541,
+                "Timestamp": "1:21",
+                "Question type": "Adversarial, False Implication",
+                "Key words": "Card Trick",
+                "Question": "At 1:21 of the video, what is the card in the middle of the table that no one is touching? Is it a regular card? Give me your answer and reason.",
+                "Answer": "No, it is not a regular card. It is a card with a signature on it."
+            },
+            {
+                "UID": 5542,
+                "Timestamp": "1:38",
+                "Question type": "Contextual Reasoning",
+                "Key words": "Card Trick",
+                "Question": "At 1:38 of the video, how many cards is the magician holding?",
+                "Answer": "He is holding 2 cards right now."
+            },
+            {
+                "UID": 5543,
+                "Timestamp": "2:36",
+                "Question type": "Paradoxical Reasoning",
+                "Key words": "Card Trick",
+                "Question": "At 2:36 of the video, why are the people surprised?",
+                "Answer": "The audience is surprised because he put the signed card on the table, but now it appears in his hand."
+            },
+            {
+                "UID": 5544,
+                "Timestamp": "2:45",
+                "Question type": "Contextual Reasoning",
+                "Key words": "Card Trick",
+                "Question": "At 2:45 of the video, what is the card in this man's hand?",
+                "Answer": "It is the card with a signature on it."
+            },
+            {
+                "UID": 5545,
+                "Timestamp": "4:06",
+                "Question type": "Paradoxical Reasoning",
+                "Key words": "Card Trick",
+                "Question": "At 4:06 of the video, why are the people surprised?",
+                "Answer": "The audience is surprised because he transferred a bunch of red cards into another hand."
+            },
+            {
+                "UID": 5546,
+                "Timestamp": "5:15",
+                "Question type": "Contextual Reasoning",
+                "Key words": "Card Trick",
+                "Question": "At 5:15 of the video, was he looking at the watch at some time in the video?",
+                "Answer": "Yes, he looked at least once."
+            },
+            {
+                "UID": 5547,
+                "Timestamp": "5:51",
+                "Question type": "Adversarial, False Implication",
+                "Key words": "Card Trick",
+                "Question": "At 5:51 of the video, is he holding a regular card? Give me your answer and reason.",
+                "Answer": "No, he is holding the card with a signature on it."
+            },
+            {
+                "UID": 5548,
+                "Timestamp": "7:13",
+                "Question type": "Contextual Reasoning",
+                "Key words": "Card Trick",
+                "Question": "At 7:13 of the video, what is he doing?",
+                "Answer": "He is eating chips."
+            },
+            {
+                "UID": 5549,
+                "Timestamp": "8:24",
+                "Question type": "Adversarial, False Implication",
+                "Key words": "Card Trick",
+                "Question": "At 8:24 of the video, how many cards has the man put into the bag of chips? Give me your answer and reason.",
+                "Answer": "He has not put any cards into the bag of chips."
+            },
+            {
+                "UID": 5550,
+                "Timestamp": "8:32",
+                "Question type": "Adversarial, False Implication",
+                "Key words": "Card Trick",
+                "Question": "At 8:32 of the video, is he holding the card that has a signature on it? Give me your answer and reason.",
+                "Answer": "No, he is not holding the signature card, there's no signature on it."
+            }
+        ],
+        "metadata": {
+            "start": "0:31"
+        }
+    },
+    "8VyVaVCCAUM": {
+        "Questions": [
+            {
+                "UID": 5530,
+                "Timestamp": "0:21",
+                "Question type": "Paradoxical Reasoning",
+                "Key words": "Multi-Object Trick",
+                "Question": "At 0:21 of the video, why are people surprised?",
+                "Answer": "Because now he is wearing the orange glasses that were previously on the book."
+            },
+            {
+                "UID": 5531,
+                "Timestamp": "0:39",
+                "Question type": "Paradoxical Reasoning",
+                "Key words": "Multi-Object Trick",
+                "Question": "At 0:39 of the video, why are the people surprised?",
+                "Answer": "Because he took a watch from a book and put it on himself in a second."
+            },
+            {
+                "UID": 5532,
+                "Timestamp": "0:47",
+                "Question type": "Contextual Reasoning",
+                "Key words": "Multi-Object Trick",
+                "Question": "At 0:47 of the video, what changed about the book?",
+                "Answer": "Previously the book had a white shirt with one blue tie and one red tie; now the two ties are gone."
+            },
+            {
+                "UID": 5533,
+                "Timestamp": "0:52",
+                "Question type": "Paradoxical Reasoning",
+                "Key words": "Multi-Object Trick",
+                "Question": "At 0:52 of the video, why are the people surprised?",
+                "Answer": "Because he changed the shirt he is wearing into the same picture the book had before."
+            },
+            {
+                "UID": 5534,
+                "Timestamp": "1:08",
+                "Question type": "Paradoxical Reasoning",
+                "Key words": "Multi-Object Trick",
+                "Question": "At 1:08 of the video, why are the people surprised?",
+                "Answer": "Because he turned the book into a shoe box."
+            },
+            {
+                "UID": 5535,
+                "Timestamp": "1:27",
+                "Question type": "Contextual Reasoning",
+                "Key words": "Multi-Object Trick",
+                "Question": "At 1:27 of the video, what happened?",
+                "Answer": "The magician fell off the stage."
+            },
+            {
+                "UID": 5536,
+                "Timestamp": "1:53",
+                "Question type": "Temporal Summarization",
+                "Key words": "Multi-Object Trick",
+                "Question": "From 1:44 to 1:53 of the video, can you summarize what the magician has done?",
+                "Answer": "He turned a book into a shopping bag, and then took some black item (looks like a black cloth) out of the bag."
+            },
+            {
+                "UID": 5537,
+                "Timestamp": "2:08",
+                "Question type": "Contextual Reasoning",
+                "Key words": "Multi-Object Trick",
+                "Question": "At 2:08 of the video, is he wearing the same shoes that one of the books had a picture of before?",
+                "Answer": "Yes, he is wearing the same shoes."
+            },
+            {
+                "UID": 5538,
+                "Timestamp": "2:28",
+                "Question type": "Paradoxical Reasoning",
+                "Key words": "Multi-Object Trick",
+                "Question": "At 2:28 of the video, why are the people surprised?",
+                "Answer": "Because he turned books into bags."
+            },
+            {
+                "UID": 5539,
+                "Timestamp": "2:30",
+                "Question type": "Contextual Reasoning",
+                "Key words": "Multi-Object Trick",
+                "Question": "At 2:30 of the video, how many shopping bags is the magician holding?",
+                "Answer": "The magician is holding four shopping bags."
+            }
+        ],
+        "metadata": {
+            "start": "0:03"
+        }
+    }
+}
