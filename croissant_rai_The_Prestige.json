@@ -1,0 +1,304 @@
+{
+  "@context": {
+    "@language": "en",
+    "@vocab": "https://schema.org/",
+    "arrayShape": "cr:arrayShape",
+    "citeAs": "cr:citeAs",
+    "column": "cr:column",
+    "conformsTo": "dct:conformsTo",
+    "containedIn": "cr:containedIn",
+    "cr": "http://mlcommons.org/croissant/",
+    "data": {
+      "@id": "cr:data",
+      "@type": "@json"
+    },
+    "dataBiases": "cr:dataBiases",
+    "dataCollection": "cr:dataCollection",
+    "dataType": {
+      "@id": "cr:dataType",
+      "@type": "@vocab"
+    },
+    "dct": "http://purl.org/dc/terms/",
+    "extract": "cr:extract",
+    "field": "cr:field",
+    "fileProperty": "cr:fileProperty",
+    "fileObject": "cr:fileObject",
+    "fileSet": "cr:fileSet",
+    "format": "cr:format",
+    "includes": "cr:includes",
+    "isArray": "cr:isArray",
+    "isLiveDataset": "cr:isLiveDataset",
+    "jsonPath": "cr:jsonPath",
+    "key": "cr:key",
+    "md5": "cr:md5",
+    "parentField": "cr:parentField",
+    "path": "cr:path",
+    "personalSensitiveInformation": "cr:personalSensitiveInformation",
+    "recordSet": "cr:recordSet",
+    "references": "cr:references",
+    "regex": "cr:regex",
+    "repeated": "cr:repeated",
+    "replace": "cr:replace",
+    "sc": "https://schema.org/",
+    "separator": "cr:separator",
+    "source": "cr:source",
+    "subField": "cr:subField",
+    "transform": "cr:transform",
+    "rai": "http://mlcommons.org/croissant/RAI/",
+    "prov": "http://www.w3.org/ns/prov#",
+    "examples": {
+      "@id": "cr:examples",
+      "@type": "@json"
+    },
+    "equivalentProperty": "cr:equivalentProperty",
+    "samplingRate": "cr:samplingRate"
+  },
+  "@type": "sc:Dataset",
+  "distribution": [
+    {
+      "@type": "cr:FileObject",
+      "@id": "repo",
+      "name": "repo",
+      "description": "The Hugging Face git repository.",
+      "contentUrl": "https://huggingface.co/datasets/SediRockStar/The_Prestige/tree/refs%2Fconvert%2Fparquet",
+      "encodingFormat": "git+https",
+      "sha256": "https://github.com/mlcommons/croissant/issues/80"
+    },
+    {
+      "@type": "cr:FileSet",
+      "@id": "parquet-files-for-config-default",
+      "containedIn": {
+        "@id": "repo"
+      },
+      "encodingFormat": "application/x-parquet",
+      "includes": "default/*/*.parquet"
+    }
+  ],
+  "recordSet": [
+    {
+      "@type": "cr:RecordSet",
+      "dataType": "cr:Split",
+      "key": {
+        "@id": "default_splits/split_name"
+      },
+      "@id": "default_splits",
+      "name": "default_splits",
+      "description": "Splits for the default config.",
+      "field": [
+        {
+          "@type": "cr:Field",
+          "@id": "default_splits/split_name",
+          "dataType": "sc:Text"
+        }
+      ],
+      "data": [
+        {
+          "default_splits/split_name": "test"
+        }
+      ]
+    },
+    {
+      "@type": "cr:RecordSet",
+      "@id": "default",
+      "description": "SediRockStar/The_Prestige - 'default' subset",
+      "field": [
+        {
+          "@type": "cr:Field",
+          "@id": "default/split",
+          "dataType": "sc:Text",
+          "source": {
+            "fileSet": {
+              "@id": "parquet-files-for-config-default"
+            },
+            "extract": {
+              "fileProperty": "fullpath"
+            },
+            "transform": {
+              "regex": "default/(?:partial-)?(test)/.+parquet$"
+            }
+          },
+          "references": {
+            "field": {
+              "@id": "default_splits/split_name"
+            }
+          }
+        },
+        {
+          "@type": "cr:Field",
+          "@id": "default/UID",
+          "dataType": "cr:Int64",
+          "source": {
+            "fileSet": {
+              "@id": "parquet-files-for-config-default"
+            },
+            "extract": {
+              "column": "UID"
+            }
+          }
+        },
+        {
+          "@type": "cr:Field",
+          "@id": "default/video_id",
+          "dataType": "sc:Text",
+          "source": {
+            "fileSet": {
+              "@id": "parquet-files-for-config-default"
+            },
+            "extract": {
+              "column": "video_id"
+            }
+          }
+        },
+        {
+          "@type": "cr:Field",
+          "@id": "default/start",
+          "dataType": "sc:Text",
+          "source": {
+            "fileSet": {
+              "@id": "parquet-files-for-config-default"
+            },
+            "extract": {
+              "column": "start"
+            }
+          }
+        },
+        {
+          "@type": "cr:Field",
+          "@id": "default/Timestamp",
+          "dataType": "sc:Text",
+          "source": {
+            "fileSet": {
+              "@id": "parquet-files-for-config-default"
+            },
+            "extract": {
+              "column": "Timestamp"
+            }
+          }
+        },
+        {
+          "@type": "cr:Field",
+          "@id": "default/Question_type",
+          "dataType": "sc:Text",
+          "source": {
+            "fileSet": {
+              "@id": "parquet-files-for-config-default"
+            },
+            "extract": {
+              "column": "Question type"
+            }
+          }
+        },
+        {
+          "@type": "cr:Field",
+          "@id": "default/Key_words",
+          "dataType": "sc:Text",
+          "source": {
+            "fileSet": {
+              "@id": "parquet-files-for-config-default"
+            },
+            "extract": {
+              "column": "Key words"
+            }
+          }
+        },
+        {
+          "@type": "cr:Field",
+          "@id": "default/Question",
+          "dataType": "sc:Text",
+          "source": {
+            "fileSet": {
+              "@id": "parquet-files-for-config-default"
+            },
+            "extract": {
+              "column": "Question"
+            }
+          }
+        },
+        {
+          "@type": "cr:Field",
+          "@id": "default/Answer",
+          "dataType": "sc:Text",
+          "source": {
+            "fileSet": {
+              "@id": "parquet-files-for-config-default"
+            },
+            "extract": {
+              "column": "Answer"
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "conformsTo": [
+    "http://mlcommons.org/croissant/1.1",
+    "http://mlcommons.org/croissant/RAI/1.0"
+  ],
+  "name": "The_Prestige",
+  "description": "The Prestige: Benchmarking Cognitive Visual Reasoning using Magic Tricks (NeurIPS 2026, Track on Evaluations and Datasets). The Prestige is a video question-answering benchmark built from professional magic performances. Magicians deliberately misdirect their audience, so the questions take more than object recognition. A model has to track objects through a long routine, remember what was shown earlier, explain why a reveal surprises the audience, and reject questions that rest on false premises. The benchmark has 2,177 open-ended questions in six categories. Each question is anchored to a timestamp in a YouTube video and has a human-written reference answer. The videos are referenced by YouTube ID, belong to their creators, and are not redistributed. Paper: https://arxiv.org/abs/2610.38103. Website: https://stevvwen.github.io/prestige-website/. Code: https://github.com/stevvwen/The_prestige.",
+  "alternateName": [
+    "SediRockStar/The_Prestige",
+    "The Prestige"
+  ],
+  "creator": {
+    "@type": "Person",
+    "name": "Steve Wen",
+    "url": "https://huggingface.co/SediRockStar"
+  },
+  "keywords": [
+    "video-text-to-text",
+    "visual-question-answering",
+    "English",
+    "cc-by-nc-sa-4.0",
+    "1K<n<10K",
+    "arxiv:2610.38103",
+    "🇺🇸 Region: US",
+    "magic",
+    "Vision Language Models",
+    "Visual reasoning"
+  ],
+  "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "url": "https://huggingface.co/datasets/SediRockStar/The_Prestige",
+  "citeAs": "@article{wen2026prestige, title={The Prestige: Benchmarking Cognitive Visual Reasoning using Magic Tricks}, author={Wen, Shuo and Du, Beixi and Meriaux, Edwin and Shi, Junming and Si, Chloe and Meger, David and Precup, Doina and Dudek, Gregory}, journal={arXiv preprint arXiv:2610.38103}, year={2026}}",
+  "datePublished": "2026-11-06",
+  "version": "1.0.0",
+  "rai:dataLimitations": "This dataset features professional on-stage magic videos and does not expand to street magic videos.",
+  "rai:dataBiases": "The data specifically features Western-style magic performances. Very few magic performances from other cultures.",
+  "rai:personalSensitiveInformation": "None of the personal or sensitive information is present.",
+  "rai:dataUseCases": "The dataset evaluates the cognitive reasoning abilities of the Vision Language Models. The dataset is not intended to be used outside research purposes.",
+  "rai:dataSocialImpact": "The dataset enables more rigorous evaluations of the cognitive reasoning abilities of the Vision Language Models.",
+  "rai:hasSyntheticData": false,
+  "prov:wasDerivedFrom": [
+    {
+      "@id": "https://www.youtube.com/",
+      "prov:label": "YouTube",
+      "sc:license": "Standard YouTube license"
+    }
+  ],
+  "prov:wasGeneratedBy": [
+    {
+      "@type": "prov:Activity",
+      "prov:type": {
+        "@id": "https://www.wikidata.org/wiki/Q4929239"
+      },
+      "prov:label": "Video collection",
+      "sc:description": "Human agents to collect video candidates online"
+    },
+    {
+      "@type": "prov:Activity",
+      "prov:type": {
+        "@id": "https://www.wikidata.org/wiki/Q1172378"
+      },
+      "prov:label": "Data filtering",
+      "sc:description": "We filtered the data based on the criteria we established in the paper."
+    },
+    {
+      "@type": "prov:Activity",
+      "prov:type": {
+        "@id": "https://www.wikidata.org/wiki/Q109719325"
+      },
+      "prov:label": "Question annotation",
+      "sc:description": "We constructed the questions as described in the paper."
+    }
+  ]
+}
